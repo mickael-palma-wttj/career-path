@@ -66,7 +66,7 @@ This framework provides:
 → See [`CASE_STUDIES/`](CASE_STUDIES/) for real-world scenarios
 
 **Have a specific question?**
-→ [`FAQS/Career_Progression_FAQ.md`](FAQS/Career_Progression_FAQ.md)
+→ [`FAQS/README.md`](FAQS/README.md) - 37 questions organized across 15 categories
 
 ---
 
@@ -109,8 +109,23 @@ career-path/
 │   ├── Promoted_Too_Early.md
 │   └── The_Retention_Crisis.md
 │
-└── FAQS/                      # Common questions
-    └── Career_Progression_FAQ.md
+└── FAQS/                      # Common questions (37 questions, 15 files)
+    ├── README.md              # Master FAQ index & navigation
+    ├── 01_Career_Path_Questions.md
+    ├── 02_Management_vs_IC.md
+    ├── 03_Performance_and_Feedback.md
+    ├── 04_Difficult_Situations.md
+    ├── 05_Team_Dynamics.md
+    ├── 06_Growth_and_Development.md
+    ├── 07_Remote_Hybrid_Work.md
+    ├── 08_Compensation_and_Equity.md
+    ├── 09_Cross_Team_Organizational.md
+    ├── 10_Specialized_Situations.md
+    ├── 11_Manager_Self_Development.md
+    ├── 12_Technical_Debt_and_Growth.md
+    ├── 13_Feedback_Assessment_Challenges.md
+    ├── 14_Succession_and_Transitions.md
+    └── 15_Resources_and_Support.md
 ```
 
 See [`MANAGER_HANDBOOK_STRUCTURE.md`](MANAGER_HANDBOOK_STRUCTURE.md) for complete details.
@@ -284,7 +299,7 @@ See the [Brilliant but Difficult case study](CASE_STUDIES/Brilliant_but_Difficul
 See the [Management Question case study](CASE_STUDIES/The_Management_Question.md) for guidance.
 
 **For more questions:**
-See the comprehensive [Career Progression FAQ](FAQS/Career_Progression_FAQ.md).
+See the comprehensive [FAQ Index](FAQS/README.md) with 37 questions across 15 categories.
 
 ---
 

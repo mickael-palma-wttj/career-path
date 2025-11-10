@@ -196,44 +196,80 @@ Learn from detailed, realistic scenarios with solutions.
 
 ---
 
-## ❓ FAQ Documents (1 Comprehensive)
+## ❓ FAQ Documents (37 Questions Across 15 Categories)
 
-Quick answers to common questions.
+Quick answers to common questions, organized by topic for easy navigation.
 
-1. **[Career Progression FAQ](FAQS/Career_Progression_FAQ.md)**
-   - **General Career Path** (18 questions)
-     - How long at each level?
-     - What if IC is stuck?
-     - Can someone skip levels?
-     - What if no promotion budget?
-   
-   - **Management vs. IC Path** (2 questions)
-     - How to respond to management interest?
-     - Can someone switch back from management?
-   
-   - **Performance and Feedback** (3 questions)
-     - How to tell someone they're not ready?
-     - What if IC disagrees with rating?
-     - How often to give feedback?
-   
-   - **Difficult Situations** (4 questions)
-     - What if IC is underperforming?
-     - How to handle "brilliant but difficult"?
-     - What if promoted too early?
-     - How to respond when top performer is leaving?
-   
-   - **Team Dynamics** (2 questions)
-     - How to handle conflict between ICs?
-     - What if team lacks diversity?
-   
-   - **Growth and Development** (3 questions)
-     - How to help IC find motivation?
-     - Should IC work on what interests them?
-     - How to develop leadership in ICs?
-   
-   - **Resources and Support** (2 questions)
-     - What if I'm new to managing?
-     - Where to find more resources?
+**[Master FAQ Index](FAQS/README.md)** - Start here for all FAQ navigation
+
+### Individual FAQ Files:
+
+1. **[Career Path Questions](FAQS/01_Career_Path_Questions.md)** (4 questions)
+   - How long at each level?
+   - What if IC is stuck?
+   - Can someone skip levels?
+   - What if no promotion budget?
+
+2. **[Management vs. IC Path](FAQS/02_Management_vs_IC.md)** (2 questions)
+   - How to respond to management interest?
+   - Can someone switch back from management?
+
+3. **[Performance and Feedback](FAQS/03_Performance_and_Feedback.md)** (3 questions)
+   - How to tell someone they're not ready?
+   - What if IC disagrees with rating?
+   - How often to give feedback?
+
+4. **[Difficult Situations](FAQS/04_Difficult_Situations.md)** (4 questions)
+   - What if IC is underperforming?
+   - How to handle "brilliant but difficult"?
+   - What if promoted too early?
+   - How to respond when top performer is leaving?
+
+5. **[Team Dynamics](FAQS/05_Team_Dynamics.md)** (2 questions)
+   - How to handle conflict between ICs?
+   - What if team lacks diversity?
+
+6. **[Growth and Development](FAQS/06_Growth_and_Development.md)** (3 questions)
+   - How to help IC find motivation?
+   - Should IC work on what interests them?
+   - How to develop leadership in ICs?
+
+7. **[Remote/Hybrid Work](FAQS/07_Remote_Hybrid_Work.md)** (2 questions)
+   - How to assess performance for remote ICs fairly?
+   - How do career conversations differ for remote teams?
+
+8. **[Compensation & Equity](FAQS/08_Compensation_and_Equity.md)** (2 questions)
+   - How to handle compensation discussions during career conversations?
+   - What if an IC is at the right level but underpaid?
+
+9. **[Cross-Team & Organizational](FAQS/09_Cross_Team_Organizational.md)** (2 questions)
+   - What if an IC wants to transfer to another team?
+   - How to calibrate levels across teams/departments?
+
+10. **[Specialized Situations](FAQS/10_Specialized_Situations.md)** (3 questions)
+    - How to support IC returning from parental leave?
+    - What if IC has performance issues due to personal circumstances?
+    - How to develop ICs who are subject matter experts?
+
+11. **[Manager Self-Development](FAQS/11_Manager_Self_Development.md)** (2 questions)
+    - How do I know if I'm doing a good job developing my team?
+    - What if I have too many ICs to give adequate career attention?
+
+12. **[Technical Debt & Growth Balance](FAQS/12_Technical_Debt_and_Growth.md)** (2 questions)
+    - How to balance IC's growth goals with urgent business needs?
+    - What if growth opportunities require skills we don't use?
+
+13. **[Feedback & Assessment Challenges](FAQS/13_Feedback_Assessment_Challenges.md)** (2 questions)
+    - How to handle self-assessment inflation?
+    - What if peer feedback contradicts my assessment?
+
+14. **[Succession & Transitions](FAQS/14_Succession_and_Transitions.md)** (2 questions)
+    - How to prepare my team for my departure?
+    - What if I inherit a team with unclear/inconsistent levels?
+
+15. **[Resources and Support](FAQS/15_Resources_and_Support.md)** (2 questions)
+    - What if I'm new to managing?
+    - Where to find more resources?
 
 ---
 
@@ -279,22 +315,22 @@ Quick answers to common questions.
 **IC Feeling Stuck:**
 1. [The Stuck Senior Developer](CASE_STUDIES/The_Stuck_Senior_Developer.md)
 2. [How to Have Career Conversations](PRACTICAL_GUIDES/How_to_Have_Career_Conversations.md)
-3. [Career Progression FAQ](FAQS/Career_Progression_FAQ.md)
+3. [Career Path Questions FAQ](FAQS/01_Career_Path_Questions.md)
 
 **Difficult Behavior:**
 1. [Brilliant but Difficult](CASE_STUDIES/Brilliant_but_Difficult.md)
 2. [Feedback Delivery Guide](MANAGER_HANDBOOK/05_Feedback_Delivery.md)
-3. [How to Address Underperformance](PRACTICAL_GUIDES/How_to_Address_Underperformance.md)
+3. [Difficult Situations FAQ](FAQS/04_Difficult_Situations.md)
 
 **IC Asking About Management:**
 1. [The Management Question](CASE_STUDIES/The_Management_Question.md)
 2. [How to Have Career Conversations](PRACTICAL_GUIDES/How_to_Have_Career_Conversations.md)
-3. [Staff Developer Guide](CAREER_LEVEL_GUIDES/04_Staff_Developer.md) (show IC alternatives)
+3. [Management vs IC FAQ](FAQS/02_Management_vs_IC.md)
 
 **Retention Risk:**
 1. [The Retention Crisis](CASE_STUDIES/The_Retention_Crisis.md)
-2. [Career Progression FAQ](FAQS/Career_Progression_FAQ.md)
-3. [How to Have Career Conversations](PRACTICAL_GUIDES/How_to_Have_Career_Conversations.md)
+2. [Difficult Situations FAQ](FAQS/04_Difficult_Situations.md)
+3. [Compensation & Equity FAQ](FAQS/08_Compensation_and_Equity.md)
 
 ---
 
@@ -308,10 +344,10 @@ Quick answers to common questions.
 - Practical guides: 2
 - Templates: 5
 - Case studies: 5
-- FAQs: 1
+- FAQ files: 16 (1 index + 15 topic files with 37 questions)
 - Reference docs: 3 (README, MANAGER_HANDBOOK_STRUCTURE, INDEX, SUMMARY)
 
-**Total Content:** ~66,000 lines / ~180 pages equivalent
+**Total Content:** ~70,000 lines / ~190 pages equivalent
 
 **Estimated Reading Time:**
 - Core handbook (all 6 modules): 3-4 hours
@@ -349,7 +385,7 @@ Quick answers to common questions.
 → [Career Conversations Guide](PRACTICAL_GUIDES/How_to_Have_Career_Conversations.md)
 
 **Handle a difficult situation?**
-→ [Case Studies](CASE_STUDIES/) or [FAQ](FAQS/Career_Progression_FAQ.md)
+→ [Case Studies](CASE_STUDIES/) or [FAQ Index](FAQS/README.md)
 
 **Understand a specific level?**
 → [Career Level Guides](CAREER_LEVEL_GUIDES/)
@@ -361,7 +397,7 @@ Quick answers to common questions.
 → [Peer Feedback Template](TOOLS_TEMPLATES/Peer_Feedback_Template.md)
 
 **Answer a specific question?**
-→ [FAQ](FAQS/Career_Progression_FAQ.md)
+→ [FAQ Index](FAQS/README.md)
 
 ---
 
@@ -391,8 +427,8 @@ Use the "Navigation by Need" or "Quick Reference" sections above.
 Follow the "Suggested Reading Order" to build knowledge systematically.
 
 **Need Quick Answers?**
-Go straight to the [FAQ](FAQS/Career_Progression_FAQ.md).
+Go straight to the [FAQ Index](FAQS/README.md).
 
 ---
 
-**Pro Tip:** Bookmark this index and the FAQ for quick access to any content in the handbook.
+**Pro Tip:** Bookmark this index and the FAQ index for quick access to any content in the handbook.

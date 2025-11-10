@@ -24,7 +24,7 @@ A complete, production-ready manager's handbook with **25+ documents** covering:
 - 2 practical how-to guides (career conversations, underperformance)
 - 5 ready-to-use templates (1:1s, IDPs, promotion packets, PIPs, peer feedback)
 - 5 comprehensive case studies (real-world scenarios with solutions)
-- 1 detailed FAQ covering 32+ common questions
+- 16 FAQ files covering 37 questions across 15 categories
 - Complete navigation index
 
 ---
@@ -76,15 +76,24 @@ Each level includes:
 4. **Promoted Too Early** - Supporting someone promoted before ready
 5. **The Retention Crisis** - Top performer considering leaving
 
-### FAQs (1 comprehensive document)
-- 32+ common questions across 7 categories
-- General career path questions
-- Management vs. IC path
-- Performance and feedback
-- Difficult situations
-- Team dynamics
-- Growth and development
-- Resources and support
+### FAQs (16 focused files)
+- 37 questions across 15 categories
+- Master FAQ index with navigation
+- Career path questions (4 Q)
+- Management vs. IC path (2 Q)
+- Performance and feedback (3 Q)
+- Difficult situations (4 Q)
+- Team dynamics (2 Q)
+- Growth and development (3 Q)
+- Remote/hybrid work (2 Q)
+- Compensation & equity (2 Q)
+- Cross-team & organizational (2 Q)
+- Specialized situations (3 Q)
+- Manager self-development (2 Q)
+- Technical debt & growth balance (2 Q)
+- Feedback & assessment challenges (2 Q)
+- Succession & transitions (2 Q)
+- Resources and support (2 Q)
 
 ---
 
@@ -139,7 +148,7 @@ Each level includes:
 **Outcome:** Clear development path with specific actions
 
 ### For Daily Management
-**Path:** Keep 1:1 Template, FAQ, and relevant Level Guides bookmarked
+**Path:** Keep 1:1 Template, FAQ Index, and relevant Level Guides bookmarked
 **Time:** 5-10 min prep per 1:1
 **Outcome:** Consistent, high-quality management
 
@@ -181,7 +190,7 @@ Each level includes:
 1. **Read:** Getting Started + Framework Overview (90 min)
 2. **Review:** Relevant level guides for your ICs (30 min each)
 3. **Prepare:** Schedule career-focused 1:1s using template
-4. **Bookmark:** FAQ, Index, and your most-used templates
+4. **Bookmark:** FAQ Index, Content Index, and your most-used templates
 
 ### Your First Month
 1. **Complete:** Career conversation with each IC
@@ -284,13 +293,28 @@ career-path/
 │   ├── Promoted_Too_Early.md
 │   └── The_Retention_Crisis.md
 │
-├── FAQS/                             # 1 comprehensive FAQ
-│   └── Career_Progression_FAQ.md
+├── FAQS/                             # 37 questions in 16 files
+│   ├── README.md                     # Master FAQ index
+│   ├── 01_Career_Path_Questions.md
+│   ├── 02_Management_vs_IC.md
+│   ├── 03_Performance_and_Feedback.md
+│   ├── 04_Difficult_Situations.md
+│   ├── 05_Team_Dynamics.md
+│   ├── 06_Growth_and_Development.md
+│   ├── 07_Remote_Hybrid_Work.md
+│   ├── 08_Compensation_and_Equity.md
+│   ├── 09_Cross_Team_Organizational.md
+│   ├── 10_Specialized_Situations.md
+│   ├── 11_Manager_Self_Development.md
+│   ├── 12_Technical_Debt_and_Growth.md
+│   ├── 13_Feedback_Assessment_Challenges.md
+│   ├── 14_Succession_and_Transitions.md
+│   └── 15_Resources_and_Support.md
 │
 └── IC_evaluation_grid_template - raw_weights.csv  # Source data
 ```
 
-**Total:** 25+ documents, ~66,000 lines, ~180 pages equivalent
+**Total:** 40+ documents, ~70,000 lines, ~190 pages equivalent
 
 ---
 
@@ -359,7 +383,7 @@ This handbook is built on these foundations:
 ### To Get Started
 1. Read the [README](README.md)
 2. Work through [Getting Started Guide](MANAGER_HANDBOOK/00_Getting_Started.md)
-3. Bookmark the [INDEX](INDEX.md) and [FAQ](FAQS/Career_Progression_FAQ.md)
+3. Bookmark the [INDEX](INDEX.md) and [FAQ Index](FAQS/README.md)
 4. Schedule your first structured 1:1s
 
 ### To Go Deeper
@@ -388,7 +412,7 @@ This handbook is built on these foundations:
 **Completion Date:** November 2025  
 **Status:** Production Ready
 
-**Questions?** Check the [FAQ](FAQS/Career_Progression_FAQ.md)  
+**Questions?** Check the [FAQ Index](FAQS/README.md)  
 **Lost?** Use the [INDEX](INDEX.md)  
 **Starting?** Read the [README](README.md)
 

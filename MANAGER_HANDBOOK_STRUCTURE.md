@@ -49,8 +49,23 @@ career-path/
 │   ├── Promoted_Too_Early.md                    # Supporting premature promotion
 │   └── The_Retention_Crisis.md                  # Top performer retention
 │
-├── FAQS/                                        # Common questions
-│   └── Career_Progression_FAQ.md                # 32+ questions across 7 categories
+├── FAQS/                                        # Common questions (37 questions, 15 files)
+│   ├── README.md                                # Master FAQ index & navigation
+│   ├── 01_Career_Path_Questions.md              # Timelines, progression, budget
+│   ├── 02_Management_vs_IC.md                   # Management path questions
+│   ├── 03_Performance_and_Feedback.md           # Ratings, disagreements, frequency
+│   ├── 04_Difficult_Situations.md               # Underperformance, retention, behavior
+│   ├── 05_Team_Dynamics.md                      # Conflict, diversity & inclusion
+│   ├── 06_Growth_and_Development.md             # Motivation, interests, IC leadership
+│   ├── 07_Remote_Hybrid_Work.md                 # Remote assessment, career conversations
+│   ├── 08_Compensation_and_Equity.md            # Comp discussions, pay equity
+│   ├── 09_Cross_Team_Organizational.md          # Transfers, calibration
+│   ├── 10_Specialized_Situations.md             # Parental leave, personal issues, SMEs
+│   ├── 11_Manager_Self_Development.md           # Manager effectiveness, span of control
+│   ├── 12_Technical_Debt_and_Growth.md          # Balancing business needs & development
+│   ├── 13_Feedback_Assessment_Challenges.md     # Self-assessment, conflicting feedback
+│   ├── 14_Succession_and_Transitions.md         # Manager departure, inheriting teams
+│   └── 15_Resources_and_Support.md              # New manager resources, finding help
 │
 └── draft/                                       # Draft materials
     ├── IC_evaluation_grid_template - raw_weights.csv # The raw data
