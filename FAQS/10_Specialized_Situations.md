@@ -336,4 +336,19 @@ Deep experts should be compensated like broad leaders at same level.
 
 ---
 
+## Related Topics
+
+**Other FAQ Sections:**
+- [Difficult Situations](04_Difficult_Situations.md) - Handling underperformance
+- [Growth and Development](06_Growth_and_Development.md) - IC leadership without broad scope
+- [Team Dynamics](05_Team_Dynamics.md) - Creating inclusive environment
+
+**Related Guides:**
+- [Career Conversations Guide](../PRACTICAL_GUIDES/How_to_Have_Career_Conversations.md)
+- [How to Address Underperformance](../PRACTICAL_GUIDES/How_to_Address_Underperformance.md)
+- [PIP Template](../TOOLS_TEMPLATES/PIP_Template.md)
+- [Staff Developer Guide](../CAREER_LEVEL_GUIDES/04_Staff_Developer.md)
+
+---
+
 [← Back to FAQ Index](README.md)

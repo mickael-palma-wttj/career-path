@@ -65,4 +65,17 @@ Questions about choosing between individual contributor and management tracks.
 
 ---
 
+## Related Topics
+
+**Other FAQ Sections:**
+- [Career Path Questions](01_Career_Path_Questions.md) - How long at each level?
+- [Growth and Development](06_Growth_and_Development.md) - IC leadership without management
+
+**Related Guides:**
+- [Career Levels Guide](../MANAGER_HANDBOOK/02_Career_Levels_Guide.md)
+- [The Management Question case study](../CASE_STUDIES/The_Management_Question.md)
+- [Staff Developer Guide](../CAREER_LEVEL_GUIDES/04_Staff_Developer.md)
+
+---
+
 [← Back to FAQ Index](README.md)

@@ -114,4 +114,19 @@ If IC is flight risk, escalate aggressively for exception budget.
 
 ---
 
+## Related Topics
+
+**Other FAQ Sections:**
+- [Performance and Feedback](03_Performance_and_Feedback.md) - Promotion readiness conversations
+- [Difficult Situations](04_Difficult_Situations.md) - What if someone was promoted too early?
+- [Compensation & Equity](08_Compensation_and_Equity.md) - Handling comp when no promotion budget
+
+**Related Guides:**
+- [Promotion Readiness Guide](../MANAGER_HANDBOOK/06_Promotion_Readiness.md)
+- [Career Conversations Guide](../PRACTICAL_GUIDES/How_to_Have_Career_Conversations.md)
+- [The Retention Crisis case study](../CASE_STUDIES/The_Retention_Crisis.md)
+- [The Stuck Senior Developer case study](../CASE_STUDIES/The_Stuck_Senior_Developer.md)
+
+---
+
 [← Back to FAQ Index](README.md)

@@ -79,70 +79,70 @@ career-path/
 
 ### Core Manager Handbook (MANAGER_HANDBOOK/)
 
-#### **00_Getting_Started.md**
+#### **[00_Getting_Started.md](MANAGER_HANDBOOK/00_Getting_Started.md)**
 - Quick onboarding for new managers
 - Key principles & philosophy
 - Navigation guide
 - Time commitments expected
 - Success metrics for a great manager
 
-#### **01_Framework_Overview.md**
+#### **[01_Framework_Overview.md](MANAGER_HANDBOOK/01_Framework_Overview.md)**
 - How the evaluation grid works
 - The 3 pillars (Engineering Craft, Soft Skills, Leadership)
 - Rating scale explanation (0.0 - 4.0+)
 - Weights and their meaning
 - How to read the CSV
 
-#### **02_Career_Levels_Guide.md**
+#### **[02_Career_Levels_Guide.md](MANAGER_HANDBOOK/02_Career_Levels_Guide.md)**
 - Overview of all 6 levels
 - Typical progression timeline
 - Transition points between levels
 - Salary/compensation context (if applicable)
 - When lateral moves make sense
 
-#### **03_One_on_One_Framework.md**
+#### **[03_One_on_One_Framework.md](MANAGER_HANDBOOK/03_One_on_One_Framework.md)**
 - Frequency recommendations (weekly, bi-weekly)
 - 1:1 structure and agenda
 - How to connect 1:1s to career development
 - Common pitfalls to avoid
 - Remote-specific tips
 
-#### **04_Goal_Setting_Process.md**
+#### **[04_Goal_Setting_Process.md](MANAGER_HANDBOOK/04_Goal_Setting_Process.md)**
 - Annual goal-setting calendar
 - Aligning IC goals with business
 - Writing good career development goals
 - Connecting short-term & long-term goals
 - Mid-year reviews and adjustments
 
-#### **05_Feedback_Delivery.md**
+#### **[05_Feedback_Delivery.md](MANAGER_HANDBOOK/05_Feedback_Delivery.md)**
 - Feedback framework (SBI: Situation-Behavior-Impact)
 - Real-time vs. formal feedback
 - Difficult feedback conversations
 - Recognition and praise strategies
 - 360-degree feedback process
 
-#### **06_Promotion_Readiness.md**
+#### **[06_Promotion_Readiness.md](MANAGER_HANDBOOK/06_Promotion_Readiness.md)**
 - Criteria for readiness at each level
 - Evidence collection process
 - Timing and windows
 - The promotion conversation
 - Post-promotion onboarding
 
-#### **07_Development_Plans.md**
+#### **07_Development_Plans.md** _(planned)_
 - Creating Individual Development Plans (IDPs)
 - 6-month, 12-month, 3-year plans
 - Identifying development areas
 - Choosing stretch projects
 - Regular review cadence
 
-#### **08_Retention_Strategies.md**
+#### **08_Retention_Strategies.md** _(planned)_
 - Engagement signals to watch for
 - Career conversations early and often
 - Growth visibility and recognition
 - Compensation fairness discussion
 - When someone is thinking of leaving
 
-#### **09_Common_Scenarios.md**
+#### **09_Common_Scenarios.md** _(planned)_
 - IC feels stuck
 - Mismatch between self-assessment and reality
 - High performer wanting management track
@@ -150,21 +150,21 @@ career-path/
 - Conflict with peers
 - Rapid growth support
 
-#### **10_Templates_Checklists.md**
+#### **10_Templates_Checklists.md** _(planned)_
 - Quick reference for all templates
 - Checklist: Before promotion
 - Checklist: End of year review
 - Checklist: New hire onboarding
 - Checklist: Retention conversation
 
-#### **11_FAQ.md**
+#### **11_FAQ.md** _(see [FAQS/](FAQS/README.md) directory instead)_
 - "How often should I discuss career progress?" 
 - "What if someone disagrees with feedback?"
 - "Can someone move laterally?"
 - "What if they plateau?"
 - "How do I handle multiple ICs at same level?"
 
-#### **12_Resources.md**
+#### **12_Resources.md** _(planned)_
 - Recommended books on management
 - External career frameworks
 - Tools for feedback & 1:1s
@@ -210,40 +210,40 @@ Organized by the 3 pillars. Each criteria file includes:
 
 ### Practical Guides (PRACTICAL_GUIDES/)
 
-**Conducting_Career_Conversations.md**
+**[How_to_Have_Career_Conversations.md](PRACTICAL_GUIDES/How_to_Have_Career_Conversations.md)**
 - When to have them
 - How to structure them
 - Opening questions
 - Listening techniques
 - Action items & follow-up
 
-**Assessment_Interview_Guide.md**
+**[How_to_Address_Underperformance.md](PRACTICAL_GUIDES/How_to_Address_Underperformance.md)**
 - Questions by level
 - How to evaluate answers
 - Red flags & positive signals
 - Calibration with other managers
 
-**Creating_Stretch_Projects.md**
+**Creating_Stretch_Projects.md** _(planned)_
 - What makes a good stretch project
 - Different types of projects
 - Risk management
 - Support structure needed
 - How to measure success
 
-**Peer_Feedback_Collection.md**
+**Peer_Feedback_Collection.md** _(planned)_
 - Setting up 360 reviews
 - Who to ask
 - What questions to ask
 - Synthesizing feedback
 - Sharing results
 
-**Succession_Planning.md**
+**Succession_Planning.md** _(planned)_
 - Identifying high potentials
 - Backfill planning
 - Knowledge transfer
 - Retention during transitions
 
-**Remote_Team_Development.md**
+**Remote_Team_Development.md** _(planned)_
 - Specific challenges & solutions
 - Virtual 1:1 best practices
 - Keeping career visible remotely
@@ -255,14 +255,17 @@ Organized by the 3 pillars. Each criteria file includes:
 
 Ready-to-use, copy-paste templates:
 
-- **1on1_Agenda_Template.md** - Weekly standup version, deep-dive version
-- **Development_Plan_Template.md** - Fillable IDP form
-- **Goal_Setting_Template.md** - OKR-style or SMART goal format
-- **Feedback_Form_Template.md** - Structured format for consistency
-- **Promotion_Evaluation_Checklist.md** - Go/no-go decision tool
-- **Interview_Questions_By_Level.md** - Calibrated questions per level
-- **Coaching_Conversation_Starters.md** - Opening prompts by topic
-- **Progress_Tracking_Dashboard.md** - Simple tracking tool
+- **[1on1_Agenda_Template.md](TOOLS_TEMPLATES/1on1_Agenda_Template.md)** - Weekly standup version, deep-dive version
+- **[Development_Plan_Template.md](TOOLS_TEMPLATES/Development_Plan_Template.md)** - Fillable IDP form
+- **[Promotion_Packet_Template.md](TOOLS_TEMPLATES/Promotion_Packet_Template.md)** - Evidence-based promotion cases
+- **[Peer_Feedback_Template.md](TOOLS_TEMPLATES/Peer_Feedback_Template.md)** - 360 feedback requests
+- **[PIP_Template.md](TOOLS_TEMPLATES/PIP_Template.md)** - Performance Improvement Plans
+- **Goal_Setting_Template.md** _(planned)_ - OKR-style or SMART goal format
+- **Feedback_Form_Template.md** _(planned)_ - Structured format for consistency
+- **Promotion_Evaluation_Checklist.md** _(planned)_ - Go/no-go decision tool
+- **Interview_Questions_By_Level.md** _(planned)_ - Calibrated questions per level
+- **Coaching_Conversation_Starters.md** _(planned)_ - Opening prompts by topic
+- **Progress_Tracking_Dashboard.md** _(planned)_ - Simple tracking tool
 
 ---
 
@@ -277,17 +280,42 @@ Real or realistic scenarios with:
 - **Key learnings** - Lessons for other managers
 - **What to do differently** - Alternative approaches
 
+**Available Case Studies:**
+- **[The_Stuck_Senior_Developer.md](CASE_STUDIES/The_Stuck_Senior_Developer.md)** - Overcoming plateau
+- **[Brilliant_but_Difficult.md](CASE_STUDIES/Brilliant_but_Difficult.md)** - High performer with behavior issues
+- **[The_Management_Question.md](CASE_STUDIES/The_Management_Question.md)** - IC exploring management path
+- **[Promoted_Too_Early.md](CASE_STUDIES/Promoted_Too_Early.md)** - Supporting premature promotion
+- **[The_Retention_Crisis.md](CASE_STUDIES/The_Retention_Crisis.md)** - Top performer retention
+
 ---
 
-### FAQs by Scenario (FAQS_BY_SCENARIO/)
+### FAQs (FAQS/)
 
-Common problematic situations with:
+Common questions organized by topic with detailed answers:
 - Clear problem statement
 - Root cause analysis
 - 3-5 recommended approaches
 - Dos and don'ts
 - When to escalate
 - Examples & scripts
+
+**Available FAQ Files:**
+- **[README.md](FAQS/README.md)** - Master FAQ index & navigation
+- **[01_Career_Path_Questions.md](FAQS/01_Career_Path_Questions.md)** - Timelines, progression, budget
+- **[02_Management_vs_IC.md](FAQS/02_Management_vs_IC.md)** - Management path questions
+- **[03_Performance_and_Feedback.md](FAQS/03_Performance_and_Feedback.md)** - Ratings, disagreements, frequency
+- **[04_Difficult_Situations.md](FAQS/04_Difficult_Situations.md)** - Underperformance, retention, behavior
+- **[05_Team_Dynamics.md](FAQS/05_Team_Dynamics.md)** - Conflict, diversity & inclusion
+- **[06_Growth_and_Development.md](FAQS/06_Growth_and_Development.md)** - Motivation, interests, IC leadership
+- **[07_Remote_Hybrid_Work.md](FAQS/07_Remote_Hybrid_Work.md)** - Remote assessment, career conversations
+- **[08_Compensation_and_Equity.md](FAQS/08_Compensation_and_Equity.md)** - Comp discussions, pay equity
+- **[09_Cross_Team_Organizational.md](FAQS/09_Cross_Team_Organizational.md)** - Transfers, calibration
+- **[10_Specialized_Situations.md](FAQS/10_Specialized_Situations.md)** - Parental leave, personal issues, SMEs
+- **[11_Manager_Self_Development.md](FAQS/11_Manager_Self_Development.md)** - Manager effectiveness, span of control
+- **[12_Technical_Debt_and_Growth.md](FAQS/12_Technical_Debt_and_Growth.md)** - Balancing business needs & development
+- **[13_Feedback_Assessment_Challenges.md](FAQS/13_Feedback_Assessment_Challenges.md)** - Self-assessment, conflicting feedback
+- **[14_Succession_and_Transitions.md](FAQS/14_Succession_and_Transitions.md)** - Manager departure, inheriting teams
+- **[15_Resources_and_Support.md](FAQS/15_Resources_and_Support.md)** - New manager resources, finding help
 
 ---
 
@@ -328,32 +356,32 @@ Common problematic situations with:
 ## 📊 Recommended Navigation Flows
 
 ### For a New Manager
-1. README.md
-2. Getting_Started.md
-3. Framework_Overview.md
-4. [Relevant Career Level Guide]
-5. One_on_One_Framework.md
-6. Templates (bookmark for later)
+1. [README.md](README.md)
+2. [Getting_Started.md](MANAGER_HANDBOOK/00_Getting_Started.md)
+3. [Framework_Overview.md](MANAGER_HANDBOOK/01_Framework_Overview.md)
+4. [Relevant Career Level Guide](CAREER_LEVEL_GUIDES/)
+5. [One_on_One_Framework.md](MANAGER_HANDBOOK/03_One_on_One_Framework.md)
+6. [Templates](TOOLS_TEMPLATES/) (bookmark for later)
 
 ### For Preparing a Promotion Decision
-1. Promotion_Readiness.md
-2. [Relevant Career Level Guide]
-3. Promotion_Evaluation_Checklist.md
-4. Interview_Questions_By_Level.md
-5. Case studies for similar situation
+1. [Promotion_Readiness.md](MANAGER_HANDBOOK/06_Promotion_Readiness.md)
+2. [Relevant Career Level Guide](CAREER_LEVEL_GUIDES/)
+3. [Promotion_Packet_Template.md](TOOLS_TEMPLATES/Promotion_Packet_Template.md)
+4. [Career Path Questions FAQ](FAQS/01_Career_Path_Questions.md)
+5. [Case studies](CASE_STUDIES/) for similar situation
 
 ### For Addressing a Problem
-1. Common_Scenarios.md or FAQS_BY_SCENARIO/
-2. [Relevant Career Level Guide]
-3. Feedback_Delivery.md
-4. Templates
-5. Coaching_Conversation_Starters.md
+1. [FAQS](FAQS/README.md) - Check relevant topic
+2. [Relevant Career Level Guide](CAREER_LEVEL_GUIDES/)
+3. [Feedback_Delivery.md](MANAGER_HANDBOOK/05_Feedback_Delivery.md)
+4. [Templates](TOOLS_TEMPLATES/)
+5. [Case Studies](CASE_STUDIES/)
 
 ### For Monthly 1:1 Prep
-1. 1on1_Agenda_Template.md
-2. [Latest development goals]
+1. [1on1_Agenda_Template.md](TOOLS_TEMPLATES/1on1_Agenda_Template.md)
+2. [Development_Plan_Template.md](TOOLS_TEMPLATES/Development_Plan_Template.md)
 3. Recent feedback collected
-4. Progress_Tracking_Dashboard.md
+4. [Goal_Setting_Process.md](MANAGER_HANDBOOK/04_Goal_Setting_Process.md)
 
 ---
 

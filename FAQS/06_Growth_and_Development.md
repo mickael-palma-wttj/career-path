@@ -95,4 +95,18 @@ ICs lead through influence, expertise, and execution—not through authority ove
 
 ---
 
+## Related Topics
+
+**Other FAQ Sections:**
+- [Management vs IC](02_Management_vs_IC.md) - Leadership paths
+- [Technical Debt & Growth](12_Technical_Debt_and_Growth.md) - Balancing growth with business needs
+- [Specialized Situations](10_Specialized_Situations.md) - Deep specialists who don't want broader scope
+
+**Related Guides:**
+- [Goal Setting Process](../MANAGER_HANDBOOK/04_Goal_Setting_Process.md)
+- [Development Plan Template](../TOOLS_TEMPLATES/Development_Plan_Template.md)
+- [The Stuck Senior Developer case study](../CASE_STUDIES/The_Stuck_Senior_Developer.md)
+
+---
+
 [← Back to FAQ Index](README.md)

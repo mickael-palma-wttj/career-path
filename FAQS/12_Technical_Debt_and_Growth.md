@@ -216,4 +216,17 @@ If IC consistently wants to learn things unrelated to team's work:
 
 ---
 
+## Related Topics
+
+**Other FAQ Sections:**
+- [Growth and Development](06_Growth_and_Development.md) - Finding IC motivation
+- [Career Path Questions](01_Career_Path_Questions.md) - Progression timelines
+- [Specialized Situations](10_Specialized_Situations.md) - SMEs wanting depth not breadth
+
+**Related Guides:**
+- [Goal Setting Process](../MANAGER_HANDBOOK/04_Goal_Setting_Process.md)
+- [Development Plan Template](../TOOLS_TEMPLATES/Development_Plan_Template.md)
+
+---
+
 [← Back to FAQ Index](README.md)

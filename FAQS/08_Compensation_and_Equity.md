@@ -185,4 +185,17 @@ If you can't fix compensation gaps, you will lose people. Be prepared for that a
 
 ---
 
+## Related Topics
+
+**Other FAQ Sections:**
+- [Career Path Questions](01_Career_Path_Questions.md) - What if no promotion budget?
+- [Difficult Situations](04_Difficult_Situations.md) - Retention when top performer leaving
+- [Performance and Feedback](03_Performance_and_Feedback.md) - Promotion readiness discussions
+
+**Related Guides:**
+- [Promotion Readiness Guide](../MANAGER_HANDBOOK/06_Promotion_Readiness.md)
+- [The Retention Crisis case study](../CASE_STUDIES/The_Retention_Crisis.md)
+
+---
+
 [← Back to FAQ Index](README.md)

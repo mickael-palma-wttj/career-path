@@ -140,4 +140,22 @@ Support graceful exit. Maintain relationship.
 
 ---
 
+## Related Topics
+
+**Other FAQ Sections:**
+- [Career Path Questions](01_Career_Path_Questions.md) - IC stuck at level
+- [Performance and Feedback](03_Performance_and_Feedback.md) - Delivering difficult feedback
+- [Compensation & Equity](08_Compensation_and_Equity.md) - Retention through compensation
+
+**Related Guides:**
+- [How to Address Underperformance](../PRACTICAL_GUIDES/How_to_Address_Underperformance.md)
+- [PIP Template](../TOOLS_TEMPLATES/PIP_Template.md)
+
+**Related Case Studies:**
+- [Brilliant but Difficult](../CASE_STUDIES/Brilliant_but_Difficult.md)
+- [Promoted Too Early](../CASE_STUDIES/Promoted_Too_Early.md)
+- [The Retention Crisis](../CASE_STUDIES/The_Retention_Crisis.md)
+
+---
+
 [← Back to FAQ Index](README.md)

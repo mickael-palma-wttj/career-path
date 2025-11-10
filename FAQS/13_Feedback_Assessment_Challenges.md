@@ -229,4 +229,17 @@ IC has strengths you see and weaknesses peers see.
 
 ---
 
+## Related Topics
+
+**Other FAQ Sections:**
+- [Performance and Feedback](03_Performance_and_Feedback.md) - Delivering feedback, handling disagreements
+- [Difficult Situations](04_Difficult_Situations.md) - Brilliant but difficult ICs
+
+**Related Guides:**
+- [Feedback Delivery Guide](../MANAGER_HANDBOOK/05_Feedback_Delivery.md)
+- [Peer Feedback Template](../TOOLS_TEMPLATES/Peer_Feedback_Template.md)
+- [Brilliant but Difficult case study](../CASE_STUDIES/Brilliant_but_Difficult.md)
+
+---
+
 [← Back to FAQ Index](README.md)

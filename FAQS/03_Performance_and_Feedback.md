@@ -119,4 +119,18 @@ IC can appeal to skip-level or HR. That's their right. Provide your documentatio
 
 ---
 
+## Related Topics
+
+**Other FAQ Sections:**
+- [Career Path Questions](01_Career_Path_Questions.md) - Promotion timelines
+- [Feedback Assessment Challenges](13_Feedback_Assessment_Challenges.md) - Self-assessment inflation
+- [Difficult Situations](04_Difficult_Situations.md) - Addressing underperformance
+
+**Related Guides:**
+- [Promotion Readiness Guide](../MANAGER_HANDBOOK/06_Promotion_Readiness.md)
+- [Feedback Delivery Guide](../MANAGER_HANDBOOK/05_Feedback_Delivery.md)
+- [Peer Feedback Template](../TOOLS_TEMPLATES/Peer_Feedback_Template.md)
+
+---
+
 [← Back to FAQ Index](README.md)
