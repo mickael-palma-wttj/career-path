@@ -16,12 +16,12 @@ Essential reading for all managers. Work through these sequentially.
    - Common pitfalls
 
 2. **[Framework Overview](MANAGER_HANDBOOK/01_Framework_Overview.md)** (Understanding the system)
-   - 7 career levels explained
+   - 6 career levels explained
    - 3 evaluation pillars (Engineering, Soft Skills, Leadership)
    - Rating scale (0.0-4.0+)
    - How weights shift by level
 
-3. **[Career Levels Guide](MANAGER_HANDBOOK/02_Career_Levels_Guide.md)** (All 7 levels overview)
+3. **[Career Levels Guide](MANAGER_HANDBOOK/02_Career_Levels_Guide.md)** (All 6 levels overview)
    - What differentiates each level
    - Typical progression timelines
    - When to consider promotion
@@ -55,7 +55,7 @@ Essential reading for all managers. Work through these sequentially.
 
 ---
 
-## 🎯 Career Level Guides (7 Levels)
+## 🎯 Career Level Guides (6 Levels)
 
 Detailed guides for each career level. Use these for level-specific coaching.
 
@@ -300,16 +300,16 @@ Quick answers to common questions.
 
 ## 📊 Content Statistics
 
-**Total Documents:** 25+
+**Total Documents:** 24
 
 **By Type:**
 - Core handbook modules: 6
-- Career level guides: 6 (7 levels, 1 in template)
+- Career level guides: 6
 - Practical guides: 2
 - Templates: 5
 - Case studies: 5
 - FAQs: 1
-- Reference docs: 3 (README, Structure, Index)
+- Reference docs: 3 (README, MANAGER_HANDBOOK_STRUCTURE, INDEX, SUMMARY)
 
 **Total Content:** ~66,000 lines / ~180 pages equivalent
 
