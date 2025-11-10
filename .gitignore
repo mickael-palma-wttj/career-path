@@ -44,12 +44,6 @@ yarn-error.log*
 .cache/
 tmp/
 
-# Personal notes (if you want to keep local notes private)
-NOTES.md
-TODO.md
-scratch/
-drafts/
-
 # Backup files
 *.bak
 *.backup
