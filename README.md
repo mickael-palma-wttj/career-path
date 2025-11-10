@@ -15,12 +15,12 @@ This framework provides:
 
 ### The 6 Career Levels
 
-1. **Junior Developer** - Building foundations
-2. **Confirmed Developer** - Gaining confidence and autonomy
-3. **Senior Developer** - Leading by example and mentoring
-4. **Staff Developer** - Technical leadership across teams
-5. **Senior Staff Developer** - Organizational impact and strategy
-6. **Principal Developer** - Company-wide technical leadership
+1. [**Junior Developer**](CAREER_LEVEL_GUIDES/01_Junior_Developer.md) - Building foundations
+2. [**Confirmed Developer**](CAREER_LEVEL_GUIDES/02_Confirmed_Developer.md) - Gaining confidence and autonomy
+3. [**Senior Developer**](CAREER_LEVEL_GUIDES/03_Senior_Developer.md) - Leading by example and mentoring
+4. [**Staff Developer**](CAREER_LEVEL_GUIDES/04_Staff_Developer.md) - Technical leadership across teams
+5. [**Senior Staff Developer**](CAREER_LEVEL_GUIDES/05_Senior_Staff_Developer.md) - Organizational impact and strategy
+6. [**Principal Developer**](CAREER_LEVEL_GUIDES/06_Principal_Developer.md) - Company-wide technical leadership
 
 ### The 3 Evaluation Pillars
 
