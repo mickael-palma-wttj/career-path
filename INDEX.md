@@ -219,9 +219,11 @@ Copy, customize, and use immediately.
 
 ---
 
-## 📚 Case Studies (5 Real-World Scenarios)
+## 📚 Case Studies (10 Real-World Scenarios)
 
 Learn from detailed, realistic scenarios with solutions.
+
+### Original 5 Case Studies
 
 1. **[The Stuck Senior Developer](CASE_STUDIES/The_Stuck_Senior_Developer.md)**
    - **Scenario:** High-performing Senior at level 3.5 years, not progressing
@@ -257,6 +259,43 @@ Learn from detailed, realistic scenarios with solutions.
    - **Solution:** Comprehensive retention package (comp, growth path, new projects)
    - **Outcome:** Stayed, promoted to Senior Staff as planned
    - **Key lesson:** Retention requires addressing root causes, not just money
+
+### New 5 Case Studies
+
+6. **[The High Performer with Low Soft Skills](CASE_STUDIES/The_High_Performer_with_Low_Soft_Skills.md)**
+   - **Scenario:** Technical genius (3.5+ rating) but poor collaboration (2.0 soft skills)
+   - **Root causes:** Technical trajectory bias, lack of feedback, defensive posture, role misunderstanding
+   - **Solution:** 3-phase approach over 6 months (conversation → diagnosis → implementation + support)
+   - **Outcome:** Soft skills improved 2.0→3.0, overall 2.8→3.1, Staff consideration approved
+   - **Key lesson:** Technical brilliance without soft skills has a ceiling; respect strengths while building gaps
+
+7. **[The Imposter Syndrome Trap](CASE_STUDIES/The_Imposter_Syndrome_Trap.md)**
+   - **Scenario:** Capable Senior (objectively 3.1) paralyzed by self-doubt (self-rates 2.2)
+   - **Root causes:** Attribution bias, internalized doubts, avoidance behaviors, visibility gap
+   - **Solution:** 4-phase approach (reality check with data → naming pattern → evidence building → action)
+   - **Outcome:** Self-rating improved 2.2→2.8, promoted to Staff track, retention improved
+   - **Key lesson:** Data beats opinion; naming patterns and shared language empower high performers
+
+8. **[The Burnout Risk](CASE_STUDIES/The_Burnout_Risk.md)**
+   - **Scenario:** High performer (3.2 rating) heading toward collapse from overwork
+   - **Root causes:** Reliability trap, systemic understaffing, perfectionist personality, no circuit breaker
+   - **Solution:** 5-phase approach (wake-up call → assessment → workload reset → recovery → prevention)
+   - **Outcome:** Normalized hours and well-being, performance maintained, systemic changes implemented
+   - **Key lesson:** Burnout is a management and resource planning failure; prevent through active monitoring
+
+9. **[The Equity Gap](CASE_STUDIES/The_Equity_Gap.md)**
+   - **Scenario:** High performer discovers 20-25% pay gap to market
+   - **Root causes:** Company hiring practices, gradual raises not keeping pace, market changes, no audits
+   - **Solution:** Immediate substantial adjustment + systemic compensation audit + transparency
+   - **Outcome:** Salary adjusted to market, systemic fixes implemented, trust partially restored
+   - **Key lesson:** Fair compensation is retention issue; address gaps quickly with data and business case
+
+10. **[The Comeback Story](CASE_STUDIES/The_Comeback_Story.md)**
+    - **Scenario:** Strong performer returning from 6-month parental leave struggling to re-engage
+    - **Root causes:** Changed codebase, identity shift, life circumstances (sleep deprivation), no re-entry plan
+    - **Solution:** Deliberate re-entry (knowledge transfer → team integration → confidence building → momentum)
+    - **Outcome:** Full re-engagement within 6 weeks, career trajectory maintained, parental leave normalized
+    - **Key lesson:** Returns from leave require deliberate manager support; small investments pay off in retention
 
 ---
 
@@ -400,18 +439,18 @@ Quick answers to common questions, organized by topic for easy navigation.
 
 ## 📊 Content Statistics
 
-**Total Documents:** 54
+**Total Documents:** 59
 
 **By Type:**
 - Core handbook modules: 6
 - Career level guides: 6
 - Practical guides: 6
 - Templates: 10
-- Case studies: 5
+- Case studies: 10
 - FAQ files: 16 (1 index + 15 topic files with 37 questions)
 - Reference docs: 4 (README, MANAGER_HANDBOOK_STRUCTURE, INDEX, SUMMARY)
 
-**Total Content:** ~95,000 lines / ~250 pages equivalent
+**Total Content:** ~100,000+ lines / ~260 pages equivalent
 
 **Estimated Reading Time:**
 - Core handbook (all 6 modules): 3-4 hours

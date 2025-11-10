@@ -286,6 +286,11 @@ Real or realistic scenarios with:
 - **[The_Management_Question.md](CASE_STUDIES/The_Management_Question.md)** - IC exploring management path
 - **[Promoted_Too_Early.md](CASE_STUDIES/Promoted_Too_Early.md)** - Supporting premature promotion
 - **[The_Retention_Crisis.md](CASE_STUDIES/The_Retention_Crisis.md)** - Top performer retention
+- **[The_High_Performer_with_Low_Soft_Skills.md](CASE_STUDIES/The_High_Performer_with_Low_Soft_Skills.md)** - Technical genius with collaboration gaps
+- **[The_Imposter_Syndrome_Trap.md](CASE_STUDIES/The_Imposter_Syndrome_Trap.md)** - Capable person paralyzed by self-doubt
+- **[The_Burnout_Risk.md](CASE_STUDIES/The_Burnout_Risk.md)** - High performer heading toward collapse
+- **[The_Equity_Gap.md](CASE_STUDIES/The_Equity_Gap.md)** - IC discovering pay inequity
+- **[The_Comeback_Story.md](CASE_STUDIES/The_Comeback_Story.md)** - Returning from leave struggling to re-engage
 
 ---
 

@@ -6,7 +6,7 @@ A comprehensive career development framework for engineering managers to guide I
 
 ## 📖 What You Have
 
-A complete, production-ready manager's handbook with **54+ documents** covering:
+A complete, production-ready manager's handbook with **59+ documents** covering:
 
 ### ✅ Phase 1: Foundation (MVP)
 - Core framework and evaluation system
@@ -78,12 +78,17 @@ Each level includes:
 9. **Interview Questions By Level** - Calibrated questions for all 5 levels
 10. **Coaching Conversation Starters** - Opening prompts by topic
 
-### Case Studies (5 realistic scenarios)
+### Case Studies (10 realistic scenarios)
 1. **The Stuck Senior Developer** - Plateaued IC needs clarity and projects
 2. **Brilliant but Difficult** - High performer with collaboration issues
 3. **The Management Question** - IC exploring management vs. Staff IC path
 4. **Promoted Too Early** - Supporting someone promoted before ready
 5. **The Retention Crisis** - Top performer considering leaving
+6. **The High Performer with Low Soft Skills** - Technical genius with collaboration gaps
+7. **The Imposter Syndrome Trap** - Capable person paralyzed by self-doubt
+8. **The Burnout Risk** - High performer heading toward collapse
+9. **The Equity Gap** - IC discovering pay inequity
+10. **The Comeback Story** - Returning from leave struggling to re-engage
 
 ### FAQs (16 focused files)
 - 37 questions across 15 categories
@@ -304,12 +309,17 @@ career-path/
 │   ├── Interview_Questions_By_Level.md
 │   └── Coaching_Conversation_Starters.md
 │
-├── CASE_STUDIES/                     # 5 real-world scenarios
+├── CASE_STUDIES/                     # 10 real-world scenarios
 │   ├── The_Stuck_Senior_Developer.md
 │   ├── Brilliant_but_Difficult.md
 │   ├── The_Management_Question.md
 │   ├── Promoted_Too_Early.md
-│   └── The_Retention_Crisis.md
+│   ├── The_Retention_Crisis.md
+│   ├── The_High_Performer_with_Low_Soft_Skills.md
+│   ├── The_Imposter_Syndrome_Trap.md
+│   ├── The_Burnout_Risk.md
+│   ├── The_Equity_Gap.md
+│   └── The_Comeback_Story.md
 │
 ├── FAQS/                             # 37 questions in 16 files
 │   ├── README.md                     # Master FAQ index
@@ -332,7 +342,7 @@ career-path/
 └── IC_evaluation_grid_template - raw_weights.csv  # Source data
 ```
 
-**Total:** 54+ documents, ~95,000 lines, ~250 pages equivalent
+**Total:** 59+ documents, ~100,000+ lines, ~260 pages equivalent
 
 ---
 

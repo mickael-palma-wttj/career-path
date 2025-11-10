@@ -126,12 +126,17 @@ career-path/
 │   ├── Interview_Questions_By_Level.md
 │   └── Coaching_Conversation_Starters.md
 │
-├── CASE_STUDIES/              # Real-world examples (5 scenarios)
+├── CASE_STUDIES/              # Real-world examples (10 scenarios)
 │   ├── The_Stuck_Senior_Developer.md
 │   ├── Brilliant_but_Difficult.md
 │   ├── The_Management_Question.md
 │   ├── Promoted_Too_Early.md
-│   └── The_Retention_Crisis.md
+│   ├── The_Retention_Crisis.md
+│   ├── The_High_Performer_with_Low_Soft_Skills.md
+│   ├── The_Imposter_Syndrome_Trap.md
+│   ├── The_Burnout_Risk.md
+│   ├── The_Equity_Gap.md
+│   └── The_Comeback_Story.md
 │
 └── FAQS/                      # Common questions (37 questions, 15 files)
     ├── README.md              # Master FAQ index & navigation
