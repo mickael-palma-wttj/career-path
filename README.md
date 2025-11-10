@@ -7,13 +7,13 @@ A comprehensive handbook for managers to guide Individual Contributors (ICs) thr
 ## 📖 What is This?
 
 This framework provides:
-- **Clear career progression paths** across 7 levels
+- **Clear career progression paths** across 6 levels
 - **Detailed evaluation criteria** across 3 core pillars
 - **Practical tools and templates** for managers
 - **Evidence-based assessment methods**
 - **Real-world guidance** for common scenarios
 
-### The 7 Career Levels
+### The 6 Career Levels
 
 1. **Junior Developer** - Building foundations
 2. **Confirmed Developer** - Gaining confidence and autonomy
@@ -83,7 +83,7 @@ career-path/
 │   ├── 05_Feedback_Delivery.md
 │   └── 06_Promotion_Readiness.md
 │
-├── CAREER_LEVEL_GUIDES/       # Level-specific deep dives (7 levels)
+├── CAREER_LEVEL_GUIDES/       # Level-specific deep dives (6 levels)
 │   ├── 01_Junior_Developer.md
 │   ├── 02_Confirmed_Developer.md
 │   ├── 03_Senior_Developer.md
@@ -219,12 +219,10 @@ The framework uses a **0.0 to 4.0+ scale**:
 
 ## 📚 Additional Resources
 
-### Data Files
-- [`IC_evaluation_grid_template - raw_weights.csv`](IC_evaluation_grid_template%20-%20raw_weights.csv) - The source data
-- [`GENERATION_PROMPT.md`](GENERATION_PROMPT.md) - How to create new rubric documents
-
-### Examples
-- [`template.md`](template.md) - Example of a detailed rubric document
+### Draft Materials
+- [`draft/IC_evaluation_grid_template - raw_weights.csv`](draft/IC_evaluation_grid_template%20-%20raw_weights.csv) - The source data
+- [`draft/GENERATION_PROMPT.md`](draft/GENERATION_PROMPT.md) - How to create new rubric documents
+- [`draft/template.md`](draft/template.md) - Example of a detailed rubric document
 
 ### Reference
 - [`MANAGER_HANDBOOK_STRUCTURE.md`](MANAGER_HANDBOOK_STRUCTURE.md) - Complete structure overview

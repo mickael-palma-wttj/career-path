@@ -10,90 +10,52 @@ This document outlines an optimal file structure for a comprehensive manager's h
 ```
 career-path/
 ├── README.md                                    # Entry point & overview
-├── MANAGER_HANDBOOK/
+├── INDEX.md                                     # Complete content navigation
+├── SUMMARY.md                                   # Production status summary
+├── MANAGER_HANDBOOK_STRUCTURE.md                # This file - design specification
+│
+├── MANAGER_HANDBOOK/                            # Core management guides (6 modules)
 │   ├── 00_Getting_Started.md                    # Quick start for managers
 │   ├── 01_Framework_Overview.md                 # Understanding the evaluation grid
-│   ├── 02_Career_Levels_Guide.md                # Overview of all 7 levels
+│   ├── 02_Career_Levels_Guide.md                # Overview of all 6 levels
 │   ├── 03_One_on_One_Framework.md               # Conducting effective 1:1s
 │   ├── 04_Goal_Setting_Process.md               # Setting SMART career goals
 │   ├── 05_Feedback_Delivery.md                  # Giving effective feedback
-│   ├── 06_Promotion_Readiness.md                # Evaluating promotion readiness
-│   ├── 07_Development_Plans.md                  # Creating individual development plans
-│   ├── 08_Retention_Strategies.md               # Keeping talent engaged
-│   ├── 09_Common_Scenarios.md                   # Handling tricky situations
-│   ├── 10_Templates_Checklists.md               # Ready-to-use templates
-│   ├── 11_FAQ.md                                # Frequently asked questions
-│   └── 12_Resources.md                          # External resources & tools
+│   └── 06_Promotion_Readiness.md                # Evaluating promotion readiness
 │
-├── CAREER_LEVEL_GUIDES/
+├── CAREER_LEVEL_GUIDES/                         # Level-specific deep dives (6 levels)
 │   ├── 01_Junior_Developer.md                   # Level-specific manager guide
 │   ├── 02_Confirmed_Developer.md
 │   ├── 03_Senior_Developer.md
 │   ├── 04_Staff_Developer.md
 │   ├── 05_Senior_Staff_Developer.md
-│   ├── 06_Principal_Developer.md
-│   └── 07_IC_to_Manager_Track.md                # Transition considerations
+│   └── 06_Principal_Developer.md
 │
-├── CRITERIA_RUBRICS/
-│   ├── ENGINEERING_CRAFT/
-│   │   ├── 01_Writing_Code.md
-│   │   ├── 02_Testing.md
-│   │   ├── 03_Technical_Understanding.md
-│   │   ├── 04_Software_Architecture.md
-│   │   ├── 05_Security.md
-│   │   └── 06_Debugging_Monitoring.md
-│   │
-│   ├── SOFT_SKILLS/
-│   │   ├── 01_Empathy_Humility.md
-│   │   ├── 02_Communication.md
-│   │   ├── 03_Initiative.md
-│   │   ├── 04_Objectivity_Adaptability.md
-│   │   └── 05_Business_Acumen.md
-│   │
-│   └── LEADERSHIP/
-│       ├── 01_Hiring_Org_Design.md
-│       ├── 02_Stakeholder_Management.md
-│       ├── 03_Team_Leadership.md
-│       ├── 04_Developing_Others.md
-│       └── 05_Culture_Togetherness.md
+├── PRACTICAL_GUIDES/                            # How-to guides
+│   ├── How_to_Have_Career_Conversations.md      # Career conversation framework
+│   └── How_to_Address_Underperformance.md       # Performance management
 │
-├── PRACTICAL_GUIDES/
-│   ├── Conducting_Career_Conversations.md       # How to have career talks
-│   ├── Assessment_Interview_Guide.md            # Evaluating IC readiness
-│   ├── Creating_Stretch_Projects.md             # Growth opportunities
-│   ├── Peer_Feedback_Collection.md              # 360 feedback process
-│   ├── Succession_Planning.md                   # Planning for departures
-│   └── Remote_Team_Development.md               # Managing distributed teams
+├── TOOLS_TEMPLATES/                             # Ready-to-use templates (5 templates)
+│   ├── 1on1_Agenda_Template.md                  # Four meeting types
+│   ├── Development_Plan_Template.md             # Individual Development Plans
+│   ├── Promotion_Packet_Template.md             # Evidence-based promotion cases
+│   ├── Peer_Feedback_Template.md                # 360 feedback requests
+│   └── PIP_Template.md                          # Performance Improvement Plans
 │
-├── TOOLS_TEMPLATES/
-│   ├── 1on1_Agenda_Template.md                  # Ready-to-use agendas
-│   ├── Development_Plan_Template.md             # IDP form
-│   ├── Goal_Setting_Template.md                 # OKR/goal template
-│   ├── Feedback_Form_Template.md                # Structured feedback
-│   ├── Promotion_Evaluation_Checklist.md        # Promotion decision tool
-│   ├── Interview_Questions_By_Level.md          # Assessment questions
-│   ├── Coaching_Conversation_Starters.md        # Prompts for discussions
-│   └── Progress_Tracking_Dashboard.md           # Monitoring tool
+├── CASE_STUDIES/                                # Real-world examples (5 scenarios)
+│   ├── The_Stuck_Senior_Developer.md            # Overcoming plateau
+│   ├── Brilliant_but_Difficult.md               # High performer with behavior issues
+│   ├── The_Management_Question.md               # IC exploring management path
+│   ├── Promoted_Too_Early.md                    # Supporting premature promotion
+│   └── The_Retention_Crisis.md                  # Top performer retention
 │
-├── CASE_STUDIES/
-│   ├── Case_Study_1_Plateau_Breakthrough.md     # Manager helped IC through plateau
-│   ├── Case_Study_2_Promotion_Journey.md        # Successful promotion story
-│   ├── Case_Study_3_Career_Pivot.md             # Sideways move that worked
-│   └── Case_Study_4_Retention_Through_Growth.md # Kept talent through development
+├── FAQS/                                        # Common questions
+│   └── Career_Progression_FAQ.md                # 32+ questions across 7 categories
 │
-├── FAQS_BY_SCENARIO/
-│   ├── IC_Not_Progressing.md                    # When someone is stuck
-│   ├── High_Performer_Wants_Management.md       # IC to manager transition
-│   ├── IC_Plateaus_at_Level.md                  # Different plateau solutions
-│   ├── Underperforming_IC.md                    # Performance concerns
-│   ├── External_IC_Onboarding.md                # New hire at different level
-│   └── Retention_Counter_Offer.md               # Keeping talent
-│
-├── IC_evaluation_grid_template - raw_weights.csv # The raw data
-├── GENERATION_PROMPT.md                         # How to create rubrics
-├── template.md                                  # Example rubric document
-└── ARCHIVE/                                     # Versioning
-    └── v1_Career_Levels.md
+└── draft/                                       # Draft materials
+    ├── IC_evaluation_grid_template - raw_weights.csv # The raw data
+    ├── GENERATION_PROMPT.md                     # How to create rubrics
+    └── template.md                              # Example rubric document
 ```
 
 ---
@@ -117,7 +79,7 @@ career-path/
 - How to read the CSV
 
 #### **02_Career_Levels_Guide.md**
-- Overview of all 7 levels
+- Overview of all 6 levels
 - Typical progression timeline
 - Transition points between levels
 - Salary/compensation context (if applicable)
@@ -335,7 +297,7 @@ Common problematic situations with:
 - Checklists to ensure nothing is missed
 
 ### 4. **Comprehensive Coverage**
-- All 7 career levels
+- All 6 career levels
 - All 3 skill pillars
 - Common scenarios
 - Edge cases
@@ -388,7 +350,7 @@ Common problematic situations with:
 - 00_Getting_Started.md
 - 01_Framework_Overview.md
 - 02_Career_Levels_Guide.md
-- CAREER_LEVEL_GUIDES/ (all 7)
+- CAREER_LEVEL_GUIDES/ (all 6)
 - 1on1_Agenda_Template.md
 - Development_Plan_Template.md
 
