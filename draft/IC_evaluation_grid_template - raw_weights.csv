@@ -1,0 +1,674 @@
+key,Order,Level,Section,Subsection,Criteria,Role model Rating,Weights,Description
+Junior DeveloperENGINEERING CRAFT,0,Junior Developer,ENGINEERING CRAFT,,,1.3,70%,
+Junior DeveloperENGINEERING CRAFTWriting Code,1,Junior Developer,ENGINEERING CRAFT,Writing Code,,1.2,45%,"The ability to contribute high quality code to production environments.
+Is able to consistently write testable, readable code across larger more complex projects."
+Junior DeveloperENGINEERING CRAFTWriting CodeQuality,2,Junior Developer,ENGINEERING CRAFT,Writing Code,Quality,1.2,50%,"Your code has always followed correct convention, requiring only minor improvements.
+You've made trade-offs knowingly."
+Junior DeveloperENGINEERING CRAFTWriting CodeDocumentation,3,Junior Developer,ENGINEERING CRAFT,Writing Code,Documentation,1.0,25%,You've regularly documented your code and looked to improve documentation elsewhere.
+Junior DeveloperENGINEERING CRAFTWriting CodeLanguage,4,Junior Developer,ENGINEERING CRAFT,Writing Code,Language,1.4,25%,You're committing quality code in at least one language and have a working understanding of other languages your team needs.
+Junior DeveloperENGINEERING CRAFTWriting CodeMentoring,5,Junior Developer,ENGINEERING CRAFT,Writing Code,Mentoring,0.0,0%,N/A
+Junior DeveloperENGINEERING CRAFTTesting,6,Junior Developer,ENGINEERING CRAFT,Testing,,1.7,15%,"The ability to understand and implement great testing practices.
+Understands how to test code, and the valuable role that testing plays."
+Junior DeveloperENGINEERING CRAFTTestingTesting your code,7,Junior Developer,ENGINEERING CRAFT,Testing,Testing your code,2.0,70%,"You consistently write solid unit tests, sometimes with help from more senior engineers."
+Junior DeveloperENGINEERING CRAFTTestingImproving coverage,8,Junior Developer,ENGINEERING CRAFT,Testing,Improving coverage,1.0,20%,You've spotted small areas of low test coverage and patched them.
+Junior DeveloperENGINEERING CRAFTTestingTaking responsibility,9,Junior Developer,ENGINEERING CRAFT,Testing,Taking responsibility,1.0,10%,You've consistently ensured that your code passes tests before creating or merging pull requests
+Junior DeveloperENGINEERING CRAFTTestingLeading testing strategy,10,Junior Developer,ENGINEERING CRAFT,Testing,Leading testing strategy,0.0,0%,N/A
+Junior DeveloperENGINEERING CRAFTTestingAdvocating for testing,11,Junior Developer,ENGINEERING CRAFT,Testing,Advocating for testing,0.0,0%,N/A
+Junior DeveloperENGINEERING CRAFTTechnical Understanding & Prioritisation,12,Junior Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,,1.3,15%,"The ability to develop technical understanding and use this to prioritise tasks appropriately.
+Shows some confidence in technical understanding including the importance of prioritisation."
+Junior DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationUnderstanding code,13,Junior Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Understanding code,1.4,60%,"You are able to gain context within the team's domain with occasional help from more senior engineers.
+You are comfortable with the basics of code interface design and are learning to be more intentional."
+Junior DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationTechnical collaboration,14,Junior Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Technical collaboration,1.2,25%,You communicate accurately about all technical subjects in your work.
+Junior DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationWork breakdown,15,Junior Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Work breakdown,1.0,10%,You understand the importance of rightsizing tasks for incremental delivery plus continuous integration.
+Junior DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationTask prioritisation,16,Junior Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Task prioritisation,1.0,5%,You can plan work tasks with help from team members and manager. You deliver based on the agreed priority of works tasks.
+Junior DeveloperENGINEERING CRAFTSoftware Architecture,17,Junior Developer,ENGINEERING CRAFT,Software Architecture,,0.9,10%,"The ability to interact and engage with architectural approaches of the organization.
+Is able to design basic functions, avoiding duplication across codebases and interface-breaking changes based on an understanding of the overall service architecture"
+Junior DeveloperENGINEERING CRAFTSoftware ArchitectureReaction to feedback,18,Junior Developer,ENGINEERING CRAFT,Software Architecture,Reaction to feedback,2.0,30%,You understand the feedback given and applies it consistently to your work
+Junior DeveloperENGINEERING CRAFTSoftware ArchitectureCode,19,Junior Developer,ENGINEERING CRAFT,Software Architecture,Code,1.0,30%,N/A
+Junior DeveloperENGINEERING CRAFTSoftware ArchitectureDesign,20,Junior Developer,ENGINEERING CRAFT,Software Architecture,Design,0.0,20%,"You are comfortable with the basics of code interface design, and are learning to be more intentional."
+Junior DeveloperENGINEERING CRAFTSoftware ArchitectureDevelopment,21,Junior Developer,ENGINEERING CRAFT,Software Architecture,Development,0.0,20%,N/A
+Junior DeveloperENGINEERING CRAFTSoftware ArchitectureTechnical debt,22,Junior Developer,ENGINEERING CRAFT,Software Architecture,Technical debt,0.5,0%,You can usually recognize technical debt and can pay it down when advised.
+Junior DeveloperENGINEERING CRAFTSecurity,23,Junior Developer,ENGINEERING CRAFT,Security,,1.3,10%,"The ability to understand and apply security principles, handle user data appropriately and report security concerns.
+Is able to understand the importance of security."
+Junior DeveloperENGINEERING CRAFTSecurityKnowledge,24,Junior Developer,ENGINEERING CRAFT,Security,Knowledge,1.2,40%,You understand basic security principles and apply them to your daily work.
+Junior DeveloperENGINEERING CRAFTSecurityUser data,25,Junior Developer,ENGINEERING CRAFT,Security,User data,1.5,40%,You understand the importance of handling user data and do so responsibly.
+Junior DeveloperENGINEERING CRAFTSecurityReporting,26,Junior Developer,ENGINEERING CRAFT,Security,Reporting,1.0,20%,You immediately report security concerns to manager or security teams.
+Junior DeveloperENGINEERING CRAFTSecurityProactivity,27,Junior Developer,ENGINEERING CRAFT,Security,Proactivity,0.5,0%,N/A
+Junior DeveloperENGINEERING CRAFTSecurityCollaboration,28,Junior Developer,ENGINEERING CRAFT,Security,Collaboration,0.8,0%,N/A
+Junior DeveloperENGINEERING CRAFTSecurityStrategy,29,Junior Developer,ENGINEERING CRAFT,Security,Strategy,0.0,0%,N/A
+Junior DeveloperENGINEERING CRAFTDebugging & Monitoring,30,Junior Developer,ENGINEERING CRAFT,Debugging & Monitoring,,1.1,5%,"The ability to understand and implement systematic debugging and monitoring practices to diagnose issues.
+Understands debugging basics, the appropriate tools to use and is beginning to implement good monitoring practices."
+Junior DeveloperENGINEERING CRAFTDebugging & MonitoringDebugging,31,Junior Developer,ENGINEERING CRAFT,Debugging & Monitoring,Debugging,1.2,60%,You are able do basic code profiling and optimize obvious bugs
+Junior DeveloperENGINEERING CRAFTDebugging & MonitoringTools,32,Junior Developer,ENGINEERING CRAFT,Debugging & Monitoring,Tools,1.0,30%,You use out-of-the box tools to instrument and monitor systems with occasional help from senior engineers.
+Junior DeveloperENGINEERING CRAFTDebugging & MonitoringPhilosophy,33,Junior Developer,ENGINEERING CRAFT,Debugging & Monitoring,Philosophy,0.5,10%,You understand the team's monitoring philosophy and work comfortably within it.
+Junior DeveloperENGINEERING CRAFTDebugging & MonitoringData,34,Junior Developer,ENGINEERING CRAFT,Debugging & Monitoring,Data,0.8,0%,N/A
+Junior DeveloperENGINEERING CRAFTDebugging & MonitoringProfiling,35,Junior Developer,ENGINEERING CRAFT,Debugging & Monitoring,Profiling,0.5,0%,N/A
+Junior DeveloperENGINEERING CRAFTDebugging & MonitoringMentoring,36,Junior Developer,ENGINEERING CRAFT,Debugging & Monitoring,Mentoring,0.0,0%,N/A
+Junior DeveloperSOFT SKILLS,37,Junior Developer,SOFT SKILLS,,,1.2,25%,
+Junior DeveloperSOFT SKILLSEmpathy & Humility,38,Junior Developer,SOFT SKILLS,Empathy & Humility,,0.9,40%,"The ability to share someone else's feelings or experiences by imagining what it would be like to be in that person's situation.
+Constantly pushes for a better understanding of the needs and perspectives of those outside their own viewpoint."
+Junior DeveloperSOFT SKILLSEmpathy & HumilityCredit and blame,39,Junior Developer,SOFT SKILLS,Empathy & Humility,Credit and blame,1.0,30%,"You actively look to ensure praise is shared fairly when given to you. If someone else is blamed for your mistake, you own up."
+Junior DeveloperSOFT SKILLSEmpathy & HumilityUnderstanding others,40,Junior Developer,SOFT SKILLS,Empathy & Humility,Understanding others,1.5,30%,You regularly and actively ask others for their opinions with the goal of better understanding where they're coming from.
+Junior DeveloperSOFT SKILLSEmpathy & HumilityMediation and facilitation,41,Junior Developer,SOFT SKILLS,Empathy & Humility,Mediation and facilitation,0.5,20%,"You have de-escalated disagreements amongst your peers, looking for common ground."
+Junior DeveloperSOFT SKILLSEmpathy & HumilityMentoring,42,Junior Developer,SOFT SKILLS,Empathy & Humility,Mentoring,0.0,20%,You've proactively developed at least one informal mentoring relationship through your ability to understand a peer or subordinate.
+Junior DeveloperSOFT SKILLSCommunication,43,Junior Developer,SOFT SKILLS,Communication,,1.3,30%,"The ability to communicate well with those around you with sensitivity to timeliness, medium, brevity and tone.
+Communicates with wider team, feeds back on communication of others."
+Junior DeveloperSOFT SKILLSCommunicationKeeping people informed,44,Junior Developer,SOFT SKILLS,Communication,Keeping people informed,1.2,50%,"You communicate work updates from your peers across your wider team, and respond to feedback in a timely manner."
+Junior DeveloperSOFT SKILLSCommunicationLooking for feedback,45,Junior Developer,SOFT SKILLS,Communication,Looking for feedback,2.0,30%,"You consistently ask for critique on your thinking from a wider group, and inform the group which elements you're incorporating into your work."
+Junior DeveloperSOFT SKILLSCommunicationDelivering bad news,46,Junior Developer,SOFT SKILLS,Communication,Delivering bad news,0.5,10%,You recognise when you need help from outside your immediate peers and asked for it effectively.
+Junior DeveloperSOFT SKILLSCommunicationMentoring communicators,47,Junior Developer,SOFT SKILLS,Communication,Mentoring communicators,0.0,10%,You are able to unpick the communication of others around you and offer advice and feedback.
+Junior DeveloperSOFT SKILLSInitiative,48,Junior Developer,SOFT SKILLS,Initiative,,1.9,20%,"The ability to use your judgment to make decisions and do things without needing to be told what to do.
+Doesn't wait to be asked. Open minded about their own skillset."
+Junior DeveloperSOFT SKILLSInitiativeCan-do attitude,49,Junior Developer,SOFT SKILLS,Initiative,Can-do attitude,2.0,60%,You repeatedly demonstrate a positive attitude when given new projects.
+Junior DeveloperSOFT SKILLSInitiativePro-activity in seeking help,50,Junior Developer,SOFT SKILLS,Initiative,Pro-activity in seeking help,2.0,25%,"If you're stuck on something, you seek help quickly from the correct party."
+Junior DeveloperSOFT SKILLSInitiativeFollow through,51,Junior Developer,SOFT SKILLS,Initiative,Follow through,1.0,15%,You've taken on a small piece of work with ill-defined or unknown requirements and helped to push through to a successful outcome.
+Junior DeveloperSOFT SKILLSObjectivity & Adaptability,52,Junior Developer,SOFT SKILLS,Objectivity & Adaptability,,1.5,8%,"The ability to deal with problems based on conditions that really exist, rather than following fixed theories, ideas, or rules, and to adapt to suit different conditions.
+Able to be objective in evaluating their own work and comfortable and accepting of new contexts and roles."
+Junior DeveloperSOFT SKILLSObjectivity & AdaptabilityEfficient decision-making,53,Junior Developer,SOFT SKILLS,Objectivity & Adaptability,Efficient decision-making,1.0,50%,You regularly make decisions regarding the direction of your own work in a timely manner.
+Junior DeveloperSOFT SKILLSObjectivity & AdaptabilitySelf improvement,54,Junior Developer,SOFT SKILLS,Objectivity & Adaptability,Self improvement,2.5,30%,"You can name three activities which give you energy, and three which drain you."
+Junior DeveloperSOFT SKILLSObjectivity & AdaptabilityObjectivity,55,Junior Developer,SOFT SKILLS,Objectivity & Adaptability,Objectivity,1.5,15%,You allow your plan to be changed by new information.
+Junior DeveloperSOFT SKILLSObjectivity & AdaptabilityTime management,56,Junior Developer,SOFT SKILLS,Objectivity & Adaptability,Time management,1.4,5%,You look to reduce or change the scope of your work to meet a timeline or criteria not set by you.
+Junior DeveloperSOFT SKILLSBusiness Acumen,57,Junior Developer,SOFT SKILLS,Business Acumen,,1.0,2%,
+Junior DeveloperSOFT SKILLSBusiness AcumenUnderstanding level,58,Junior Developer,SOFT SKILLS,Business Acumen,Understanding level,1.0,100%,Has a basic understanding of their team's domain and related marketplace.
+Junior DeveloperLEADERSHIP,59,Junior Developer,LEADERSHIP,,,0.5,5%,
+Junior DeveloperLEADERSHIPHiring and Org Design,60,Junior Developer,LEADERSHIP,Hiring and Org Design,,0.0,20%,"The ability to understand the needs of the business and ensure that your team can meet them.
+A competent interviewer. Able to follow a structured hiring process, and make a decision."
+Junior DeveloperLEADERSHIPHiring and Org DesignDeploying Teams,61,Junior Developer,LEADERSHIP,Hiring and Org Design,Deploying Teams,0.0,40%,N/A
+Junior DeveloperLEADERSHIPHiring and Org DesignEmployer Brand,62,Junior Developer,LEADERSHIP,Hiring and Org Design,Employer Brand,0.0,40%,N/A
+Junior DeveloperLEADERSHIPHiring and Org DesignHiring,63,Junior Developer,LEADERSHIP,Hiring and Org Design,Hiring,0.0,20%,N/A
+Junior DeveloperLEADERSHIPStakeholder Management,64,Junior Developer,LEADERSHIP,Stakeholder Management,,0.7,30%,"The ability to ensure that teams are protected and expectations are set correctly.
+Is able to keep tangential teams informed and expectations managed around everyday work updates.
+Uses judgement about others' reaction when disclosing information and opinions."
+Junior DeveloperLEADERSHIPStakeholder ManagementManaging Goals and Expectations,65,Junior Developer,LEADERSHIP,Stakeholder Management,Managing Goals and Expectations,0.5,40%,"You lead on successful projects with external clients, internal stakeholders or partners with a successful outcome, ensuring goals are understood throughout."
+Junior DeveloperLEADERSHIPStakeholder ManagementForesight,66,Junior Developer,LEADERSHIP,Stakeholder Management,Foresight,0.8,30%,"You work to inform departments, stakeholders or clients of an issue they face without being asked or expected to do so."
+Junior DeveloperLEADERSHIPStakeholder ManagementEngendering Trust,67,Junior Developer,LEADERSHIP,Stakeholder Management,Engendering Trust,1.2,20%,You bring stakeholders or clients into a process in a way that makes best use of their time and their strengths.
+Junior DeveloperLEADERSHIPStakeholder ManagementProtecting the Team,68,Junior Developer,LEADERSHIP,Stakeholder Management,Protecting the Team,0.5,10%,You manage a client or stakeholder relationship for a project.
+Junior DeveloperLEADERSHIPTeam Leadership,69,Junior Developer,LEADERSHIP,Team Leadership,,0.9,20%,"The ability to maintain quality, efficiency and establish trust in your ability."
+Junior DeveloperLEADERSHIPTeam LeadershipPutting the Team first,70,Junior Developer,LEADERSHIP,Team Leadership,Putting the Team first,1.0,50%,N/A
+Junior DeveloperLEADERSHIPTeam LeadershipDifficult Conversations,71,Junior Developer,LEADERSHIP,Team Leadership,Difficult Conversations,0.0,20%,N/A
+Junior DeveloperLEADERSHIPTeam LeadershipReliability,72,Junior Developer,LEADERSHIP,Team Leadership,Reliability,1.0,20%,N/A
+Junior DeveloperLEADERSHIPTeam LeadershipVulnerability,73,Junior Developer,LEADERSHIP,Team Leadership,Vulnerability,1.5,10%,N/A
+Junior DeveloperLEADERSHIPDeveloping Others,74,Junior Developer,LEADERSHIP,Developing Others,,0.2,20%,The ability to develop the skillsets and abilities of your team.
+Junior DeveloperLEADERSHIPDeveloping OthersIdentifying strengths,75,Junior Developer,LEADERSHIP,Developing Others,Identifying strengths,0.0,30%,N/A
+Junior DeveloperLEADERSHIPDeveloping OthersSupporting team growth,76,Junior Developer,LEADERSHIP,Developing Others,Supporting team growth,0.0,40%,N/A
+Junior DeveloperLEADERSHIPDeveloping OthersInvesting in process,77,Junior Developer,LEADERSHIP,Developing Others,Investing in process,0.5,20%,N/A
+Junior DeveloperLEADERSHIPDeveloping OthersFeedback on work,78,Junior Developer,LEADERSHIP,Developing Others,Feedback on work,0.5,10%,N/A
+Junior DeveloperLEADERSHIPCulture & Togetherness,79,Junior Developer,LEADERSHIP,Culture & Togetherness,,1.1,10%,"The ability to bring groups together and foster a happy and productive environment.
+Actively signals according to behaviour they want to see.
+Keeps a cool head around others even in stressful situations.
+Is involved in the planning and organising of team activities."
+Junior DeveloperLEADERSHIPCulture & TogethernessSetting an Example,80,Junior Developer,LEADERSHIP,Culture & Togetherness,Setting an Example,1.5,50%,"You state your expectations of how your team should work and act, then demonstrate those expectations yourself.
+You ask for feedback on your signalling and make a changes where appropriate."
+Junior DeveloperLEADERSHIPCulture & TogethernessEncouraging diverse opinions,81,Junior Developer,LEADERSHIP,Culture & Togetherness,Encouraging diverse opinions,0.5,30%,"You help to organise and activate efforts towards a fairer, more diverse and safer workplace."
+Junior DeveloperLEADERSHIPCulture & TogethernessDeveloping personal relationships,82,Junior Developer,LEADERSHIP,Culture & Togetherness,Developing personal relationships,1.0,20%,You invest in the relationships you are fostering with your team. You respect the sanctity of pastoral care and 1:1 time. You don't cancel and are never late.
+Confirmed DeveloperENGINEERING CRAFT,0,Confirmed Developer,ENGINEERING CRAFT,,,2.0,65%,
+Confirmed DeveloperENGINEERING CRAFTWriting Code,1,Confirmed Developer,ENGINEERING CRAFT,Writing Code,,1.9,40%,"The ability to contribute high quality code to production environments.
+Is able to consistently write production-ready code across large, complex projects."
+Confirmed DeveloperENGINEERING CRAFTWriting CodeQuality,2,Confirmed Developer,ENGINEERING CRAFT,Writing Code,Quality,2.0,45%,"You're regularly trusted to lead complex and business-critical coding projects, including guiding others."
+Confirmed DeveloperENGINEERING CRAFTWriting CodeDocumentation,3,Confirmed Developer,ENGINEERING CRAFT,Writing Code,Documentation,1.8,25%,"Your code is consistently self-documenting where possible. You've regularly maintained, improved and extended existing documentation unprompted."
+Confirmed DeveloperENGINEERING CRAFTWriting CodeLanguage,4,Confirmed Developer,ENGINEERING CRAFT,Writing Code,Language,2.2,25%,You're committing quality code in any language your team needs OR you're best in class at one language.
+Confirmed DeveloperENGINEERING CRAFTWriting CodeMentoring,5,Confirmed Developer,ENGINEERING CRAFT,Writing Code,Mentoring,0.5,5%,You have mentored several junior engineers around code quality.
+Confirmed DeveloperENGINEERING CRAFTTesting,6,Confirmed Developer,ENGINEERING CRAFT,Testing,,2.5,15%,"The ability to understand and implement great testing practices.
+Understands the importance of a testing strategy, with growing levels of autonomy."
+Confirmed DeveloperENGINEERING CRAFTTestingTesting your code,7,Confirmed Developer,ENGINEERING CRAFT,Testing,Testing your code,2.8,60%,You usually write detailed unit and functional tests covering edge cases as well as happy paths.
+Confirmed DeveloperENGINEERING CRAFTTestingImproving coverage,8,Confirmed Developer,ENGINEERING CRAFT,Testing,Improving coverage,2.0,25%,You've improved test coverage in adjacent areas of code to your own without being asked.
+Confirmed DeveloperENGINEERING CRAFTTestingTaking responsibility,9,Confirmed Developer,ENGINEERING CRAFT,Testing,Taking responsibility,1.8,15%,You've ensured that code committed by your immediate team is well tested and passing
+Confirmed DeveloperENGINEERING CRAFTTestingLeading testing strategy,10,Confirmed Developer,ENGINEERING CRAFT,Testing,Leading testing strategy,0.0,0%,N/A
+Confirmed DeveloperENGINEERING CRAFTTestingAdvocating for testing,11,Confirmed Developer,ENGINEERING CRAFT,Testing,Advocating for testing,0.0,0%,N/A
+Confirmed DeveloperENGINEERING CRAFTTechnical Understanding & Prioritisation,12,Confirmed Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,,2.1,15%,"The ability to develop technical understanding and use this to prioritise tasks appropriately.
+Is able to display a clear technical confidence and understanding, prioritises tasks and acts accordingly."
+Confirmed DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationUnderstanding code,13,Confirmed Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Understanding code,2.2,55%,"You understand a good amount of the team's domain, and can gain sufficient context to work productively within that."
+Confirmed DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationTechnical collaboration,14,Confirmed Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Technical collaboration,2.0,25%,You can lead technical explanations when appropriate. You know when to listen and give space to team members.
+Confirmed DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationWork breakdown,15,Confirmed Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Work breakdown,1.8,15%,"In advance of starting, you ensure that tasks are appropriately sized for incremental delivery and continuous integration, with some help from team members and your manager."
+Confirmed DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationTask prioritisation,16,Confirmed Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Task prioritisation,1.8,5%,You act according to task prioritisation whilst noting task dependencies.
+Confirmed DeveloperENGINEERING CRAFTSoftware Architecture,17,Confirmed Developer,ENGINEERING CRAFT,Software Architecture,,1.5,12%,"The ability to interact and engage with architectural approaches of the organization.
+Has a good understanding of, and designs functions that are aligned with, the overall service architecture."
+Confirmed DeveloperENGINEERING CRAFTSoftware ArchitectureReaction to feedback,18,Confirmed Developer,ENGINEERING CRAFT,Software Architecture,Reaction to feedback,2.5,25%,N/A
+Confirmed DeveloperENGINEERING CRAFTSoftware ArchitectureCode,19,Confirmed Developer,ENGINEERING CRAFT,Software Architecture,Code,1.8,25%,N/A
+Confirmed DeveloperENGINEERING CRAFTSoftware ArchitectureDesign,20,Confirmed Developer,ENGINEERING CRAFT,Software Architecture,Design,0.5,25%,You show a good intuition for code interface design.
+Confirmed DeveloperENGINEERING CRAFTSoftware ArchitectureDevelopment,21,Confirmed Developer,ENGINEERING CRAFT,Software Architecture,Development,1.0,25%,You consistently look for opportunities to learn from other projects and teams.
+Confirmed DeveloperENGINEERING CRAFTSoftware ArchitectureTechnical debt,22,Confirmed Developer,ENGINEERING CRAFT,Software Architecture,Technical debt,1.3,0%,You consistently recognize technical debt and look for opportunities to negotiate and pay it down incrementally.
+Confirmed DeveloperENGINEERING CRAFTSecurity,23,Confirmed Developer,ENGINEERING CRAFT,Security,,2.0,10%,"The ability to understand and apply security principles, handle user data appropriately and report security concerns.
+Is able to understand the importance of security and starts to see work through a security lens."
+Confirmed DeveloperENGINEERING CRAFTSecurityKnowledge,24,Confirmed Developer,ENGINEERING CRAFT,Security,Knowledge,2.0,35%,"You understand general security principles and apply them to your daily work.
+You ask more senior engineers for help on making decisions that may have security implications."
+Confirmed DeveloperENGINEERING CRAFTSecurityUser data,25,Confirmed Developer,ENGINEERING CRAFT,Security,User data,2.3,35%,You understand the importance of handling user data and does so responsibly without exception.
+Confirmed DeveloperENGINEERING CRAFTSecurityReporting,26,Confirmed Developer,ENGINEERING CRAFT,Security,Reporting,1.8,20%,You immediately reports security concerns to manager or security teams.
+Confirmed DeveloperENGINEERING CRAFTSecurityProactivity,27,Confirmed Developer,ENGINEERING CRAFT,Security,Proactivity,1.3,10%,N/A
+Confirmed DeveloperENGINEERING CRAFTSecurityCollaboration,28,Confirmed Developer,ENGINEERING CRAFT,Security,Collaboration,1.6,0%,N/A
+Confirmed DeveloperENGINEERING CRAFTSecurityStrategy,29,Confirmed Developer,ENGINEERING CRAFT,Security,Strategy,0.5,0%,N/A
+Confirmed DeveloperENGINEERING CRAFTDebugging & Monitoring,30,Confirmed Developer,ENGINEERING CRAFT,Debugging & Monitoring,,1.8,8%,"The ability to understand and implement systematic debugging and monitoring practices to diagnose issues.
+Understands debugging basics, the appropriate tools to use and is beginning to implement good monitoring practices."
+Confirmed DeveloperENGINEERING CRAFTDebugging & MonitoringDebugging,31,Confirmed Developer,ENGINEERING CRAFT,Debugging & Monitoring,Debugging,2.0,55%,You can do multi application and multi layer profiling without support and optimize almost all bugs.
+Confirmed DeveloperENGINEERING CRAFTDebugging & MonitoringTools,32,Confirmed Developer,ENGINEERING CRAFT,Debugging & Monitoring,Tools,1.8,25%,"You customize out of the box tools, and on occasion create small custom tools to instrument and monitor systems."
+Confirmed DeveloperENGINEERING CRAFTDebugging & MonitoringPhilosophy,33,Confirmed Developer,ENGINEERING CRAFT,Debugging & Monitoring,Philosophy,1.3,15%,You understand the organization's monitoring philosophy. You help tune and change the monitoring philosophy on your team.
+Confirmed DeveloperENGINEERING CRAFTDebugging & MonitoringData,34,Confirmed Developer,ENGINEERING CRAFT,Debugging & Monitoring,Data,1.6,5%,You understand the operational data for your team's domain.
+Confirmed DeveloperENGINEERING CRAFTDebugging & MonitoringProfiling,35,Confirmed Developer,ENGINEERING CRAFT,Debugging & Monitoring,Profiling,1.3,0%,N/A
+Confirmed DeveloperENGINEERING CRAFTDebugging & MonitoringMentoring,36,Confirmed Developer,ENGINEERING CRAFT,Debugging & Monitoring,Mentoring,0.0,0%,N/A
+Confirmed DeveloperSOFT SKILLS,37,Confirmed Developer,SOFT SKILLS,,,1.7,30%,
+Confirmed DeveloperSOFT SKILLSEmpathy & Humility,38,Confirmed Developer,SOFT SKILLS,Empathy & Humility,,1.5,40%,"The ability to share someone else's feelings or experiences by imagining what it would be like to be in that person's situation.
+Constantly pushes for a better understanding of the needs and perspectives of those outside their own viewpoint."
+Confirmed DeveloperSOFT SKILLSEmpathy & HumilityCredit and blame,39,Confirmed Developer,SOFT SKILLS,Empathy & Humility,Credit and blame,1.8,30%,"You actively look to ensure praise is shared fairly when given to you. If someone else is blamed for your mistake, you own up."
+Confirmed DeveloperSOFT SKILLSEmpathy & HumilityUnderstanding others,40,Confirmed Developer,SOFT SKILLS,Empathy & Humility,Understanding others,2.1,30%,You regularly and actively ask others for their opinions with the goal of better understanding where they're coming from.
+Confirmed DeveloperSOFT SKILLSEmpathy & HumilityMediation and facilitation,41,Confirmed Developer,SOFT SKILLS,Empathy & Humility,Mediation and facilitation,1.3,20%,"You have de-escalated disagreements amongst your peers, looking for common ground."
+Confirmed DeveloperSOFT SKILLSEmpathy & HumilityMentoring,42,Confirmed Developer,SOFT SKILLS,Empathy & Humility,Mentoring,0.5,20%,You've proactively developed at least one informal mentoring relationship through your ability to understand a peer or subordinate.
+Confirmed DeveloperSOFT SKILLSCommunication,43,Confirmed Developer,SOFT SKILLS,Communication,,1.6,25%,"The ability to communicate well with those around you with sensitivity to timeliness, medium, brevity and tone.
+Communicates with wider team, feeds back on communication of others."
+Confirmed DeveloperSOFT SKILLSCommunicationKeeping people informed,44,Confirmed Developer,SOFT SKILLS,Communication,Keeping people informed,1.6,50%,"You communicate work updates from your peers across your wider team, and respond to feedback in a timely manner."
+Confirmed DeveloperSOFT SKILLSCommunicationLooking for feedback,45,Confirmed Developer,SOFT SKILLS,Communication,Looking for feedback,2.4,25%,"You consistently ask for critique on your thinking from a wider group, and inform the group which elements you're incorporating into your work."
+Confirmed DeveloperSOFT SKILLSCommunicationDelivering bad news,46,Confirmed Developer,SOFT SKILLS,Communication,Delivering bad news,1.0,15%,You recognise when you need help from outside your immediate peers and asked for it effectively.
+Confirmed DeveloperSOFT SKILLSCommunicationMentoring communicators,47,Confirmed Developer,SOFT SKILLS,Communication,Mentoring communicators,0.5,10%,You are able to unpick the communication of others around you and offer advice and feedback.
+Confirmed DeveloperSOFT SKILLSInitiative,48,Confirmed Developer,SOFT SKILLS,Initiative,,2.2,20%,"The ability to use your judgment to make decisions and do things without needing to be told what to do.
+You show a good intuition for code interface design."
+Confirmed DeveloperSOFT SKILLSInitiativeCan-do attitude,49,Confirmed Developer,SOFT SKILLS,Initiative,Can-do attitude,2.4,55%,"You see opportunity in every piece of work, however outwardly mundane or solved."
+Confirmed DeveloperSOFT SKILLSInitiativePro-activity in seeking help,50,Confirmed Developer,SOFT SKILLS,Initiative,Pro-activity in seeking help,2.2,25%,"When your team is stuck on something, you are quick to suggest that you all adjust focus, reframe a problem or talk to someone new."
+Confirmed DeveloperSOFT SKILLSInitiativeFollow through,51,Confirmed Developer,SOFT SKILLS,Initiative,Follow through,1.4,20%,You lead medium to large projects with unknown requirements and helped drive to a successful outcome.
+Confirmed DeveloperSOFT SKILLSObjectivity & Adaptability,52,Confirmed Developer,SOFT SKILLS,Objectivity & Adaptability,,2.2,10%,"The ability to deal with problems based on conditions that really exist, rather than following fixed theories, ideas, or rules, and to adapt to suit different conditions.
+Is able to change their mind over strongly-held beliefs and pursue a new path with no loss of velocity."
+Confirmed DeveloperSOFT SKILLSObjectivity & AdaptabilityEfficient decision-making,53,Confirmed Developer,SOFT SKILLS,Objectivity & Adaptability,Efficient decision-making,1.8,50%,"You help your immediate peers to make decisions based on what projects need, not what they feel most comfortable doing."
+Confirmed DeveloperSOFT SKILLSObjectivity & AdaptabilitySelf improvement,54,Confirmed Developer,SOFT SKILLS,Objectivity & Adaptability,Self improvement,3.0,25%,You use your development areas to build improvement goals for yourself and see improvements over time.
+Confirmed DeveloperSOFT SKILLSObjectivity & AdaptabilityObjectivity,55,Confirmed Developer,SOFT SKILLS,Objectivity & Adaptability,Objectivity,2.1,20%,"You look for new information, assuming that you don't know everything. You can point to examples when you had a strong opinion changed for the better."
+Confirmed DeveloperSOFT SKILLSObjectivity & AdaptabilityTime management,56,Confirmed Developer,SOFT SKILLS,Objectivity & Adaptability,Time management,1.9,5%,"You actively flag when you think something can be achieved more quickly, even if it was your plan initially and it will involve admitting fault."
+Confirmed DeveloperSOFT SKILLSBusiness Acumen,57,Confirmed Developer,SOFT SKILLS,Business Acumen,,1.4,5%,
+Confirmed DeveloperSOFT SKILLSBusiness AcumenUnderstanding level,58,Confirmed Developer,SOFT SKILLS,Business Acumen,Understanding level,1.4,100%,"Has a basic understanding of their team's domain, and how it contributes to overall business strategy."
+Confirmed DeveloperLEADERSHIP,59,Confirmed Developer,LEADERSHIP,,,0.9,5%,
+Confirmed DeveloperLEADERSHIPHiring and Org Design,60,Confirmed Developer,LEADERSHIP,Hiring and Org Design,,0.2,20%,"The ability to understand the needs of the business and ensure that your team can meet them.
+A competent interviewer. Able to follow a structured hiring process, and make a decision."
+Confirmed DeveloperLEADERSHIPHiring and Org DesignDeploying Teams,61,Confirmed Developer,LEADERSHIP,Hiring and Org Design,Deploying Teams,0.0,40%,You've carved out an additional role for yourself or peers to fulfil a need that a team has.
+Confirmed DeveloperLEADERSHIPHiring and Org DesignEmployer Brand,62,Confirmed Developer,LEADERSHIP,Hiring and Org Design,Employer Brand,0.5,40%,"You've helped to establish the company as a good employer through promotion on stage or online.
+You've inputted into the company's careers pages."
+Confirmed DeveloperLEADERSHIPHiring and Org DesignHiring,63,Confirmed Developer,LEADERSHIP,Hiring and Org Design,Hiring,0.0,20%,"You are regularly part of hiring panels, and have been hiring manager for at least one hire that passed probation."
+Confirmed DeveloperLEADERSHIPStakeholder Management,64,Confirmed Developer,LEADERSHIP,Stakeholder Management,,1.4,30%,"The ability to ensure that teams are protected and expectations are set correctly.
+Known for being efficient and reliable, and doing what they say they will do.
+Proactively managed expectations even when it results in frustration or personal reputation risk."
+Confirmed DeveloperLEADERSHIPStakeholder ManagementManaging Goals and Expectations,65,Confirmed Developer,LEADERSHIP,Stakeholder Management,Managing Goals and Expectations,1.1,40%,"You lead multiple smaller projects with external clients or internal stakeholders, with a successful outcome."
+Confirmed DeveloperLEADERSHIPStakeholder ManagementForesight,66,Confirmed Developer,LEADERSHIP,Stakeholder Management,Foresight,1.4,30%,"You anticipate issues or requirements on projects in advance and work to raise those with key people outside your team.
+This has resulted in noticeable efficiency gains."
+Confirmed DeveloperLEADERSHIPStakeholder ManagementEngendering Trust,67,Confirmed Developer,LEADERSHIP,Stakeholder Management,Engendering Trust,1.8,20%,"You run several small to medium sized projects in a leadership capacity, working closely with clients and stakeholders with positive reviews."
+Confirmed DeveloperLEADERSHIPStakeholder ManagementProtecting the Team,68,Confirmed Developer,LEADERSHIP,Stakeholder Management,Protecting the Team,1.3,10%,You create space for others in your team to do their best work by managing client or stakeholder relationships.
+Confirmed DeveloperLEADERSHIPTeam Leadership,69,Confirmed Developer,LEADERSHIP,Team Leadership,,1.2,20%,"The ability to maintain quality, efficiency and establish trust in your ability."
+Confirmed DeveloperLEADERSHIPTeam LeadershipPutting the Team first,70,Confirmed Developer,LEADERSHIP,Team Leadership,Putting the Team first,1.5,50%,N/A
+Confirmed DeveloperLEADERSHIPTeam LeadershipDifficult Conversations,71,Confirmed Developer,LEADERSHIP,Team Leadership,Difficult Conversations,0.2,20%,N/A
+Confirmed DeveloperLEADERSHIPTeam LeadershipReliability,72,Confirmed Developer,LEADERSHIP,Team Leadership,Reliability,1.3,20%,N/A
+Confirmed DeveloperLEADERSHIPTeam LeadershipVulnerability,73,Confirmed Developer,LEADERSHIP,Team Leadership,Vulnerability,1.7,10%,N/A
+Confirmed DeveloperLEADERSHIPDeveloping Others,74,Confirmed Developer,LEADERSHIP,Developing Others,,0.5,20%,The ability to develop the skillsets and abilities of your team
+Confirmed DeveloperLEADERSHIPDeveloping OthersIdentifying strengths,75,Confirmed Developer,LEADERSHIP,Developing Others,Identifying strengths,0.4,30%,N/A
+Confirmed DeveloperLEADERSHIPDeveloping OthersSupporting team growth,76,Confirmed Developer,LEADERSHIP,Developing Others,Supporting team growth,0.4,40%,N/A
+Confirmed DeveloperLEADERSHIPDeveloping OthersInvesting in process,77,Confirmed Developer,LEADERSHIP,Developing Others,Investing in process,0.9,20%,N/A
+Confirmed DeveloperLEADERSHIPDeveloping OthersFeedback on work,78,Confirmed Developer,LEADERSHIP,Developing Others,Feedback on work,0.7,10%,N/A
+Confirmed DeveloperLEADERSHIPCulture & Togetherness,79,Confirmed Developer,LEADERSHIP,Culture & Togetherness,,1.4,10%,"The ability to bring groups together and foster a happy and productive environment.
+Actively signals according to behaviour they want to see.
+Keeps a cool head around others even in stressful situations. Is involved in the planning and organising of team activities."
+Confirmed DeveloperLEADERSHIPCulture & TogethernessSetting an Example,80,Confirmed Developer,LEADERSHIP,Culture & Togetherness,Setting an Example,1.8,50%,"You state your expectations of how your team should work and act, then demonstrate those expectations yourself.
+You ask for feedback on your signalling and make a changes where appropriate."
+Confirmed DeveloperLEADERSHIPCulture & TogethernessEncouraging diverse opinions,81,Confirmed Developer,LEADERSHIP,Culture & Togetherness,Encouraging diverse opinions,0.8,30%,"You help to organise and activate efforts towards a fairer, more diverse and safer workplace."
+Confirmed DeveloperLEADERSHIPCulture & TogethernessDeveloping personal relationships,82,Confirmed Developer,LEADERSHIP,Culture & Togetherness,Developing personal relationships,1.2,20%,You invest in the relationships you are fostering with your team. You respect the sanctity of pastoral care and 1:1 time. You don't cancel and are never late.
+Senior DeveloperENGINEERING CRAFT,0,Senior Developer,ENGINEERING CRAFT,,,2.5,60%,
+Senior DeveloperENGINEERING CRAFTWriting Code,1,Senior Developer,ENGINEERING CRAFT,Writing Code,,2.5,35%,"The ability to contribute high quality code to production environments.
+Is able to consistently write production-ready code across large, complex projects."
+Senior DeveloperENGINEERING CRAFTWriting CodeQuality,2,Senior Developer,ENGINEERING CRAFT,Writing Code,Quality,2.6,40%,"You're regularly trusted to lead complex and business-critical coding projects, including guiding others."
+Senior DeveloperENGINEERING CRAFTWriting CodeDocumentation,3,Senior Developer,ENGINEERING CRAFT,Writing Code,Documentation,2.4,20%,"Your code is consistently self-documenting where possible.
+You've regularly maintained, improved and extended existing documentation unprompted."
+Senior DeveloperENGINEERING CRAFTWriting CodeLanguage,4,Senior Developer,ENGINEERING CRAFT,Writing Code,Language,2.8,30%,You're committing quality code in any language your team needs OR you're best in class at one language.
+Senior DeveloperENGINEERING CRAFTWriting CodeMentoring,5,Senior Developer,ENGINEERING CRAFT,Writing Code,Mentoring,1.5,10%,You have mentored several junior engineers around code quality.
+Senior DeveloperENGINEERING CRAFTTesting,6,Senior Developer,ENGINEERING CRAFT,Testing,,2.9,15%,"The ability to understand and implement great testing practices.
+Independently testing, advising the rest of the team on quality of tests."
+Senior DeveloperENGINEERING CRAFTTestingTesting your code,7,Senior Developer,ENGINEERING CRAFT,Testing,Testing your code,3.2,50%,"You always write full tests for your code unassisted, covering all edge cases even with complex functionality."
+Senior DeveloperENGINEERING CRAFTTestingImproving coverage,8,Senior Developer,ENGINEERING CRAFT,Testing,Improving coverage,2.8,30%,You've worked to improve the quality of your own and your team's test coverage.
+Senior DeveloperENGINEERING CRAFTTestingTaking responsibility,9,Senior Developer,ENGINEERING CRAFT,Testing,Taking responsibility,2.4,20%,"You consistently look for and can recall quality metrics to demonstrate your test coverage, and monitor in behalf of your team."
+Senior DeveloperENGINEERING CRAFTTestingLeading testing strategy,10,Senior Developer,ENGINEERING CRAFT,Testing,Leading testing strategy,1.0,0%,N/A
+Senior DeveloperENGINEERING CRAFTTestingAdvocating for testing,11,Senior Developer,ENGINEERING CRAFT,Testing,Advocating for testing,1.0,0%,N/A
+Senior DeveloperENGINEERING CRAFTTechnical Understanding & Prioritisation,12,Senior Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,,2.5,15%,"The ability to develop technical understanding and use this to prioritise tasks appropriately.
+Is a technical and prioritisation leader within the team, including taking some ownership of other team members' technical growth and development."
+Senior DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationUnderstanding code,13,Senior Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Understanding code,2.2,55%,"You understand your team's domain at a high level, including the breadth of services, how they interact, and data flows between systems.
+You understand adjacent domains as they affect your team."
+Senior DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationTechnical collaboration,14,Senior Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Technical collaboration,2.6,25%,You actively facilitate technical discussions between team members and have a deep familiarity with technical topics under discussion
+Senior DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationWork breakdown,15,Senior Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Work breakdown,2.4,15%,"You review projects critically, ensuring they are appropriately delineated and understood by the team."
+Senior DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationTask prioritisation,16,Senior Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Task prioritisation,2.4,10%,"You ensure tasks are prioritised correctly, and that dependencies are noted and well understood by the team, including at the epic level.
+You foster a culture of priority setting and highlight the importance of alignment with organizational strategy"
+Senior DeveloperENGINEERING CRAFTSoftware Architecture,17,Senior Developer,ENGINEERING CRAFT,Software Architecture,,2.2,15%,"The ability to interact and engage with architectural approaches of the organization.
+Is able to consistently design code that is aligned with the overall service architecture."
+Senior DeveloperENGINEERING CRAFTSoftware ArchitectureReaction to feedback,18,Senior Developer,ENGINEERING CRAFT,Software Architecture,Reaction to feedback,3.0,20%,N/A
+Senior DeveloperENGINEERING CRAFTSoftware ArchitectureCode,19,Senior Developer,ENGINEERING CRAFT,Software Architecture,Code,2.6,20%,You are able to utilize abstractions and code isolation effectively.
+Senior DeveloperENGINEERING CRAFTSoftware ArchitectureDesign,20,Senior Developer,ENGINEERING CRAFT,Software Architecture,Design,1.5,30%,"You have deep architectural and design pattern experience.
+You consult with team members only on more difficult designs.
+You set up new projects to ensure architectural success by anticipating future use cases and making design decisions that minimize the cost of future changes"
+Senior DeveloperENGINEERING CRAFTSoftware ArchitectureDevelopment,21,Senior Developer,ENGINEERING CRAFT,Software Architecture,Development,2.0,30%,N/A
+Senior DeveloperENGINEERING CRAFTSoftware ArchitectureTechnical debt,22,Senior Developer,ENGINEERING CRAFT,Software Architecture,Technical debt,2.1,0%,"You make plans with technical debt in mind, and how you will pay it down incrementally and consistently.
+You advise other team members on recognising and considering it"
+Senior DeveloperENGINEERING CRAFTSecurity,23,Senior Developer,ENGINEERING CRAFT,Security,,2.7,10%,"The ability to understand and apply security principles, handle user data appropriately and report security concerns.
+Consistently approaches all engineering work with a security lens."
+Senior DeveloperENGINEERING CRAFTSecurityKnowledge,24,Senior Developer,ENGINEERING CRAFT,Security,Knowledge,2.8,30%,You have an excellent understanding of security principles and you work to better facilitate the team's understanding.
+Senior DeveloperENGINEERING CRAFTSecurityUser data,25,Senior Developer,ENGINEERING CRAFT,Security,User data,3.1,30%,"You have faultless handling of user data, and set an example for others within the team."
+Senior DeveloperENGINEERING CRAFTSecurityReporting,26,Senior Developer,ENGINEERING CRAFT,Security,Reporting,2.6,20%,N/A
+Senior DeveloperENGINEERING CRAFTSecurityProactivity,27,Senior Developer,ENGINEERING CRAFT,Security,Proactivity,2.1,20%,You actively look for security vulnerabilities both in the code and when providing peer reviews.
+Senior DeveloperENGINEERING CRAFTSecurityCollaboration,28,Senior Developer,ENGINEERING CRAFT,Security,Collaboration,2.4,0%,You work with the security teams to help refine technical strategy.
+Senior DeveloperENGINEERING CRAFTSecurityStrategy,29,Senior Developer,ENGINEERING CRAFT,Security,Strategy,1.5,0%,N/A
+Senior DeveloperENGINEERING CRAFTDebugging & Monitoring,30,Senior Developer,ENGINEERING CRAFT,Debugging & Monitoring,,2.5,10%,"The ability to understand and implement systematic debugging and monitoring practices to diagnose issues.
+Uses systematic debugging to diagnose all issues located to a single service and drives monitoring work across the team."
+Senior DeveloperENGINEERING CRAFTDebugging & MonitoringDebugging,31,Senior Developer,ENGINEERING CRAFT,Debugging & Monitoring,Debugging,2.8,40%,"You use systematic debugging to diagnose cross service issues, sometimes with help from more senior engineers."
+Senior DeveloperENGINEERING CRAFTDebugging & MonitoringTools,32,Senior Developer,ENGINEERING CRAFT,Debugging & Monitoring,Tools,2.6,20%,You can judge whether a new tool is necessary to instrument and monitor systems. You can create that tool if required.
+Senior DeveloperENGINEERING CRAFTDebugging & MonitoringPhilosophy,33,Senior Developer,ENGINEERING CRAFT,Debugging & Monitoring,Philosophy,2.1,20%,"You understand the cross-functional and cross-organization implications of your team's monitoring philosophy.
+You proactively seek to refine the monitoring philosophy of your team."
+Senior DeveloperENGINEERING CRAFTDebugging & MonitoringData,34,Senior Developer,ENGINEERING CRAFT,Debugging & Monitoring,Data,2.4,15%,You are aware of the operational data for your team and use it as a basis for driving changes to your team's services to achieve stability and performance improvements.
+Senior DeveloperENGINEERING CRAFTDebugging & MonitoringProfiling,35,Senior Developer,ENGINEERING CRAFT,Debugging & Monitoring,Profiling,2.1,5%,N/A
+Senior DeveloperENGINEERING CRAFTDebugging & MonitoringMentoring,36,Senior Developer,ENGINEERING CRAFT,Debugging & Monitoring,Mentoring,1.0,0%,You act as a primary mentor for the rest of their team on running systems.
+Senior DeveloperSOFT SKILLS,37,Senior Developer,SOFT SKILLS,,,2.3,30%,
+Senior DeveloperSOFT SKILLSEmpathy & Humility,38,Senior Developer,SOFT SKILLS,Empathy & Humility,,2.3,40%,"The ability to share someone else's feelings or experiences by imagining what it would be like to be in that person's situation.
+A great person to have in any room.
+Trusted by peers and their team.
+Can take any problem team and help them drive in the same direction."
+Senior DeveloperSOFT SKILLSEmpathy & HumilityCredit and blame,39,Senior Developer,SOFT SKILLS,Empathy & Humility,Credit and blame,2.6,30%,"You're an ally to your peers and wider team, protecting them from undue blame and pushing praise onto them.
+You regularly look for opportunities to give praise publicly."
+Senior DeveloperSOFT SKILLSEmpathy & HumilityUnderstanding others,40,Senior Developer,SOFT SKILLS,Empathy & Humility,Understanding others,2.7,30%,"You are able to recognise bias in others and help them to see their peers, customers or stakeholders through fresh eyes."
+Senior DeveloperSOFT SKILLSEmpathy & HumilityMediation and facilitation,41,Senior Developer,SOFT SKILLS,Empathy & Humility,Mediation and facilitation,2.1,20%,You help teams within your organisation get closer to each other and understand each other's viewpoints.
+Senior DeveloperSOFT SKILLSEmpathy & HumilityMentoring,42,Senior Developer,SOFT SKILLS,Empathy & Humility,Mentoring,1.5,20%,You've proactively developed multiple informal or formal mentoring relationship through your ability to understand a peer or subordinate.
+Senior DeveloperSOFT SKILLSCommunication,43,Senior Developer,SOFT SKILLS,Communication,,2.0,20%,"The ability to communicate well with those around you with sensitivity to timeliness, medium, brevity and tone.
+Communicates with organisation, helps others in team to communicate."
+Senior DeveloperSOFT SKILLSCommunicationKeeping people informed,44,Senior Developer,SOFT SKILLS,Communication,Keeping people informed,2.0,50%,"You communicate on behalf of your team to the broader organisation on important or divisive projects, handling any questions in a timely manner."
+Senior DeveloperSOFT SKILLSCommunicationLooking for feedback,45,Senior Developer,SOFT SKILLS,Communication,Looking for feedback,2.8,20%,You proactively ask for feedback from important stakeholders in your organisation early in your work.
+Senior DeveloperSOFT SKILLSCommunicationDelivering bad news,46,Senior Developer,SOFT SKILLS,Communication,Delivering bad news,1.5,20%,You communicate changes of plan or slip in timelines to a broad group within your organisation and manage expectations effectively until resolution.
+Senior DeveloperSOFT SKILLSCommunicationMentoring communicators,47,Senior Developer,SOFT SKILLS,Communication,Mentoring communicators,1.0,10%,"You set up processes around more effective communication for your immediate team, and manage its implementation. You proactively offer good feedback to peers on their communication methods."
+Senior DeveloperSOFT SKILLSInitiative,48,Senior Developer,SOFT SKILLS,Initiative,,2.5,20%,"The ability to use your judgment to make decisions and do things without needing to be told what to do.
+Refuses to believe that anything is unachievable.
+Infectious desire to activate and progress.
+Drives others to create their best work.
+Like a rocket: just light the fuse."
+Senior DeveloperSOFT SKILLSInitiativeCan-do attitude,49,Senior Developer,SOFT SKILLS,Initiative,Can-do attitude,2.8,50%,"You're constantly creating new opportunities for yourself and those around you.
+Your team is celebrated for innovation as a result of your contributions."
+Senior DeveloperSOFT SKILLSInitiativePro-activity in seeking help,50,Senior Developer,SOFT SKILLS,Initiative,Pro-activity in seeking help,2.4,25%,"You recognise a lack of expertise in yourself and your organisation, and pro-actively found that expertise in areas not given to you.
+This leads to a successful outcome on more than one occasion."
+Senior DeveloperSOFT SKILLSInitiativeFollow through,51,Senior Developer,SOFT SKILLS,Initiative,Follow through,1.8,25%,You adapt your skillset and knowledge to lead large or complex projects to a successful outcome.
+Senior DeveloperSOFT SKILLSObjectivity & Adaptability,52,Senior Developer,SOFT SKILLS,Objectivity & Adaptability,,2.8,10%,"The ability to deal with problems based on conditions that really exist, rather than following fixed theories, ideas, or rules, and to adapt to suit different conditions.
+Can take problems outside their skillset and quickly adapt to solve them. Helps other peers to do the same."
+Senior DeveloperSOFT SKILLSObjectivity & AdaptabilityEfficient decision-making,53,Senior Developer,SOFT SKILLS,Objectivity & Adaptability,Efficient decision-making,2.6,50%,"You help your team to make decisions in a more timely manner, breaking down assumptions about the shape of the work and encouraging people to value done over perfect."
+Senior DeveloperSOFT SKILLSObjectivity & AdaptabilitySelf improvement,54,Senior Developer,SOFT SKILLS,Objectivity & Adaptability,Self improvement,3.5,20%,You can point to several areas of improvement resulting from your focus on improving development areas over time.
+Senior DeveloperSOFT SKILLSObjectivity & AdaptabilityObjectivity,55,Senior Developer,SOFT SKILLS,Objectivity & Adaptability,Objectivity,2.7,20%,"You are positive in the face of dramatic changes of plans.
+Curveballs are dealt with sensibly without frustration."
+Senior DeveloperSOFT SKILLSObjectivity & AdaptabilityTime management,56,Senior Developer,SOFT SKILLS,Objectivity & Adaptability,Time management,2.4,10%,"You're in control of your calendar.
+You take no issue with not being involved in a project or meeting if it means saving you time."
+Senior DeveloperSOFT SKILLSBusiness Acumen,57,Senior Developer,SOFT SKILLS,Business Acumen,,1.8,10%,
+Senior DeveloperSOFT SKILLSBusiness AcumenUnderstanding level,58,Senior Developer,SOFT SKILLS,Business Acumen,Understanding level,1.8,100%,"Has a thorough understanding of their team's domain, and how it contributes to overall business strategy.
+Has a basic understanding of adjacent teams' business domains."
+Senior DeveloperLEADERSHIP,59,Senior Developer,LEADERSHIP,,,1.3,10%,
+Senior DeveloperLEADERSHIPHiring and Org Design,60,Senior Developer,LEADERSHIP,Hiring and Org Design,,0.5,30%,"The ability to understand the needs of the business and ensure that your team can meet them.
+A competent interviewer. Able to follow a structured hiring process, and make a decision."
+Senior DeveloperLEADERSHIPHiring and Org DesignDeploying Teams,61,Senior Developer,LEADERSHIP,Hiring and Org Design,Deploying Teams,0.2,40%,You've carved out an additional role for yourself or peers to fulfil a need that a team has.
+Senior DeveloperLEADERSHIPHiring and Org DesignEmployer Brand,62,Senior Developer,LEADERSHIP,Hiring and Org Design,Employer Brand,1.0,40%,"You've helped to establish the company as a good employer through promotion on stage or online.
+You've inputted into the company's careers pages."
+Senior DeveloperLEADERSHIPHiring and Org DesignHiring,63,Senior Developer,LEADERSHIP,Hiring and Org Design,Hiring,0.0,20%,"You are regularly part of hiring panels, and have been hiring manager for at least one hire that passed probation."
+Senior DeveloperLEADERSHIPStakeholder Management,64,Senior Developer,LEADERSHIP,Stakeholder Management,,2.0,30%,"The ability to ensure that teams are protected and expectations are set correctly.
+Is able to proactively inform stakeholders both within and outside the organisation with pertinent and timely information, including bad news.
+Able to read and adapt to personalities across the organisation. Has good relationships with all key stakeholders."
+Senior DeveloperLEADERSHIPStakeholder ManagementManaging Goals and Expectations,65,Senior Developer,LEADERSHIP,Stakeholder Management,Managing Goals and Expectations,1.7,40%,"You lead multiple larger projects with external clients or internal stakeholders, including managing bad news and scope creep or timeline slippage, with successful outcomes."
+Senior DeveloperLEADERSHIPStakeholder ManagementForesight,66,Senior Developer,LEADERSHIP,Stakeholder Management,Foresight,2.0,30%,"You look for misalignment across large scopes of work involving multiple clients or stakeholders, and ensure that they're smoothed out in advance."
+Senior DeveloperLEADERSHIPStakeholder ManagementEngendering Trust,67,Senior Developer,LEADERSHIP,Stakeholder Management,Engendering Trust,2.4,20%,You've repeatedly proven yourself able to work closely with clients or stakeholders in ways that earn respect and results. You use their time wisely and lean into their knowledge.
+Senior DeveloperLEADERSHIPStakeholder ManagementProtecting the Team,68,Senior Developer,LEADERSHIP,Stakeholder Management,Protecting the Team,2.1,10%,You protect direct reports from difficult stakeholders across multiple projects.
+Senior DeveloperLEADERSHIPTeam Leadership,69,Senior Developer,LEADERSHIP,Team Leadership,,1.6,20%,"The ability to maintain quality, efficiency and establish trust in your ability.
+Capable of informally managing interns, contractors, suppliers and agencies.
+Possibly manages one or two junior team members.
+Doesn't look for glory, and doesn't complain about boring work.
+Assumes good decisions in others work.
+Broadly does what they say they're going to do."
+Senior DeveloperLEADERSHIPTeam LeadershipPutting the Team first,70,Senior Developer,LEADERSHIP,Team Leadership,Putting the Team first,2.0,50%,You regularly make time for listening to and understanding the people you're responsible for.
+Senior DeveloperLEADERSHIPTeam LeadershipDifficult Conversations,71,Senior Developer,LEADERSHIP,Team Leadership,Difficult Conversations,0.4,20%,"You have helped someone on your team out with a difficult personal decision and acted in an objective, professional manner."
+Senior DeveloperLEADERSHIPTeam LeadershipReliability,72,Senior Developer,LEADERSHIP,Team Leadership,Reliability,1.6,20%,You have been open about your intentions when making a team-level decision – for example moving people between teams or introducing new role expectations – and followed through.
+Senior DeveloperLEADERSHIPTeam LeadershipVulnerability,73,Senior Developer,LEADERSHIP,Team Leadership,Vulnerability,1.9,10%,"You have proactively admitted fault and weakness in yourself to team members, and admitted a mistake made in work you've done."
+Senior DeveloperLEADERSHIPDeveloping Others,74,Senior Developer,LEADERSHIP,Developing Others,,0.9,15%,"The ability to develop the skillsets and abilities of your team.
+Able to recognise the strengths of peers, and look for ways to support those strengths through project work.
+Has invested time in materials or process to support team growth.
+Peers see them as an informal coach."
+Senior DeveloperLEADERSHIPDeveloping OthersIdentifying strengths,75,Senior Developer,LEADERSHIP,Developing Others,Identifying strengths,0.8,30%,You recognise natural strengths in your peers which you help them to nurture.
+Senior DeveloperLEADERSHIPDeveloping OthersSupporting team growth,76,Senior Developer,LEADERSHIP,Developing Others,Supporting team growth,0.8,40%,"You support and champion peers in their personal growth, celebrating a promotion, successful project or praise from others."
+Senior DeveloperLEADERSHIPDeveloping OthersInvesting in process,77,Senior Developer,LEADERSHIP,Developing Others,Investing in process,1.3,20%,You invest in your future through a process of skills assessment to define your future direction.
+Senior DeveloperLEADERSHIPDeveloping OthersFeedback on work,78,Senior Developer,LEADERSHIP,Developing Others,Feedback on work,1.1,10%,"Your feedback to peers on their work is honest, actionable and timely.
+You put the needs of the project over personal inhibitions.
+You're comfortable with having your mind changed."
+Senior DeveloperLEADERSHIPCulture & Togetherness,79,Senior Developer,LEADERSHIP,Culture & Togetherness,,1.7,5%,"The ability to bring groups together and foster a happy and productive environment.
+Works to build and document behaviours they expect to see.
+Has trusted relationships with both junior colleagues and peers, and can describe where the organisation is strong or needs development.
+Organises regular team activities."
+Senior DeveloperLEADERSHIPCulture & TogethernessSetting an Example,80,Senior Developer,LEADERSHIP,Culture & Togetherness,Setting an Example,2.1,50%,"You make an effort to document a cultural charter for your team, which you cite regularly and stick to rigorously.
+If you break your rules, you expect to be called out."
+Senior DeveloperLEADERSHIPCulture & TogethernessEncouraging diverse opinions,81,Senior Developer,LEADERSHIP,Culture & Togetherness,Encouraging diverse opinions,1.1,30%,"You're leading efforts to improve diversity in your everyday environment, organising working groups, events and discussion across large parts of your organisation."
+Senior DeveloperLEADERSHIPCulture & TogethernessDeveloping personal relationships,82,Senior Developer,LEADERSHIP,Culture & Togetherness,Developing personal relationships,1.4,20%,"You make a point of knowing all about the people who report directly to you.
+You build close yet professional relationships with all direct reports fostering good levels of trust."
+Staff DeveloperENGINEERING CRAFT,0,Staff Developer,ENGINEERING CRAFT,,,3.0,40%,
+Staff DeveloperENGINEERING CRAFTWriting Code,1,Staff Developer,ENGINEERING CRAFT,Writing Code,,3.2,30%,"The ability to contribute exceptional code quality and serve as a technical leader across multiple teams.
+Recognized as a go-to expert who influences coding practices and technical decisions within their domain and related areas."
+Staff DeveloperENGINEERING CRAFTWriting CodeQuality,2,Staff Developer,ENGINEERING CRAFT,Writing Code,Quality,3.2,40%,"You're recognized as a technical authority across multiple teams, establishing coding standards and best practices that are adopted by related teams. You evaluate and recommend new technologies for your domain."
+Staff DeveloperENGINEERING CRAFTWriting CodeDocumentation,3,Staff Developer,ENGINEERING CRAFT,Writing Code,Documentation,3.0,20%,"You create comprehensive documentation strategies for complex projects spanning multiple teams, establishing patterns and practices that others follow."
+Staff DeveloperENGINEERING CRAFTWriting CodeLanguage,4,Staff Developer,ENGINEERING CRAFT,Writing Code,Language,3.4,30%,"You're highly proficient in multiple programming languages and serve as the domain expert for your primary technology stack, guiding technology decisions across related teams."
+Staff DeveloperENGINEERING CRAFTWriting CodeMentoring,5,Staff Developer,ENGINEERING CRAFT,Writing Code,Mentoring,2.5,10%,"You actively mentor senior engineers across multiple teams, helping them develop technical leadership skills and deep domain expertise."
+Staff DeveloperENGINEERING CRAFTTesting,6,Staff Developer,ENGINEERING CRAFT,Testing,,2.5,15%,"The ability to design and implement comprehensive testing strategies across multiple teams.
+Serves as a testing expert who influences quality practices beyond their immediate team."
+Staff DeveloperENGINEERING CRAFTTestingTesting your code,7,Staff Developer,ENGINEERING CRAFT,Testing,Testing your code,3.6,0%,N/A
+Staff DeveloperENGINEERING CRAFTTestingImproving coverage,8,Staff Developer,ENGINEERING CRAFT,Testing,Improving coverage,3.2,0%,N/A
+Staff DeveloperENGINEERING CRAFTTestingTaking responsibility,9,Staff Developer,ENGINEERING CRAFT,Testing,Taking responsibility,2.8,0%,N/A
+Staff DeveloperENGINEERING CRAFTTestingLeading testing strategy,10,Staff Developer,ENGINEERING CRAFT,Testing,Leading testing strategy,2.5,50%,"You design testing strategies for complex, multi-team projects, establishing testing frameworks and practices that ensure quality across your domain."
+Staff DeveloperENGINEERING CRAFTTestingAdvocating for testing,11,Staff Developer,ENGINEERING CRAFT,Testing,Advocating for testing,2.5,50%,"You're consulted by multiple teams when designing testing approaches for new features and systems, serving as the go-to expert for testing strategy in your domain."
+Staff DeveloperENGINEERING CRAFTTechnical Understanding & Prioritisation,12,Staff Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,,3.3,15%,"The ability to understand complex technical systems across multiple teams and drive effective technical prioritization.
+Bridges technical complexity with business needs across related domains."
+Staff DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationUnderstanding code,13,Staff Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Understanding code,3.4,50%,"You have deep expertise across multiple related teams' domains, understanding complex system interactions and serving as the authority on technical architecture within your area."
+Staff DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationTechnical collaboration,14,Staff Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Technical collaboration,3.2,25%,"You proactively identify and address technical knowledge gaps across multiple teams, facilitating collaboration and knowledge sharing."
+Staff DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationWork breakdown,15,Staff Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Work breakdown,3.0,15%,"You lead the technical breakdown of complex initiatives spanning multiple teams, ensuring proper planning and coordination."
+Staff DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationTask prioritisation,16,Staff Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Task prioritisation,3.0,10%,"You help multiple teams align their technical priorities with business objectives, ensuring efficient use of engineering resources across your domain."
+Staff DeveloperENGINEERING CRAFTSoftware Architecture,17,Staff Developer,ENGINEERING CRAFT,Software Architecture,,2.8,15%,"The ability to design and influence architectural decisions across multiple teams.
+Drives architectural consistency and quality within their domain while contributing to broader organizational patterns."
+Staff DeveloperENGINEERING CRAFTSoftware ArchitectureReaction to feedback,18,Staff Developer,ENGINEERING CRAFT,Software Architecture,Reaction to feedback,3.5,0%,N/A
+Staff DeveloperENGINEERING CRAFTSoftware ArchitectureCode,19,Staff Developer,ENGINEERING CRAFT,Software Architecture,Code,3.4,0%,N/A
+Staff DeveloperENGINEERING CRAFTSoftware ArchitectureDesign,20,Staff Developer,ENGINEERING CRAFT,Software Architecture,Design,2.5,40%,"You lead architectural decisions for complex, multi-team initiatives, designing systems that support both current needs and future growth within your domain."
+Staff DeveloperENGINEERING CRAFTSoftware ArchitectureDevelopment,21,Staff Developer,ENGINEERING CRAFT,Software Architecture,Development,3.0,40%,"You work with architecture teams to implement domain-specific architectural patterns, often leading proof-of-concept work for significant technical initiatives."
+Staff DeveloperENGINEERING CRAFTSoftware ArchitectureTechnical debt,22,Staff Developer,ENGINEERING CRAFT,Software Architecture,Technical debt,2.9,20%,"You manage technical debt strategically across multiple teams, making informed decisions about when to incur debt and when to prioritize paying it down."
+Staff DeveloperENGINEERING CRAFTSecurity,23,Staff Developer,ENGINEERING CRAFT,Security,,3.2,10%,"The ability to implement and promote security best practices across multiple teams.
+Serves as a security champion who ensures secure development practices within their domain."
+Staff DeveloperENGINEERING CRAFTSecurityKnowledge,24,Staff Developer,ENGINEERING CRAFT,Security,Knowledge,3.6,30%,"You have strong understanding of security principles and regularly share this knowledge across multiple teams, establishing security practices within your domain."
+Staff DeveloperENGINEERING CRAFTSecurityUser data,25,Staff Developer,ENGINEERING CRAFT,Security,User data,3.7,30%,"You ensure proper handling of user data across multiple teams' systems, establishing patterns and practices for data protection."
+Staff DeveloperENGINEERING CRAFTSecurityReporting,26,Staff Developer,ENGINEERING CRAFT,Security,Reporting,3.2,0%,N/A
+Staff DeveloperENGINEERING CRAFTSecurityProactivity,27,Staff Developer,ENGINEERING CRAFT,Security,Proactivity,2.9,0%,N/A
+Staff DeveloperENGINEERING CRAFTSecurityCollaboration,28,Staff Developer,ENGINEERING CRAFT,Security,Collaboration,3.0,0%,N/A
+Staff DeveloperENGINEERING CRAFTSecurityStrategy,29,Staff Developer,ENGINEERING CRAFT,Security,Strategy,2.5,40%,"You collaborate with security teams to implement security strategies within your domain, ensuring alignment with organizational security goals."
+Staff DeveloperENGINEERING CRAFTDebugging & Monitoring,30,Staff Developer,ENGINEERING CRAFT,Debugging & Monitoring,,3.0,15%,"The ability to implement systematic debugging and monitoring practices across multiple teams.
+Creates observability strategies that provide insights across complex, multi-team systems."
+Staff DeveloperENGINEERING CRAFTDebugging & MonitoringDebugging,31,Staff Developer,ENGINEERING CRAFT,Debugging & Monitoring,Debugging,3.4,30%,"You can diagnose and resolve complex issues that span multiple teams' systems, often serving as the escalation point for difficult technical problems."
+Staff DeveloperENGINEERING CRAFTDebugging & MonitoringTools,32,Staff Developer,ENGINEERING CRAFT,Debugging & Monitoring,Tools,3.2,0%,N/A
+Staff DeveloperENGINEERING CRAFTDebugging & MonitoringPhilosophy,33,Staff Developer,ENGINEERING CRAFT,Debugging & Monitoring,Philosophy,2.9,20%,"You establish monitoring and observability practices across multiple teams, promoting a culture of proactive issue detection and resolution."
+Staff DeveloperENGINEERING CRAFTDebugging & MonitoringData,34,Staff Developer,ENGINEERING CRAFT,Debugging & Monitoring,Data,3.0,20%,"You design monitoring strategies that provide insights across multiple teams' systems, enabling data-driven decisions about system health and performance."
+Staff DeveloperENGINEERING CRAFTDebugging & MonitoringProfiling,35,Staff Developer,ENGINEERING CRAFT,Debugging & Monitoring,Profiling,2.9,20%,"You're skilled at performance optimization across multiple technology stacks, capable of solving complex performance challenges that affect multiple teams."
+Staff DeveloperENGINEERING CRAFTDebugging & MonitoringMentoring,36,Staff Developer,ENGINEERING CRAFT,Debugging & Monitoring,Mentoring,2.0,10%,"You develop debugging and monitoring skills across multiple teams, mentoring engineers on systematic approaches to problem-solving."
+Staff DeveloperSOFT SKILLS,37,Staff Developer,SOFT SKILLS,,,2.8,40%,
+Staff DeveloperSOFT SKILLSEmpathy & Humility,38,Staff Developer,SOFT SKILLS,Empathy & Humility,,3.0,40%,"Demonstrates strong emotional intelligence and serves as a role model for collaborative leadership across multiple teams.
+Works to improve team dynamics and represents diverse perspectives in technical and strategic discussions."
+Staff DeveloperSOFT SKILLSEmpathy & HumilityCredit and blame,39,Staff Developer,SOFT SKILLS,Empathy & Humility,Credit and blame,3.2,30%,"You consistently redirect credit to team members and absorb unproductive blame, protecting multiple teams and fostering a positive culture."
+Staff DeveloperSOFT SKILLSEmpathy & HumilityUnderstanding others,40,Staff Developer,SOFT SKILLS,Empathy & Humility,Understanding others,3.2,30%,"You're often asked to help bridge understanding between different teams and stakeholders, improving collaboration and reducing conflict."
+Staff DeveloperSOFT SKILLSEmpathy & HumilityMediation and facilitation,41,Staff Developer,SOFT SKILLS,Empathy & Humility,Mediation and facilitation,2.9,20%,"You facilitate complex technical discussions involving multiple teams, helping find solutions and build consensus around technical decisions."
+Staff DeveloperSOFT SKILLSEmpathy & HumilityMentoring,42,Staff Developer,SOFT SKILLS,Empathy & Humility,Mentoring,2.5,20%,"You maintain mentoring relationships with engineers across multiple teams, contributing to their professional development and career growth."
+Staff DeveloperSOFT SKILLSCommunication,43,Staff Developer,SOFT SKILLS,Communication,,2.4,20%,"Strong communication skills that influence technical direction and team collaboration across multiple teams.
+Serves as a bridge between technical teams and stakeholders."
+Staff DeveloperSOFT SKILLSCommunicationKeeping people informed,44,Staff Developer,SOFT SKILLS,Communication,Keeping people informed,2.4,50%,"You communicate complex technical initiatives across multiple teams and to various stakeholders, ensuring clear understanding and alignment."
+Staff DeveloperSOFT SKILLSCommunicationLooking for feedback,45,Staff Developer,SOFT SKILLS,Communication,Looking for feedback,3.2,20%,You actively seek feedback from stakeholders across multiple teams and incorporate this input into technical planning and execution.
+Staff DeveloperSOFT SKILLSCommunicationDelivering bad news,46,Staff Developer,SOFT SKILLS,Communication,Delivering bad news,2.0,20%,"You handle difficult communications across multiple teams, managing expectations and maintaining relationships during challenging technical situations."
+Staff DeveloperSOFT SKILLSCommunicationMentoring communicators,47,Staff Developer,SOFT SKILLS,Communication,Mentoring communicators,1.5,10%,"You help improve communication practices across multiple teams, coaching engineers on effective technical communication."
+Staff DeveloperSOFT SKILLSInitiative,48,Staff Developer,SOFT SKILLS,Initiative,,2.8,20%,"Demonstrates strong drive and creates opportunities that benefit multiple teams.
+Consistently identifies and leads initiatives that drive significant technical and business value."
+Staff DeveloperSOFT SKILLSInitiativeCan-do attitude,49,Staff Developer,SOFT SKILLS,Initiative,Can-do attitude,3.2,50%,"You consistently identify opportunities to improve technical practices and business outcomes across multiple teams, leading initiatives that create lasting value."
+Staff DeveloperSOFT SKILLSInitiativePro-activity in seeking help,50,Staff Developer,SOFT SKILLS,Initiative,Pro-activity in seeking help,2.6,25%,"You build relationships and seek expertise both within and outside your immediate domain, bringing valuable knowledge and capabilities to multiple teams."
+Staff DeveloperSOFT SKILLSInitiativeFollow through,51,Staff Developer,SOFT SKILLS,Initiative,Follow through,2.2,25%,"You lead complex technical initiatives involving multiple teams to successful completion, adapting your approach as needed to ensure success."
+Staff DeveloperSOFT SKILLSObjectivity & Adaptability,52,Staff Developer,SOFT SKILLS,Objectivity & Adaptability,,3.3,10%,"Demonstrates sound judgment and adaptability in complex technical contexts.
+Makes balanced decisions that consider multiple perspectives and drives improvement across teams."
+Staff DeveloperSOFT SKILLSObjectivity & AdaptabilityEfficient decision-making,53,Staff Developer,SOFT SKILLS,Objectivity & Adaptability,Efficient decision-making,3.2,50%,"You lead decision-making processes for complex technical initiatives involving multiple teams, establishing clear criteria and processes for effective decisions."
+Staff DeveloperSOFT SKILLSObjectivity & AdaptabilitySelf improvement,54,Staff Developer,SOFT SKILLS,Objectivity & Adaptability,Self improvement,3.8,20%,You actively work to improve your own skills and help establish learning and development practices across multiple teams.
+Staff DeveloperSOFT SKILLSObjectivity & AdaptabilityObjectivity,55,Staff Developer,SOFT SKILLS,Objectivity & Adaptability,Objectivity,3.2,20%,"You provide balanced perspective on technical and business trade-offs, helping teams focus on the most impactful work while maintaining high standards."
+Staff DeveloperSOFT SKILLSObjectivity & AdaptabilityTime management,56,Staff Developer,SOFT SKILLS,Objectivity & Adaptability,Time management,2.9,10%,"You optimize processes and resource allocation across multiple teams, identifying opportunities to improve efficiency and focus on high-impact work."
+Staff DeveloperSOFT SKILLSBusiness Acumen,57,Staff Developer,SOFT SKILLS,Business Acumen,,2.4,10%,"Good understanding of business context and the ability to connect technical decisions with business outcomes.
+Influences technical direction to support business objectives across multiple teams."
+Staff DeveloperSOFT SKILLSBusiness AcumenUnderstanding level,58,Staff Developer,SOFT SKILLS,Business Acumen,Understanding level,2.4,100%,"You have solid understanding of your domain's business context and how technical decisions impact business outcomes, with growing knowledge of adjacent business areas."
+Staff DeveloperLEADERSHIP,59,Staff Developer,LEADERSHIP,,,1.6,20%,
+Staff DeveloperLEADERSHIPHiring and Org Design,60,Staff Developer,LEADERSHIP,Hiring and Org Design,,1.0,40%,"Contributes to talent acquisition and team structure decisions across multiple teams.
+Helps shape hiring practices and organizational design within their domain."
+Staff DeveloperLEADERSHIPHiring and Org DesignDeploying Teams,61,Staff Developer,LEADERSHIP,Hiring and Org Design,Deploying Teams,0.8,50%,You help design team structures and roles that optimize for technical and business outcomes across multiple related teams.
+Staff DeveloperLEADERSHIPHiring and Org DesignEmployer Brand,62,Staff Developer,LEADERSHIP,Hiring and Org Design,Employer Brand,1.5,30%,"You contribute to the organization's technical reputation through conference talks, blog posts, and participation in technical communities."
+Staff DeveloperLEADERSHIPHiring and Org DesignHiring,63,Staff Developer,LEADERSHIP,Hiring and Org Design,Hiring,0.5,20%,"You're actively involved in hiring for multiple teams, serving as a hiring manager for mid-level to senior positions and helping establish hiring standards."
+Staff DeveloperLEADERSHIPStakeholder Management,64,Staff Developer,LEADERSHIP,Stakeholder Management,,2.7,20%,"Manages relationships with key stakeholders across multiple teams and business units.
+Builds trust and delivers results while protecting team interests."
+Staff DeveloperLEADERSHIPStakeholder ManagementManaging Goals and Expectations,65,Staff Developer,LEADERSHIP,Stakeholder Management,Managing Goals and Expectations,2.5,50%,"You successfully manage stakeholder relationships across multiple teams and projects, consistently delivering results while maintaining good relationships."
+Staff DeveloperLEADERSHIPStakeholder ManagementForesight,66,Staff Developer,LEADERSHIP,Stakeholder Management,Foresight,2.8,20%,"Your technical and business insight helps multiple teams anticipate challenges and opportunities, contributing to better planning and execution."
+Staff DeveloperLEADERSHIPStakeholder ManagementEngendering Trust,67,Staff Developer,LEADERSHIP,Stakeholder Management,Engendering Trust,3.2,20%,"You're trusted by stakeholders across multiple teams and business units, often serving as the primary technical contact for complex initiatives."
+Staff DeveloperLEADERSHIPStakeholder ManagementProtecting the Team,68,Staff Developer,LEADERSHIP,Stakeholder Management,Protecting the Team,2.9,10%,"You shield multiple teams from unnecessary distractions and pressures, identifying and resolving issues that could impact team effectiveness."
+Staff DeveloperLEADERSHIPTeam Leadership,69,Staff Developer,LEADERSHIP,Team Leadership,,2.0,10%,"Leads and influences multiple teams through technical expertise and collaborative leadership.
+Demonstrates leadership skills that inspire others and improve team effectiveness."
+Staff DeveloperLEADERSHIPTeam LeadershipPutting the Team first,70,Staff Developer,LEADERSHIP,Team Leadership,Putting the Team first,2.5,50%,"You consistently prioritize the needs of multiple teams, taking on challenging work and administrative tasks to enable team success."
+Staff DeveloperLEADERSHIPTeam LeadershipDifficult Conversations,71,Staff Developer,LEADERSHIP,Team Leadership,Difficult Conversations,0.8,20%,"You handle challenging conversations about technical direction, performance, and resource allocation across multiple teams with professionalism and care."
+Staff DeveloperLEADERSHIPTeam LeadershipReliability,72,Staff Developer,LEADERSHIP,Team Leadership,Reliability,1.9,20%,"You're known for consistently delivering on commitments that affect multiple teams, building trust through reliable execution."
+Staff DeveloperLEADERSHIPTeam LeadershipVulnerability,73,Staff Developer,LEADERSHIP,Team Leadership,Vulnerability,2.1,10%,"You openly share your learning experiences and mistakes, creating an environment where others feel safe to take risks and learn."
+Staff DeveloperLEADERSHIPDeveloping Others,74,Staff Developer,LEADERSHIP,Developing Others,,1.5,20%,"Actively develops talent across multiple teams through mentoring, coaching, and creating growth opportunities.
+Contributes to building technical capabilities across the organization."
+Staff DeveloperLEADERSHIPDeveloping OthersIdentifying strengths,75,Staff Developer,LEADERSHIP,Developing Others,Identifying strengths,1.2,30%,"You recognize and develop talent across multiple teams, helping individuals identify growth opportunities and advance their careers."
+Staff DeveloperLEADERSHIPDeveloping OthersSupporting team growth,76,Staff Developer,LEADERSHIP,Developing Others,Supporting team growth,1.6,40%,"You create learning opportunities and development programs that benefit multiple teams, contributing to overall technical capability growth."
+Staff DeveloperLEADERSHIPDeveloping OthersInvesting in process,77,Staff Developer,LEADERSHIP,Developing Others,Investing in process,1.7,10%,You establish processes and practices that improve team effectiveness and individual development across multiple teams.
+Staff DeveloperLEADERSHIPDeveloping OthersFeedback on work,78,Staff Developer,LEADERSHIP,Developing Others,Feedback on work,1.5,20%,"You provide regular, constructive feedback to engineers across multiple teams, helping them improve their technical and professional skills."
+Staff DeveloperLEADERSHIPCulture & Togetherness,79,Staff Developer,LEADERSHIP,Culture & Togetherness,,1.8,10%,"Contributes to positive team culture across multiple teams through inclusive leadership and collaborative practices.
+Helps build connections and alignment across team boundaries."
+Staff DeveloperLEADERSHIPCulture & TogethernessSetting an Example,80,Staff Developer,LEADERSHIP,Culture & Togetherness,Setting an Example,2.4,30%,"You consistently model positive behaviors and high standards, influencing culture and performance across multiple teams."
+Staff DeveloperLEADERSHIPCulture & TogethernessEncouraging diverse opinions,81,Staff Developer,LEADERSHIP,Culture & Togetherness,Encouraging diverse opinions,1.4,40%,"You actively seek out and value diverse perspectives in technical discussions, ensuring that multiple teams benefit from varied viewpoints."
+Staff DeveloperLEADERSHIPCulture & TogethernessDeveloping personal relationships,82,Staff Developer,LEADERSHIP,Culture & Togetherness,Developing personal relationships,1.6,30%,"You build strong working relationships across multiple teams that enhance collaboration, knowledge sharing, and overall effectiveness."
+Senior Staff DeveloperENGINEERING CRAFT,0,Senior Staff Developer,ENGINEERING CRAFT,,,3.6,40%,
+Senior Staff DeveloperENGINEERING CRAFTWriting Code,1,Senior Staff Developer,ENGINEERING CRAFT,Writing Code,,3.6,30%,"The ability to contribute exceptional code quality and drive technical excellence across the organization.
+Recognized as a technical authority who influences coding standards, architectural decisions, and technology adoption across multiple teams and domains."
+Senior Staff DeveloperENGINEERING CRAFTWriting CodeQuality,2,Senior Staff Developer,ENGINEERING CRAFT,Writing Code,Quality,3.6,40%,"You're recognized as the definitive technical authority across the organization, setting coding standards and architectural patterns that are adopted company-wide.
+You drive the evaluation and adoption of new technologies and frameworks."
+Senior Staff DeveloperENGINEERING CRAFTWriting CodeDocumentation,3,Senior Staff Developer,ENGINEERING CRAFT,Writing Code,Documentation,3.4,20%,"You establish documentation standards and practices across the organization, creating comprehensive technical documentation strategies that serve as models for multiple teams."
+Senior Staff DeveloperENGINEERING CRAFTWriting CodeLanguage,4,Senior Staff Developer,ENGINEERING CRAFT,Writing Code,Language,3.8,30%,"You're considered the organization's expert in multiple programming languages and technologies, making strategic decisions about technology stack evolution and leading major technical migrations."
+Senior Staff DeveloperENGINEERING CRAFTWriting CodeMentoring,5,Senior Staff Developer,ENGINEERING CRAFT,Writing Code,Mentoring,3.5,10%,"You mentor staff and senior engineers across the entire organization, developing technical leadership capabilities and establishing mentorship programs."
+Senior Staff DeveloperENGINEERING CRAFTTesting,6,Senior Staff Developer,ENGINEERING CRAFT,Testing,,3.6,15%,"The ability to define and implement testing strategies at an organizational level.
+Recognized as the authority on testing practices, establishing standards and frameworks that ensure quality across all products and services."
+Senior Staff DeveloperENGINEERING CRAFTTestingTesting your code,7,Senior Staff Developer,ENGINEERING CRAFT,Testing,Testing your code,,0%,N/A
+Senior Staff DeveloperENGINEERING CRAFTTestingImproving coverage,8,Senior Staff Developer,ENGINEERING CRAFT,Testing,Improving coverage,,0%,N/A
+Senior Staff DeveloperENGINEERING CRAFTTestingTaking responsibility,9,Senior Staff Developer,ENGINEERING CRAFT,Testing,Taking responsibility,,0%,N/A
+Senior Staff DeveloperENGINEERING CRAFTTestingLeading testing strategy,10,Senior Staff Developer,ENGINEERING CRAFT,Testing,Leading testing strategy,3.6,50%,"You define the organization's overall testing philosophy and strategy, establishing frameworks and standards that are implemented across all teams and products."
+Senior Staff DeveloperENGINEERING CRAFTTestingAdvocating for testing,11,Senior Staff Developer,ENGINEERING CRAFT,Testing,Advocating for testing,3.6,50%,"You're the go-to expert for testing strategy across the entire organization, consulted on major product launches and architectural decisions to ensure comprehensive quality assurance."
+Senior Staff DeveloperENGINEERING CRAFTTechnical Understanding & Prioritisation,12,Senior Staff Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,,3.7,15%,"The ability to understand complex technical systems at an organizational level and drive strategic technical prioritization.
+Serves as a bridge between technical teams and business strategy, ensuring technical decisions align with organizational goals."
+Senior Staff DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationUnderstanding code,13,Senior Staff Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Understanding code,3.8,50%,"You have deep expertise across the organization's entire technical ecosystem, understanding complex interdependencies and serving as the authority on system architecture and data flows."
+Senior Staff DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationTechnical collaboration,14,Senior Staff Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Technical collaboration,3.6,25%,"You facilitate technical collaboration across the entire organization, identifying and addressing knowledge gaps that span multiple departments and business units."
+Senior Staff DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationWork breakdown,15,Senior Staff Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Work breakdown,3.5,15%,"You lead the breakdown of complex, cross-organizational initiatives, ensuring proper technical planning and coordination across multiple teams and stakeholders."
+Senior Staff DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationTask prioritisation,16,Senior Staff Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Task prioritisation,3.8,10%,"You drive technical prioritization at the organizational level, ensuring alignment between technical roadmaps and business strategy across all teams."
+Senior Staff DeveloperENGINEERING CRAFTSoftware Architecture,17,Senior Staff Developer,ENGINEERING CRAFT,Software Architecture,,3.7,15%,"The ability to design and influence architectural decisions at an organizational scale.
+Drives architectural vision and standards that support long-term business growth and technical scalability."
+Senior Staff DeveloperENGINEERING CRAFTSoftware ArchitectureReaction to feedback,18,Senior Staff Developer,ENGINEERING CRAFT,Software Architecture,Reaction to feedback,3.5,0%,N/A
+Senior Staff DeveloperENGINEERING CRAFTSoftware ArchitectureCode,19,Senior Staff Developer,ENGINEERING CRAFT,Software Architecture,Code,3.6,0%,N/A
+Senior Staff DeveloperENGINEERING CRAFTSoftware ArchitectureDesign,20,Senior Staff Developer,ENGINEERING CRAFT,Software Architecture,Design,3.8,40%,"You lead architectural decisions that impact the entire organization, designing systems and patterns that support long-term business strategy and technical scalability."
+Senior Staff DeveloperENGINEERING CRAFTSoftware ArchitectureDevelopment,21,Senior Staff Developer,ENGINEERING CRAFT,Software Architecture,Development,3.7,40%,"You collaborate with executive leadership and architecture teams to define the organization's technical vision, often leading proof-of-concept work for major strategic initiatives."
+Senior Staff DeveloperENGINEERING CRAFTSoftware ArchitectureTechnical debt,22,Senior Staff Developer,ENGINEERING CRAFT,Software Architecture,Technical debt,3.6,20%,"You manage technical debt as a strategic organizational asset, making decisions about when to incur debt and when to invest in paying it down across the entire technology portfolio."
+Senior Staff DeveloperENGINEERING CRAFTSecurity,23,Senior Staff Developer,ENGINEERING CRAFT,Security,,3.6,10%,"The ability to lead security initiatives and establish security culture at an organizational level.
+Serves as a security champion who influences policy and practices across all teams."
+Senior Staff DeveloperENGINEERING CRAFTSecurityKnowledge,24,Senior Staff Developer,ENGINEERING CRAFT,Security,Knowledge,3.6,30%,"You're recognized as the organization's security expert, establishing security standards and practices that are adopted across all teams and products."
+Senior Staff DeveloperENGINEERING CRAFTSecurityUser data,25,Senior Staff Developer,ENGINEERING CRAFT,Security,User data,3.7,30%,"You define and oversee the organization's approach to user data handling, ensuring compliance and best practices across all systems and teams."
+Senior Staff DeveloperENGINEERING CRAFTSecurityReporting,26,Senior Staff Developer,ENGINEERING CRAFT,Security,Reporting,3.4,0%,N/A
+Senior Staff DeveloperENGINEERING CRAFTSecurityProactivity,27,Senior Staff Developer,ENGINEERING CRAFT,Security,Proactivity,3.5,10%,N/A
+Senior Staff DeveloperENGINEERING CRAFTSecurityCollaboration,28,Senior Staff Developer,ENGINEERING CRAFT,Security,Collaboration,3.4,10%,N/A
+Senior Staff DeveloperENGINEERING CRAFTSecurityStrategy,29,Senior Staff Developer,ENGINEERING CRAFT,Security,Strategy,3.7,20%,"You shape the organization's security strategy, working directly with security teams and executive leadership to establish policies and practices that protect the business."
+Senior Staff DeveloperENGINEERING CRAFTDebugging & Monitoring,30,Senior Staff Developer,ENGINEERING CRAFT,Debugging & Monitoring,,3.6,15%,"The ability to establish monitoring and debugging practices at an organizational level.
+Creates observability strategies that provide insights across all systems and enable proactive issue resolution."
+Senior Staff DeveloperENGINEERING CRAFTDebugging & MonitoringDebugging,31,Senior Staff Developer,ENGINEERING CRAFT,Debugging & Monitoring,Debugging,3.8,30%,"You can diagnose and resolve the most complex issues across the entire organizational infrastructure, often involving multiple systems and teams."
+Senior Staff DeveloperENGINEERING CRAFTDebugging & MonitoringTools,32,Senior Staff Developer,ENGINEERING CRAFT,Debugging & Monitoring,Tools,3.4,0%,N/A
+Senior Staff DeveloperENGINEERING CRAFTDebugging & MonitoringPhilosophy,33,Senior Staff Developer,ENGINEERING CRAFT,Debugging & Monitoring,Philosophy,3.6,20%,"You establish the organization's monitoring and observability philosophy, defining standards and practices that are implemented across all teams."
+Senior Staff DeveloperENGINEERING CRAFTDebugging & MonitoringData,34,Senior Staff Developer,ENGINEERING CRAFT,Debugging & Monitoring,Data,3.5,20%,"You design and implement monitoring strategies that provide organizational-level insights, enabling data-driven decisions about system performance and reliability."
+Senior Staff DeveloperENGINEERING CRAFTDebugging & MonitoringProfiling,35,Senior Staff Developer,ENGINEERING CRAFT,Debugging & Monitoring,Profiling,3.7,20%,"You're the organization's expert in performance optimization, capable of solving complex performance challenges across any technology stack or system layer."
+Senior Staff DeveloperENGINEERING CRAFTDebugging & MonitoringMentoring,36,Senior Staff Developer,ENGINEERING CRAFT,Debugging & Monitoring,Mentoring,3.4,10%,You develop the organization's debugging and monitoring capabilities by mentoring engineers and managers across all teams.
+Senior Staff DeveloperSOFT SKILLS,37,Senior Staff Developer,SOFT SKILLS,,,3.3,40%,
+Senior Staff DeveloperSOFT SKILLSEmpathy & Humility,38,Senior Staff Developer,SOFT SKILLS,Empathy & Humility,,3.6,40%,"Demonstrates exceptional emotional intelligence and serves as a role model for inclusive leadership across the organization.
+Actively works to improve organizational culture and represents diverse perspectives in high-level decisions."
+Senior Staff DeveloperSOFT SKILLSEmpathy & HumilityCredit and blame,39,Senior Staff Developer,SOFT SKILLS,Empathy & Humility,Credit and blame,3.8,30%,"You consistently use your organizational influence to ensure fair recognition and protect teams from unproductive blame, serving as a culture champion."
+Senior Staff DeveloperSOFT SKILLSEmpathy & HumilityUnderstanding others,40,Senior Staff Developer,SOFT SKILLS,Empathy & Humility,Understanding others,3.6,30%,"You're sought out by leadership across the organization to help understand and improve relationships with various stakeholder groups, both internal and external."
+Senior Staff DeveloperSOFT SKILLSEmpathy & HumilityMediation and facilitation,41,Senior Staff Developer,SOFT SKILLS,Empathy & Humility,Mediation and facilitation,3.5,20%,"You're called upon to facilitate complex, high-stakes discussions involving senior leadership and multiple departments, bringing calm and finding solutions to organizational conflicts."
+Senior Staff DeveloperSOFT SKILLSEmpathy & HumilityMentoring,42,Senior Staff Developer,SOFT SKILLS,Empathy & Humility,Mentoring,3.5,20%,You maintain formal mentoring relationships with senior staff across the organization and contribute to the development of the company's mentoring culture.
+Senior Staff DeveloperSOFT SKILLSCommunication,43,Senior Staff Developer,SOFT SKILLS,Communication,,2.8,20%,"Exceptional communication skills that influence organizational direction and culture.
+Serves as a spokesperson for technical initiatives and helps shape how the organization communicates both internally and externally."
+Senior Staff DeveloperSOFT SKILLSCommunicationKeeping people informed,44,Senior Staff Developer,SOFT SKILLS,Communication,Keeping people informed,3.2,50%,"You communicate complex technical and strategic initiatives to diverse audiences across the organization, including executive leadership, ensuring clear understanding and buy-in."
+Senior Staff DeveloperSOFT SKILLSCommunicationLooking for feedback,45,Senior Staff Developer,SOFT SKILLS,Communication,Looking for feedback,3.4,20%,"You proactively seek feedback from key stakeholders across the organization and industry, using this input to influence organizational strategy and direction."
+Senior Staff DeveloperSOFT SKILLSCommunicationDelivering bad news,46,Senior Staff Developer,SOFT SKILLS,Communication,Delivering bad news,2.8,10%,"You handle the most sensitive communications across the organization, managing expectations and maintaining stakeholder relationships during challenging situations."
+Senior Staff DeveloperSOFT SKILLSCommunicationMentoring communicators,47,Senior Staff Developer,SOFT SKILLS,Communication,Mentoring communicators,2.8,10%,"You develop communication standards and practices across the organization, coaching leaders and establishing processes that improve organizational communication effectiveness."
+Senior Staff DeveloperSOFT SKILLSInitiative,48,Senior Staff Developer,SOFT SKILLS,Initiative,,3.3,20%,"Demonstrates exceptional drive and creates opportunities that benefit the entire organization.
+Consistently identifies and leads initiatives that drive significant business value and organizational improvement."
+Senior Staff DeveloperSOFT SKILLSInitiativeCan-do attitude,49,Senior Staff Developer,SOFT SKILLS,Initiative,Can-do attitude,3.4,50%,"You consistently identify and create transformative opportunities for the organization, leading initiatives that result in significant business impact and recognition."
+Senior Staff DeveloperSOFT SKILLSInitiativePro-activity in seeking help,50,Senior Staff Developer,SOFT SKILLS,Initiative,Pro-activity in seeking help,3.0,25%,"You build strategic partnerships and seek expertise both within and outside the organization, consistently bringing in knowledge and capabilities that benefit multiple teams."
+Senior Staff DeveloperSOFT SKILLSInitiativeFollow through,51,Senior Staff Developer,SOFT SKILLS,Initiative,Follow through,3.2,25%,"You lead the most complex and strategic organizational initiatives to successful completion, adapting and acquiring new skills as needed to ensure success."
+Senior Staff DeveloperSOFT SKILLSObjectivity & Adaptability,52,Senior Staff Developer,SOFT SKILLS,Objectivity & Adaptability,,3.6,10%,"Demonstrates exceptional judgment and adaptability in complex organizational contexts.
+Makes strategic decisions that balance competing priorities and drives organizational improvement through process innovation."
+Senior Staff DeveloperSOFT SKILLSObjectivity & AdaptabilityEfficient decision-making,53,Senior Staff Developer,SOFT SKILLS,Objectivity & Adaptability,Efficient decision-making,3.6,50%,"You lead decision-making processes on the most critical organizational initiatives, establishing frameworks and processes that improve decision quality across the company."
+Senior Staff DeveloperSOFT SKILLSObjectivity & AdaptabilitySelf improvement,54,Senior Staff Developer,SOFT SKILLS,Objectivity & Adaptability,Self improvement,3.8,20%,"You establish organizational processes for continuous improvement, championing learning and development initiatives that benefit the entire organization."
+Senior Staff DeveloperSOFT SKILLSObjectivity & AdaptabilityObjectivity,55,Senior Staff Developer,SOFT SKILLS,Objectivity & Adaptability,Objectivity,3.6,20%,"You provide strategic counsel to organizational leadership, helping distinguish between critical issues and less important concerns, always focusing on business impact and pragmatic solutions."
+Senior Staff DeveloperSOFT SKILLSObjectivity & AdaptabilityTime management,56,Senior Staff Developer,SOFT SKILLS,Objectivity & Adaptability,Time management,3.4,10%,"You optimize organizational processes and resource allocation, consistently identifying opportunities to improve efficiency and focus on the highest-impact initiatives."
+Senior Staff DeveloperSOFT SKILLSBusiness Acumen,57,Senior Staff Developer,SOFT SKILLS,Business Acumen,,3.2,10%,"Deep understanding of business strategy and the ability to translate between technical and business domains.
+Influences organizational strategy and ensures technical decisions support business objectives."
+Senior Staff DeveloperSOFT SKILLSBusiness AcumenUnderstanding level,58,Senior Staff Developer,SOFT SKILLS,Business Acumen,Understanding level,3.2,100%,"You have comprehensive understanding of the organization's business strategy and competitive landscape, with deep knowledge of how technical decisions impact business outcomes across all domains."
+Senior Staff DeveloperLEADERSHIP,59,Senior Staff Developer,LEADERSHIP,,,2.6,20%,
+Senior Staff DeveloperLEADERSHIPHiring and Org Design,60,Senior Staff Developer,LEADERSHIP,Hiring and Org Design,,2.2,40%,"You have comprehensive understanding of the organization's business strategy and competitive landscape, with deep knowledge of how technical decisions impact business outcomes across all domains."
+Senior Staff DeveloperLEADERSHIPHiring and Org DesignDeploying Teams,61,Senior Staff Developer,LEADERSHIP,Hiring and Org Design,Deploying Teams,2.4,50%,"You design and implement organizational structures that optimize for business outcomes, creating new roles and teams that address strategic organizational needs."
+Senior Staff DeveloperLEADERSHIPHiring and Org DesignEmployer Brand,62,Senior Staff Developer,LEADERSHIP,Hiring and Org Design,Employer Brand,2.8,30%,"You significantly contribute to the organization's reputation as an employer, representing the company at major industry events and contributing to recruitment strategy."
+Senior Staff DeveloperLEADERSHIPHiring and Org DesignHiring,63,Senior Staff Developer,LEADERSHIP,Hiring and Org Design,Hiring,1.0,20%,"You lead hiring strategy for critical roles across the organization, serving as a hiring manager for senior positions and establishing hiring standards and processes."
+Senior Staff DeveloperLEADERSHIPStakeholder Management,64,Senior Staff Developer,LEADERSHIP,Stakeholder Management,,3.6,20%,"Manages complex stakeholder relationships at the highest organizational levels.
+Serves as a trusted advisor to executive leadership and external partners, protecting teams while delivering exceptional results."
+Senior Staff DeveloperLEADERSHIPStakeholder ManagementManaging Goals and Expectations,65,Senior Staff Developer,LEADERSHIP,Stakeholder Management,Managing Goals and Expectations,3.6,50%,"You manage relationships with the most critical stakeholders, including executive leadership and key external partners, successfully delivering results across multiple quarters and complex initiatives."
+Senior Staff DeveloperLEADERSHIPStakeholder ManagementForesight,66,Senior Staff Developer,LEADERSHIP,Stakeholder Management,Foresight,3.4,20%,"Your strategic foresight influences organizational planning across multiple departments, helping leadership anticipate challenges and opportunities."
+Senior Staff DeveloperLEADERSHIPStakeholder ManagementEngendering Trust,67,Senior Staff Developer,LEADERSHIP,Stakeholder Management,Engendering Trust,3.8,20%,"You're a trusted advisor to executive leadership and key external stakeholders, often serving as the primary technical contact for the organization's most important relationships."
+Senior Staff DeveloperLEADERSHIPStakeholder ManagementProtecting the Team,68,Senior Staff Developer,LEADERSHIP,Stakeholder Management,Protecting the Team,3.6,10%,"You shield multiple teams from organizational pressures and distractions, identifying and resolving systemic issues that could impact team effectiveness."
+Senior Staff DeveloperLEADERSHIPTeam Leadership,69,Senior Staff Developer,LEADERSHIP,Team Leadership,,2.6,10%,"Leads and influences multiple teams across the organization.
+Demonstrates exceptional leadership skills that inspire others and drive organizational culture and effectiveness."
+Senior Staff DeveloperLEADERSHIPTeam LeadershipPutting the Team first,70,Senior Staff Developer,LEADERSHIP,Team Leadership,Putting the Team first,3.0,50%,"You consistently prioritize the needs of multiple teams across the organization, taking on complex organizational challenges to enable team success."
+Senior Staff DeveloperLEADERSHIPTeam LeadershipDifficult Conversations,71,Senior Staff Developer,LEADERSHIP,Team Leadership,Difficult Conversations,2.0,20%,"You handle the most challenging organizational conversations, including those involving senior leadership, compensation, performance, and strategic direction."
+Senior Staff DeveloperLEADERSHIPTeam LeadershipReliability,72,Senior Staff Developer,LEADERSHIP,Team Leadership,Reliability,2.4,20%,"You're known for exceptional reliability in executing organizational commitments, consistently delivering on promises that impact multiple teams and business outcomes."
+Senior Staff DeveloperLEADERSHIPTeam LeadershipVulnerability,73,Senior Staff Developer,LEADERSHIP,Team Leadership,Vulnerability,2.2,10%,"You model vulnerability and continuous learning across the organization, creating a culture where others feel safe to admit mistakes and seek help."
+Senior Staff DeveloperLEADERSHIPDeveloping Others,74,Senior Staff Developer,LEADERSHIP,Developing Others,,2.4,20%,"Drives the development of talent across the organization.
+Creates programs and processes that enhance the capabilities of multiple teams and contribute to organizational learning and growth."
+Senior Staff DeveloperLEADERSHIPDeveloping OthersIdentifying strengths,75,Senior Staff Developer,LEADERSHIP,Developing Others,Identifying strengths,2.6,30%,"You identify and develop talent across the organization, creating opportunities for high-potential individuals and establishing development programs."
+Senior Staff DeveloperLEADERSHIPDeveloping OthersSupporting team growth,76,Senior Staff Developer,LEADERSHIP,Developing Others,Supporting team growth,2.4,40%,"You create and implement development programs that benefit multiple teams, establishing career paths and growth opportunities across the organization."
+Senior Staff DeveloperLEADERSHIPDeveloping OthersInvesting in process,77,Senior Staff Developer,LEADERSHIP,Developing Others,Investing in process,2.4,10%,You design and implement organizational processes that enhance team effectiveness and individual development across multiple departments.
+Senior Staff DeveloperLEADERSHIPDeveloping OthersFeedback on work,78,Senior Staff Developer,LEADERSHIP,Developing Others,Feedback on work,2.2,20%,"You establish feedback cultures and processes across the organization, coaching leaders on providing effective feedback and creating systems for continuous improvement."
+Senior Staff DeveloperLEADERSHIPCulture & Togetherness,79,Senior Staff Developer,LEADERSHIP,Culture & Togetherness,,2.4,10%,"Shapes and influences organizational culture at the highest level.
+Creates an inclusive environment that brings out the best in people and aligns the organization around shared values and goals."
+Senior Staff DeveloperLEADERSHIPCulture & TogethernessSetting an Example,80,Senior Staff Developer,LEADERSHIP,Culture & Togetherness,Setting an Example,2.8,30%,You consistently model the organization's values and set the standard for behavior and performance across all levels of the organization.
+Senior Staff DeveloperLEADERSHIPCulture & TogethernessEncouraging diverse opinions,81,Senior Staff Developer,LEADERSHIP,Culture & Togetherness,Encouraging diverse opinions,2.2,40%,"You actively create and protect spaces for diverse perspectives across the organization, ensuring that decision-making processes benefit from varied viewpoints."
+Senior Staff DeveloperLEADERSHIPCulture & TogethernessDeveloping personal relationships,82,Senior Staff Developer,LEADERSHIP,Culture & Togetherness,Developing personal relationships,2.2,30%,"You build meaningful relationships across the organization that enhance collaboration, trust, and organizational effectiveness at all levels."
+Principal DeveloperENGINEERING CRAFT,0,Principal Developer,ENGINEERING CRAFT,,,4.0,40%,
+Principal DeveloperENGINEERING CRAFTWriting Code,1,Principal Developer,ENGINEERING CRAFT,Writing Code,,4.0,30%,"The ability to contribute high quality code to production environments.
+Is an exceptional engineer beyond the organization, contributing to pushing the craft forwards."
+Principal DeveloperENGINEERING CRAFTWriting CodeQuality,2,Principal Developer,ENGINEERING CRAFT,Writing Code,Quality,4.0,40%,"You've pushed the boundaries of the organization's coding practices, extending languages and libraries where needed."
+Principal DeveloperENGINEERING CRAFTWriting CodeDocumentation,3,Principal Developer,ENGINEERING CRAFT,Writing Code,Documentation,4.0,20%,You've led efforts to improve documentation and code skills across the organization. You've actively pushed other engineers to improve how code is understood and read.
+Principal DeveloperENGINEERING CRAFTWriting CodeLanguage,4,Principal Developer,ENGINEERING CRAFT,Writing Code,Language,4.0,30%,"You're contributing to the languages that your company uses, developing new patterns and paradigms to solve real business needs."
+Principal DeveloperENGINEERING CRAFTWriting CodeMentoring,5,Principal Developer,ENGINEERING CRAFT,Writing Code,Mentoring,4.0,10%,"You're regularly mentoring mentors, raising the quality of every team member's code"
+Principal DeveloperENGINEERING CRAFTTesting,6,Principal Developer,ENGINEERING CRAFT,Testing,,4.0,15%,"The ability to understand and implement great testing practices.
+A leader within the organization in terms of test strategy."
+Principal DeveloperENGINEERING CRAFTTestingTesting your code,7,Principal Developer,ENGINEERING CRAFT,Testing,Testing your code,,0%,N/A
+Principal DeveloperENGINEERING CRAFTTestingImproving coverage,8,Principal Developer,ENGINEERING CRAFT,Testing,Improving coverage,,0%,N/A
+Principal DeveloperENGINEERING CRAFTTestingTaking responsibility,9,Principal Developer,ENGINEERING CRAFT,Testing,Taking responsibility,,0%,N/A
+Principal DeveloperENGINEERING CRAFTTestingLeading testing strategy,10,Principal Developer,ENGINEERING CRAFT,Testing,Leading testing strategy,4.0,50%,You're defining how your company thinks through testing. You're personally responsibly for the metrics around test coverage across the organization
+Principal DeveloperENGINEERING CRAFTTestingAdvocating for testing,11,Principal Developer,ENGINEERING CRAFT,Testing,Advocating for testing,4.0,50%,You may be contributing to an open source library or speaking at conferences on behalf of your company around great testing strategy and tactics
+Principal DeveloperENGINEERING CRAFTTechnical Understanding & Prioritisation,12,Principal Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,,4.0,15%,"The ability to develop technical understanding and use this to prioritise tasks appropriately.
+Is a technical and prioritisation leader across the organization's architecture consistently pushing boundaries and exploring gaps in understanding."
+Principal DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationUnderstanding code,13,Principal Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Understanding code,4.0,50%,"You have expertise in the organization's architecture, including all domains, their bounded contexts, and how they interact with each other."
+Principal DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationTechnical collaboration,14,Principal Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Technical collaboration,4.0,25%,You have a deep technical understanding. You lead on helping team members fill gaps in their understanding.
+Principal DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationWork breakdown,15,Principal Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Work breakdown,4.0,15%,"You critically review work across the organization, ensuring it is appropriately broken down."
+Principal DeveloperENGINEERING CRAFTTechnical Understanding & PrioritisationTask prioritisation,16,Principal Developer,ENGINEERING CRAFT,Technical Understanding & Prioritisation,Task prioritisation,4.0,10%,"You identify cross-organization dependencies and work with individual teams to resolve them.
+You lead on creating preventative measures to mitigate repeat occurrences.
+You foster a culture of priority setting across the organization driving the importance of alignment with organizational strategy"
+Principal DeveloperENGINEERING CRAFTSoftware Architecture,17,Principal Developer,ENGINEERING CRAFT,Software Architecture,,4.0,15%,"The ability to interact and engage with architectural approaches of the organization.
+Regularly works across teams to build a culture for iterative, autonomous development and future scaling."
+Principal DeveloperENGINEERING CRAFTSoftware ArchitectureReaction to feedback,18,Principal Developer,ENGINEERING CRAFT,Software Architecture,Reaction to feedback,4.0,0%,N/A
+Principal DeveloperENGINEERING CRAFTSoftware ArchitectureCode,19,Principal Developer,ENGINEERING CRAFT,Software Architecture,Code,4.0,0%,N/A
+Principal DeveloperENGINEERING CRAFTSoftware ArchitectureDesign,20,Principal Developer,ENGINEERING CRAFT,Software Architecture,Design,4.0,40%,You help several teams make design decisions that minimize the cost of future changes.
+Principal DeveloperENGINEERING CRAFTSoftware ArchitectureDevelopment,21,Principal Developer,ENGINEERING CRAFT,Software Architecture,Development,4.0,40%,"You work with the architecture team to define cross- team architectural approaches.
+You sometimes employ prototyping for exploration of designs."
+Principal DeveloperENGINEERING CRAFTSoftware ArchitectureTechnical debt,22,Principal Developer,ENGINEERING CRAFT,Software Architecture,Technical debt,4.0,20%,"You understand technical debt as a long-term budgeting and risk management tool.
+You lead on when to incur more and when to pay it down."
+Principal DeveloperENGINEERING CRAFTSecurity,23,Principal Developer,ENGINEERING CRAFT,Security,,4.0,10%,"The ability to understand and apply security principles, handle user data appropriately and report security concerns.
+Is a leader in security strategy."
+Principal DeveloperENGINEERING CRAFTSecurityKnowledge,24,Principal Developer,ENGINEERING CRAFT,Security,Knowledge,4.0,30%,"You have impeccable understanding of security principles, and impart this knowledge on your own team, the organization, and wider tech community."
+Principal DeveloperENGINEERING CRAFTSecurityUser data,25,Principal Developer,ENGINEERING CRAFT,Security,User data,4.0,20%,N/A
+Principal DeveloperENGINEERING CRAFTSecurityReporting,26,Principal Developer,ENGINEERING CRAFT,Security,Reporting,4.0,10%,N/A
+Principal DeveloperENGINEERING CRAFTSecurityProactivity,27,Principal Developer,ENGINEERING CRAFT,Security,Proactivity,4.0,10%,N/A
+Principal DeveloperENGINEERING CRAFTSecurityCollaboration,28,Principal Developer,ENGINEERING CRAFT,Security,Collaboration,4.0,10%,N/A
+Principal DeveloperENGINEERING CRAFTSecurityStrategy,29,Principal Developer,ENGINEERING CRAFT,Security,Strategy,4.0,20%,"You lead the conversation around security within the organization.
+You are seen as an expert in the security field."
+Principal DeveloperENGINEERING CRAFTDebugging & Monitoring,30,Principal Developer,ENGINEERING CRAFT,Debugging & Monitoring,,4.0,15%,"The ability to understand and implement systematic debugging and monitoring practices to diagnose issues.
+Leads incident response, and fosters and promotes a culture of observability and monitoring across the organization."
+Principal DeveloperENGINEERING CRAFTDebugging & MonitoringDebugging,31,Principal Developer,ENGINEERING CRAFT,Debugging & Monitoring,Debugging,4.0,40%,Uses systematic debugging to diagnose issues across the organization.
+Principal DeveloperENGINEERING CRAFTDebugging & MonitoringTools,32,Principal Developer,ENGINEERING CRAFT,Debugging & Monitoring,Tools,4.0,0%,N/A
+Principal DeveloperENGINEERING CRAFTDebugging & MonitoringPhilosophy,33,Principal Developer,ENGINEERING CRAFT,Debugging & Monitoring,Philosophy,4.0,20%,You lead the organization's monitoring philosophy.
+Principal DeveloperENGINEERING CRAFTDebugging & MonitoringData,34,Principal Developer,ENGINEERING CRAFT,Debugging & Monitoring,Data,4.0,20%,You teams across the organization use operational data to improve stability and performance of their domains.
+Principal DeveloperENGINEERING CRAFTDebugging & MonitoringProfiling,35,Principal Developer,ENGINEERING CRAFT,Debugging & Monitoring,Profiling,4.0,20%,N/A
+Principal DeveloperENGINEERING CRAFTDebugging & MonitoringMentoring,36,Principal Developer,ENGINEERING CRAFT,Debugging & Monitoring,Mentoring,4.0,0%,You are a mentor for senior managers across the organization.
+Principal DeveloperSOFT SKILLS,37,Principal Developer,SOFT SKILLS,,,3.8,40%,
+Principal DeveloperSOFT SKILLSEmpathy & Humility,38,Principal Developer,SOFT SKILLS,Empathy & Humility,,4.0,40%,"The ability to share someone else's feelings or experiences by imagining what it would be like to be in that person's situation.
+Often found advocating for and representing others in conversations they cannot be in.
+Helps leaders to understand their teams, users and clients."
+Principal DeveloperSOFT SKILLSEmpathy & HumilityCredit and blame,39,Principal Developer,SOFT SKILLS,Empathy & Humility,Credit and blame,4.0,30%,"You use your position of power to redirect credit fairly, and absorb blame that isn't constructive to your team."
+Principal DeveloperSOFT SKILLSEmpathy & HumilityUnderstanding others,40,Principal Developer,SOFT SKILLS,Empathy & Humility,Understanding others,4.0,30%,"You're called for when any team wants to understand a group of people better.
+You can point to ways in which you've actively looked to dramatically improve the empathy of your organisation."
+Principal DeveloperSOFT SKILLSEmpathy & HumilityMediation and facilitation,41,Principal Developer,SOFT SKILLS,Empathy & Humility,Mediation and facilitation,4.0,20%,"You're called on to facilitate groups of people, often outside your peers, due to your calm and thoughtful demeanour.
+You make even combative people feel calm through finding common ground."
+Principal DeveloperSOFT SKILLSEmpathy & HumilityMentoring,42,Principal Developer,SOFT SKILLS,Empathy & Humility,Mentoring,4.0,20%,You have several formal mentoring relationships with senior staff both within and outside your immediate team.
+Principal DeveloperSOFT SKILLSCommunication,43,Principal Developer,SOFT SKILLS,Communication,,3.4,20%,"The ability to communicate well with those around you with sensitivity to timeliness, medium, brevity and tone.
+Communicates with the wider business, including change affecting the work of others, helps teams around them to communicate better."
+Principal DeveloperSOFT SKILLSCommunicationKeeping people informed,44,Principal Developer,SOFT SKILLS,Communication,Keeping people informed,4.0,50%,You design the process of communication to communicate with the business around strategically important projects using appropriate mediums.
+Principal DeveloperSOFT SKILLSCommunicationLooking for feedback,45,Principal Developer,SOFT SKILLS,Communication,Looking for feedback,4.0,20%,"You communicate changes in plans, organisational structure or work situation which directly affects one or more people, and manage any fall out from that change ensuring all parties stay informed and content."
+Principal DeveloperSOFT SKILLSCommunicationDelivering bad news,46,Principal Developer,SOFT SKILLS,Communication,Delivering bad news,3.2,10%,"You communicate bad news to a group of reports or peers, ensuring that a strategy is in place to manage expectations and morale during the change.
+Your approach involves thoughtfully designed communication to the top levels of the organisation"
+Principal DeveloperSOFT SKILLSCommunicationMentoring communicators,47,Principal Developer,SOFT SKILLS,Communication,Mentoring communicators,3.2,10%,"You regularly mentor others on communication technique, unpick poor communication in your wider organisation and add process where needed.
+You're comfortable feeding back on the communication of your seniors."
+Principal DeveloperSOFT SKILLSInitiative,48,Principal Developer,SOFT SKILLS,Initiative,,3.9,20%,"The ability to use your judgment to make decisions and do things without needing to be told what to do.
+Asks a lot, expects the impossible. Drives others to create their best work.
+Sees opportunities in everything."
+Principal DeveloperSOFT SKILLSInitiativeCan-do attitude,49,Principal Developer,SOFT SKILLS,Initiative,Can-do attitude,4.0,50%,You take ill-defined requirements and lead a large group within your organisation to make progress on them.
+Principal DeveloperSOFT SKILLSInitiativePro-activity in seeking help,50,Principal Developer,SOFT SKILLS,Initiative,Pro-activity in seeking help,3.6,25%,"You build relationships with people across your organisation without being asked, expressly for the purpose of boosting your ability to achieve great results."
+Principal DeveloperSOFT SKILLSInitiativeFollow through,51,Principal Developer,SOFT SKILLS,Initiative,Follow through,4.0,25%,"You're deeply involved in projects which require your ability to move through uncertainty.
+You adapt your skillset appropriately for those projects, morphing into what the projects need you to be."
+Principal DeveloperSOFT SKILLSObjectivity & Adaptability,52,Principal Developer,SOFT SKILLS,Objectivity & Adaptability,,4.0,10%,"The ability to deal with problems based on conditions that really exist, rather than following fixed theories, ideas, or rules, and to adapt to suit different conditions.
+Leads others in looking for ways to better serve business or customer needs, even outside their own discipline.
+Willing to lead mundane but important tasks and help whole teams to move on their goals through simplifying and breaking down problems."
+Principal DeveloperSOFT SKILLSObjectivity & AdaptabilityEfficient decision-making,53,Principal Developer,SOFT SKILLS,Objectivity & Adaptability,Efficient decision-making,4.0,50%,"You're part of decision-making teams on several major company-wide initiatives, employing appropriate processes and techniques."
+Principal DeveloperSOFT SKILLSObjectivity & AdaptabilitySelf improvement,54,Principal Developer,SOFT SKILLS,Objectivity & Adaptability,Self improvement,4.0,20%,"You build processes for yourself and others around you, diagnosing development areas and figuring out better ways of working and collaborating.
+You champion self improvement in your organisation."
+Principal DeveloperSOFT SKILLSObjectivity & AdaptabilityObjectivity,55,Principal Developer,SOFT SKILLS,Objectivity & Adaptability,Objectivity,4.0,20%,"You know which hills to die on.
+You recognise the importance of believability and pragmatism as a tool for moving product and business forwards, and when to stand your ground."
+Principal DeveloperSOFT SKILLSObjectivity & AdaptabilityTime management,56,Principal Developer,SOFT SKILLS,Objectivity & Adaptability,Time management,4.0,10%,"You are constantly checking your own plans and the plans of your team for opportunities to change or reduce effort.
+You exclusively pick up the most important, not the most interesting tasks."
+Principal DeveloperSOFT SKILLSBusiness Acumen,57,Principal Developer,SOFT SKILLS,Business Acumen,,3.8,10%,
+Principal DeveloperSOFT SKILLSBusiness AcumenUnderstanding level,58,Principal Developer,SOFT SKILLS,Business Acumen,Understanding level,3.8,100%,"Has a thourough understanding of their team's domain, strategy, and how it maps to overall market trends.
+Has a thorough understanding of adjacent teams' strategies and how they map to their team and interaction points."
+Principal DeveloperLEADERSHIP,59,Principal Developer,LEADERSHIP,,,3.5,20%,
+Principal DeveloperLEADERSHIPHiring and Org Design,60,Principal Developer,LEADERSHIP,Hiring and Org Design,,3.4,40%,"The ability to understand the needs of the business and ensure that your team can meet them.
+A competent interviewer. Able to follow a structured hiring process, and make a decision."
+Principal DeveloperLEADERSHIPHiring and Org DesignDeploying Teams,61,Principal Developer,LEADERSHIP,Hiring and Org Design,Deploying Teams,3.6,50%,You've carved out an additional role for yourself or peers to fulfil a need that a team has.
+Principal DeveloperLEADERSHIPHiring and Org DesignEmployer Brand,62,Principal Developer,LEADERSHIP,Hiring and Org Design,Employer Brand,4.0,30%,"You've helped to establish the company as a good employer through promotion on stage or online.
+You've inputted into the company's careers pages."
+Principal DeveloperLEADERSHIPHiring and Org DesignHiring,63,Principal Developer,LEADERSHIP,Hiring and Org Design,Hiring,2.0,20%,"You are regularly part of hiring panels, and have been hiring manager for at least one hire that passed probation."
+Principal DeveloperLEADERSHIPStakeholder Management,64,Principal Developer,LEADERSHIP,Stakeholder Management,,4.0,20%,"The ability to ensure that teams are protected and expectations are set correctly.
+An expert at understanding everyone's motivations and drives, and adapting communication and priorities to fit them.
+Protects others, including when it results in hard conversations.
+Maintains good relationships with all key stakeholders even when challenging."
+Principal DeveloperLEADERSHIPStakeholder ManagementManaging Goals and Expectations,65,Principal Developer,LEADERSHIP,Stakeholder Management,Managing Goals and Expectations,4.0,50%,You lead entire client or stakeholder relationships over the course of multiple quarters across successful and unsuccessful projects whilst maintaining good outcomes.
+Principal DeveloperLEADERSHIPStakeholder ManagementForesight,66,Principal Developer,LEADERSHIP,Stakeholder Management,Foresight,4.0,20%,"Your foresight has been proven over multiple projects involving multiple teams.
+You act as the stakeholder or client in order to tease out extra requirements, due to your deep understanding of their incentives."
+Principal DeveloperLEADERSHIPStakeholder ManagementEngendering Trust,67,Principal Developer,LEADERSHIP,Stakeholder Management,Engendering Trust,4.0,20%,"You're a key contact for stakeholders or external clients, funnelling work and information to them as you see fit.
+They ask for you to be involved in processes and meetings due to your respect for their time and needs."
+Principal DeveloperLEADERSHIPStakeholder ManagementProtecting the Team,68,Principal Developer,LEADERSHIP,Stakeholder Management,Protecting the Team,4.0,10%,"You protect embattled teams from being thrown off course, identifying difficult clients and stakeholder roadblocks, resolving issues."
+Principal DeveloperLEADERSHIPTeam Leadership,69,Principal Developer,LEADERSHIP,Team Leadership,,3.5,10%,"The ability to maintain quality, efficiency and establish trust in your ability.
+Capable of managing a larger team effectively.
+Protects the team, ensuring they're always clear on the goal, but also works to create space for them to make decisions and grow.
+Zero ego: open and honest with intentions, goals, failings and expectations.
+Dependable to a fault, leading to deep trust amongst direct reports."
+Principal DeveloperLEADERSHIPTeam LeadershipPutting the Team first,70,Principal Developer,LEADERSHIP,Team Leadership,Putting the Team first,4.0,50%,"You're visibly selfless and devoted as a manager.
+You have repeatedly put the team first in decisions which affect your workload.
+You've given opportunities for your team to shine in situations you could have taken yourself."
+Principal DeveloperLEADERSHIPTeam LeadershipDifficult Conversations,71,Principal Developer,LEADERSHIP,Team Leadership,Difficult Conversations,3.0,20%,"You have, over a significant period of time, managed team-level conversations effectively, as proven by your ability to maintain a largely happy and committed team throughout your tenure."
+Principal DeveloperLEADERSHIPTeam LeadershipReliability,72,Principal Developer,LEADERSHIP,Team Leadership,Reliability,3.2,20%,"You have been honest and open about intentions and goals with regards to at least one major team level decisions affecting multiple direct reports.
+You've listened to feedback and adjusted plans where possible.
+You have delivered as promised."
+Principal DeveloperLEADERSHIPTeam LeadershipVulnerability,73,Principal Developer,LEADERSHIP,Team Leadership,Vulnerability,3.0,10%,"You make a point of asking for feedback on your actions from your team.
+You consciously make time for self-reflection and evaluation, which you open up for others to view.
+You recognise the value of being human to your team."
+Principal DeveloperLEADERSHIPDeveloping Others,74,Principal Developer,LEADERSHIP,Developing Others,,3.3,20%,"The ability to develop the skillsets and abilities of your team.
+Has a structured process and methodology for assessing, refining and supporting the strengths and goals of their team.
+Spends meaningful time investing in laying groundwork for personal growth, including milestones, goals and structured opportunities. Their team are growing at above average speed."
+Principal DeveloperLEADERSHIPDeveloping OthersIdentifying strengths,75,Principal Developer,LEADERSHIP,Developing Others,Identifying strengths,3.6,30%,"You find threads of passion or strength across a large team, and help team members to grow those strengths."
+Principal DeveloperLEADERSHIPDeveloping OthersSupporting team growth,76,Principal Developer,LEADERSHIP,Developing Others,Supporting team growth,3.2,40%,"You set growth targets for your team, and are clear on what is expected and how they'll be rewarded upon completion.
+You follow through on that promise.
+You establish budgets and space for active learning."
+Principal DeveloperLEADERSHIPDeveloping OthersInvesting in process,77,Principal Developer,LEADERSHIP,Developing Others,Investing in process,3.2,10%,"You invest in rigorous and standardised skills assessment and goal-setting for your team, introducing clarity and purpose, resulting in your team growing in a more focused direction."
+Principal DeveloperLEADERSHIPDeveloping OthersFeedback on work,78,Principal Developer,LEADERSHIP,Developing Others,Feedback on work,3.0,20%,"Your feedback on multiple teams' work is strictly useful and actionable.
+You're able to articulate in a fair and efficient way not only what your opinion is, but why you have that opinion.
+In disagreement you're comfortable with having your opinion changed and invite other opinions from those around you."
+Principal DeveloperLEADERSHIPCulture & Togetherness,79,Principal Developer,LEADERSHIP,Culture & Togetherness,,3.3,10%,"The ability to bring groups together and foster a happy and productive environment.
+Has built themselves into an important cultural guardian through both signalling and empowering others.
+Goes out of their way to promote good behaviour and safeness for all.
+Is sharing the team's culture and wellbeing outwardly"
+Principal DeveloperLEADERSHIPCulture & TogethernessSetting an Example,80,Principal Developer,LEADERSHIP,Culture & Togetherness,Setting an Example,4.0,30%,"You actively call out peers and seniors who you feel don't signal correctly to your team and yourself.
+You work to educate those in positions of power to be conscious of the example they're setting."
+Principal DeveloperLEADERSHIPCulture & TogethernessEncouraging diverse opinions,81,Principal Developer,LEADERSHIP,Culture & Togetherness,Encouraging diverse opinions,3.0,40%,"You're a core part of, or leading, a central initiative towards a fairer and safer workplace for all, including touching hiring strategy and coaching for key staff.
+You're a vocal champion for under-represented groups.
+You create safe spaces for debate."
+Principal DeveloperLEADERSHIPCulture & TogethernessDeveloping personal relationships,82,Principal Developer,LEADERSHIP,Culture & Togetherness,Developing personal relationships,3.0,30%,"You're close enough to both your reports and your peers to be able to spot and debug issues with culture early and often.
+You can predict how people will work together and interact because you know their viewpoints on the world.
+You're coaching other leaders in their 1:1 and interpersonal techniques."
