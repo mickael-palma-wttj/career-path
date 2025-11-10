@@ -99,7 +99,7 @@ Detailed guides for each career level. Use these for level-specific coaching.
 
 ---
 
-## 📖 Practical How-To Guides (2 Guides)
+## 📖 Practical How-To Guides (6 Guides)
 
 Step-by-step tactical guides for common situations.
 
@@ -115,9 +115,37 @@ Step-by-step tactical guides for common situations.
    - Documentation requirements
    - Legal considerations
 
+3. **[Creating Stretch Projects](PRACTICAL_GUIDES/Creating_Stretch_Projects.md)**
+   - What makes a good stretch project
+   - Different types of projects
+   - Risk management strategies
+   - Support structure needed
+   - How to measure success
+
+4. **[Peer Feedback Collection](PRACTICAL_GUIDES/Peer_Feedback_Collection.md)**
+   - Setting up 360 reviews (upward, lateral, downward, self)
+   - Who to ask and how many providers
+   - Designing feedback questions
+   - Synthesizing results
+   - Sharing feedback effectively
+
+5. **[Succession Planning](PRACTICAL_GUIDES/Succession_Planning.md)**
+   - Identifying high potentials
+   - Creating development plans
+   - Backfill planning and knowledge transfer
+   - Managing transitions
+   - Retention during growth
+
+6. **[Remote Team Development](PRACTICAL_GUIDES/Remote_Team_Development.md)**
+   - Remote-specific challenges & solutions
+   - Virtual 1:1 best practices
+   - Keeping career visible remotely
+   - Asynchronous feedback and development
+   - Building remote team culture
+
 ---
 
-## 📝 Templates (5 Ready-to-Use)
+## 📝 Templates (10 Ready-to-Use)
 
 Copy, customize, and use immediately.
 
@@ -152,6 +180,42 @@ Copy, customize, and use immediately.
    - Check-in schedule
    - Support and resources
    - Consequences
+
+6. **[Goal Setting Template](TOOLS_TEMPLATES/Goal_Setting_Template.md)**
+   - SMART goal structure
+   - Career goal types by category
+   - Goal assessment framework
+   - Quarterly check-ins and annual review
+   - SMART examples (good vs. weak)
+
+7. **[Feedback Form Template](TOOLS_TEMPLATES/Feedback_Form_Template.md)**
+   - Structured 360 feedback form
+   - 7 question categories (collaboration, communication, technical, leadership, growth)
+   - Context-specific variations (promotion, general, behavior-specific)
+   - Synthesis guide for managers
+   - Works with multiple tools (Google Forms, Typeform, Culture Amp)
+
+8. **[Promotion Evaluation Checklist](TOOLS_TEMPLATES/Promotion_Evaluation_Checklist.md)**
+   - 6-phase promotion evaluation process
+   - Pre-planning through onboarding
+   - Evaluation criteria by level
+   - Red flags and concerns
+   - Go/no-go decision framework with sign-off
+
+9. **[Interview Questions By Level](TOOLS_TEMPLATES/Interview_Questions_By_Level.md)**
+   - Calibrated questions for all 5 levels (Junior through Senior Staff)
+   - "What we're listening for" guidance on each question
+   - Calibration table showing progression
+   - Red flags by level
+   - Scoring guide (1-5 scale)
+
+10. **[Coaching Conversation Starters](TOOLS_TEMPLATES/Coaching_Conversation_Starters.md)**
+    - Opening prompts by conversation topic
+    - Career & growth conversations
+    - Skill development coaching
+    - Collaboration & communication
+    - Feedback & performance
+    - Difficult situations and retention
 
 ---
 
@@ -336,31 +400,32 @@ Quick answers to common questions, organized by topic for easy navigation.
 
 ## 📊 Content Statistics
 
-**Total Documents:** 24
+**Total Documents:** 54
 
 **By Type:**
 - Core handbook modules: 6
 - Career level guides: 6
-- Practical guides: 2
-- Templates: 5
+- Practical guides: 6
+- Templates: 10
 - Case studies: 5
 - FAQ files: 16 (1 index + 15 topic files with 37 questions)
-- Reference docs: 3 (README, MANAGER_HANDBOOK_STRUCTURE, INDEX, SUMMARY)
+- Reference docs: 4 (README, MANAGER_HANDBOOK_STRUCTURE, INDEX, SUMMARY)
 
-**Total Content:** ~70,000 lines / ~190 pages equivalent
+**Total Content:** ~95,000 lines / ~250 pages equivalent
 
 **Estimated Reading Time:**
 - Core handbook (all 6 modules): 3-4 hours
 - All career level guides: 4-5 hours
-- All practical guides: 2 hours
+- All practical guides: 3-4 hours (6 guides now)
+- All templates: 2-3 hours (10 templates with examples)
 - All case studies: 3-4 hours
-- Complete handbook: 12-15 hours
+- Complete handbook: 15-20 hours
 
 **Suggested Reading Order:**
 1. **Week 1:** Core handbook (6 modules)
 2. **Week 2:** Relevant level guides for your ICs
-3. **Week 3:** Practical guides and templates
-4. **Week 4:** Case studies and FAQ
+3. **Week 3:** Practical guides (focus on your immediate needs)
+4. **Week 4:** Templates, case studies, and FAQ
 5. **Ongoing:** Reference as needed
 
 ---

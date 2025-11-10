@@ -54,6 +54,7 @@ This framework provides:
 **Evaluating for promotion?**
 → [`MANAGER_HANDBOOK/06_Promotion_Readiness.md`](MANAGER_HANDBOOK/06_Promotion_Readiness.md)
 → [`TOOLS_TEMPLATES/Promotion_Packet_Template.md`](TOOLS_TEMPLATES/Promotion_Packet_Template.md)
+→ [`TOOLS_TEMPLATES/Promotion_Evaluation_Checklist.md`](TOOLS_TEMPLATES/Promotion_Evaluation_Checklist.md)
 
 **Addressing underperformance?**
 → [`PRACTICAL_GUIDES/How_to_Address_Underperformance.md`](PRACTICAL_GUIDES/How_to_Address_Underperformance.md)
@@ -61,6 +62,20 @@ This framework provides:
 
 **Having career conversations?**
 → [`PRACTICAL_GUIDES/How_to_Have_Career_Conversations.md`](PRACTICAL_GUIDES/How_to_Have_Career_Conversations.md)
+→ [`TOOLS_TEMPLATES/Coaching_Conversation_Starters.md`](TOOLS_TEMPLATES/Coaching_Conversation_Starters.md)
+
+**Creating stretch projects?**
+→ [`PRACTICAL_GUIDES/Creating_Stretch_Projects.md`](PRACTICAL_GUIDES/Creating_Stretch_Projects.md)
+
+**Collecting 360 feedback?**
+→ [`PRACTICAL_GUIDES/Peer_Feedback_Collection.md`](PRACTICAL_GUIDES/Peer_Feedback_Collection.md)
+→ [`TOOLS_TEMPLATES/Feedback_Form_Template.md`](TOOLS_TEMPLATES/Feedback_Form_Template.md)
+
+**Managing remote teams?**
+→ [`PRACTICAL_GUIDES/Remote_Team_Development.md`](PRACTICAL_GUIDES/Remote_Team_Development.md)
+
+**Planning succession?**
+→ [`PRACTICAL_GUIDES/Succession_Planning.md`](PRACTICAL_GUIDES/Succession_Planning.md)
 
 **Dealing with a difficult situation?**
 → See [`CASE_STUDIES/`](CASE_STUDIES/) for real-world scenarios
@@ -93,14 +108,23 @@ career-path/
 │
 ├── PRACTICAL_GUIDES/          # How-to guides
 │   ├── How_to_Have_Career_Conversations.md
-│   └── How_to_Address_Underperformance.md
+│   ├── How_to_Address_Underperformance.md
+│   ├── Creating_Stretch_Projects.md
+│   ├── Peer_Feedback_Collection.md
+│   ├── Succession_Planning.md
+│   └── Remote_Team_Development.md
 │
-├── TOOLS_TEMPLATES/           # Ready-to-use templates (5 templates)
+├── TOOLS_TEMPLATES/           # Ready-to-use templates (10 templates)
 │   ├── 1on1_Agenda_Template.md
 │   ├── Development_Plan_Template.md
 │   ├── Promotion_Packet_Template.md
 │   ├── Peer_Feedback_Template.md
-│   └── PIP_Template.md
+│   ├── PIP_Template.md
+│   ├── Goal_Setting_Template.md
+│   ├── Feedback_Form_Template.md
+│   ├── Promotion_Evaluation_Checklist.md
+│   ├── Interview_Questions_By_Level.md
+│   └── Coaching_Conversation_Starters.md
 │
 ├── CASE_STUDIES/              # Real-world examples (5 scenarios)
 │   ├── The_Stuck_Senior_Developer.md

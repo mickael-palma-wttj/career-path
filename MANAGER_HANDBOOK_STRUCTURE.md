@@ -128,21 +128,21 @@ career-path/
 - The promotion conversation
 - Post-promotion onboarding
 
-#### **07_Development_Plans.md** _(planned)_
+#### **[07_Development_Plans.md](MANAGER_HANDBOOK/07_Development_Plans.md)**
 - Creating Individual Development Plans (IDPs)
 - 6-month, 12-month, 3-year plans
 - Identifying development areas
 - Choosing stretch projects
 - Regular review cadence
 
-#### **08_Retention_Strategies.md** _(planned)_
+#### **[08_Retention_Strategies.md](MANAGER_HANDBOOK/08_Retention_Strategies.md)**
 - Engagement signals to watch for
 - Career conversations early and often
 - Growth visibility and recognition
 - Compensation fairness discussion
 - When someone is thinking of leaving
 
-#### **09_Common_Scenarios.md** _(planned)_
+#### **[09_Common_Scenarios.md](MANAGER_HANDBOOK/09_Common_Scenarios.md)**
 - IC feels stuck
 - Mismatch between self-assessment and reality
 - High performer wanting management track
@@ -150,7 +150,7 @@ career-path/
 - Conflict with peers
 - Rapid growth support
 
-#### **10_Templates_Checklists.md** _(planned)_
+#### **[10_Templates_Checklists.md](MANAGER_HANDBOOK/10_Templates_Checklists.md)**
 - Quick reference for all templates
 - Checklist: Before promotion
 - Checklist: End of year review
@@ -164,7 +164,7 @@ career-path/
 - "What if they plateau?"
 - "How do I handle multiple ICs at same level?"
 
-#### **12_Resources.md** _(planned)_
+#### **[12_Resources.md](MANAGER_HANDBOOK/12_Resources.md)**
 - Recommended books on management
 - External career frameworks
 - Tools for feedback & 1:1s
@@ -223,27 +223,27 @@ Organized by the 3 pillars. Each criteria file includes:
 - Red flags & positive signals
 - Calibration with other managers
 
-**Creating_Stretch_Projects.md** _(planned)_
+**[Creating_Stretch_Projects.md](PRACTICAL_GUIDES/Creating_Stretch_Projects.md)**
 - What makes a good stretch project
 - Different types of projects
 - Risk management
 - Support structure needed
 - How to measure success
 
-**Peer_Feedback_Collection.md** _(planned)_
+**[Peer_Feedback_Collection.md](PRACTICAL_GUIDES/Peer_Feedback_Collection.md)**
 - Setting up 360 reviews
 - Who to ask
 - What questions to ask
 - Synthesizing feedback
 - Sharing results
 
-**Succession_Planning.md** _(planned)_
+**[Succession_Planning.md](PRACTICAL_GUIDES/Succession_Planning.md)**
 - Identifying high potentials
 - Backfill planning
 - Knowledge transfer
 - Retention during transitions
 
-**Remote_Team_Development.md** _(planned)_
+**[Remote_Team_Development.md](PRACTICAL_GUIDES/Remote_Team_Development.md)**
 - Specific challenges & solutions
 - Virtual 1:1 best practices
 - Keeping career visible remotely
@@ -260,11 +260,11 @@ Ready-to-use, copy-paste templates:
 - **[Promotion_Packet_Template.md](TOOLS_TEMPLATES/Promotion_Packet_Template.md)** - Evidence-based promotion cases
 - **[Peer_Feedback_Template.md](TOOLS_TEMPLATES/Peer_Feedback_Template.md)** - 360 feedback requests
 - **[PIP_Template.md](TOOLS_TEMPLATES/PIP_Template.md)** - Performance Improvement Plans
-- **Goal_Setting_Template.md** _(planned)_ - OKR-style or SMART goal format
-- **Feedback_Form_Template.md** _(planned)_ - Structured format for consistency
-- **Promotion_Evaluation_Checklist.md** _(planned)_ - Go/no-go decision tool
-- **Interview_Questions_By_Level.md** _(planned)_ - Calibrated questions per level
-- **Coaching_Conversation_Starters.md** _(planned)_ - Opening prompts by topic
+- **[Goal_Setting_Template.md](TOOLS_TEMPLATES/Goal_Setting_Template.md)** - SMART goal format
+- **[Feedback_Form_Template.md](TOOLS_TEMPLATES/Feedback_Form_Template.md)** - Structured 360 form
+- **[Promotion_Evaluation_Checklist.md](TOOLS_TEMPLATES/Promotion_Evaluation_Checklist.md)** - Go/no-go decision tool
+- **[Interview_Questions_By_Level.md](TOOLS_TEMPLATES/Interview_Questions_By_Level.md)** - Calibrated questions per level
+- **[Coaching_Conversation_Starters.md](TOOLS_TEMPLATES/Coaching_Conversation_Starters.md)** - Opening prompts by topic
 - **Progress_Tracking_Dashboard.md** _(planned)_ - Simple tracking tool
 
 ---

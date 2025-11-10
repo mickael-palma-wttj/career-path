@@ -6,7 +6,7 @@ A comprehensive career development framework for engineering managers to guide I
 
 ## 📖 What You Have
 
-A complete, production-ready manager's handbook with **25+ documents** covering:
+A complete, production-ready manager's handbook with **54+ documents** covering:
 
 ### ✅ Phase 1: Foundation (MVP)
 - Core framework and evaluation system
@@ -21,8 +21,8 @@ A complete, production-ready manager's handbook with **25+ documents** covering:
 - Promotion readiness assessments
 
 ### ✅ Phase 3: Polish & Enhancement
-- 2 practical how-to guides (career conversations, underperformance)
-- 5 ready-to-use templates (1:1s, IDPs, promotion packets, PIPs, peer feedback)
+- 6 practical how-to guides (career conversations, underperformance, stretch projects, peer feedback, succession planning, remote development)
+- 10 ready-to-use templates (1:1s, IDPs, promotion packets, feedback forms, PIPs, goal setting, checklists, interview questions, coaching starters)
 - 5 comprehensive case studies (real-world scenarios with solutions)
 - 16 FAQ files covering 37 questions across 15 categories
 - Complete navigation index
@@ -58,16 +58,25 @@ Each level includes:
 5. Senior Staff Developer (company-level strategy)
 6. Principal Developer (rare apex role)
 
-### Practical Guides (2 tactical how-tos)
+### Practical Guides (6 tactical how-tos)
 1. **Career Conversations** - 4 conversation types, quarterly structure, example dialogues
 2. **Address Underperformance** - 4-stage framework from coaching to termination
+3. **Creating Stretch Projects** - Types, risk management, support structures, measurement
+4. **Peer Feedback Collection** - Setting up 360 reviews, synthesis, sharing results
+5. **Succession Planning** - Identifying high potentials, backfill planning, transitions
+6. **Remote Team Development** - Remote-specific challenges, async development, culture building
 
-### Templates (5 ready-to-use)
+### Templates (10 ready-to-use)
 1. **1-on-1 Agenda** - 4 meeting types with structures
 2. **Development Plan** - Complete IDP with skills matrix
 3. **Promotion Packet** - Evidence-based promotion cases
 4. **Peer Feedback** - 5 request types with examples
 5. **PIP Template** - Performance Improvement Plans with legal considerations
+6. **Goal Setting** - SMART goal format with quarterly tracking
+7. **Feedback Form** - Structured 360 form for multiple formats
+8. **Promotion Evaluation Checklist** - 6-phase evaluation with decision framework
+9. **Interview Questions By Level** - Calibrated questions for all 5 levels
+10. **Coaching Conversation Starters** - Opening prompts by topic
 
 ### Case Studies (5 realistic scenarios)
 1. **The Stuck Senior Developer** - Plateaued IC needs clarity and projects
@@ -162,7 +171,7 @@ Each level includes:
 - Case studies show real implementation
 
 ### Comprehensive Yet Navigable
-- 25+ documents but well-organized
+- 54+ documents but well-organized
 - Clear index and navigation
 - Quick reference sections
 - Can read sequentially or jump to needs
@@ -275,16 +284,25 @@ career-path/
 │   ├── 05_Senior_Staff_Developer.md
 │   └── 06_Principal_Developer.md
 │
-├── PRACTICAL_GUIDES/                 # 2 how-to guides
+├── PRACTICAL_GUIDES/                 # 6 how-to guides
 │   ├── How_to_Have_Career_Conversations.md
-│   └── How_to_Address_Underperformance.md
+│   ├── How_to_Address_Underperformance.md
+│   ├── Creating_Stretch_Projects.md
+│   ├── Peer_Feedback_Collection.md
+│   ├── Succession_Planning.md
+│   └── Remote_Team_Development.md
 │
-├── TOOLS_TEMPLATES/                  # 5 ready-to-use templates
+├── TOOLS_TEMPLATES/                  # 10 ready-to-use templates
 │   ├── 1on1_Agenda_Template.md
 │   ├── Development_Plan_Template.md
 │   ├── Promotion_Packet_Template.md
 │   ├── Peer_Feedback_Template.md
-│   └── PIP_Template.md
+│   ├── PIP_Template.md
+│   ├── Goal_Setting_Template.md
+│   ├── Feedback_Form_Template.md
+│   ├── Promotion_Evaluation_Checklist.md
+│   ├── Interview_Questions_By_Level.md
+│   └── Coaching_Conversation_Starters.md
 │
 ├── CASE_STUDIES/                     # 5 real-world scenarios
 │   ├── The_Stuck_Senior_Developer.md
@@ -314,7 +332,7 @@ career-path/
 └── IC_evaluation_grid_template - raw_weights.csv  # Source data
 ```
 
-**Total:** 40+ documents, ~70,000 lines, ~190 pages equivalent
+**Total:** 54+ documents, ~95,000 lines, ~250 pages equivalent
 
 ---
 
