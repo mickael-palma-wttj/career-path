@@ -67,7 +67,7 @@ career-path/
 │   ├── 14_Succession_and_Transitions.md         # Manager departure, inheriting teams
 │   └── 15_Resources_and_Support.md              # New manager resources, finding help
 │
-└── draft/                                       # Draft materials
+└── DRAFT/                                       # Draft materials
     ├── IC_evaluation_grid_template - raw_weights.csv # The raw data
     ├── GENERATION_PROMPT.md                     # How to create rubrics
     └── template.md                              # Example rubric document

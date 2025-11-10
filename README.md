@@ -259,9 +259,9 @@ The framework uses a **0.0 to 4.0+ scale**:
 ## 📚 Additional Resources
 
 ### Draft Materials
-- [`draft/IC_evaluation_grid_template - raw_weights.csv`](draft/IC_evaluation_grid_template%20-%20raw_weights.csv) - The source data
-- [`draft/GENERATION_PROMPT.md`](draft/GENERATION_PROMPT.md) - How to create new rubric documents
-- [`draft/template.md`](draft/template.md) - Example of a detailed rubric document
+- [`DRAFT/IC_evaluation_grid_template - raw_weights.csv`](DRAFT/IC_evaluation_grid_template%20-%20raw_weights.csv) - The source data
+- [`DRAFT/GENERATION_PROMPT.md`](DRAFT/GENERATION_PROMPT.md) - How to create new rubric documents
+- [`DRAFT/template.md`](DRAFT/template.md) - Example of a detailed rubric document
 
 ### Reference
 - [`MANAGER_HANDBOOK_STRUCTURE.md`](MANAGER_HANDBOOK_STRUCTURE.md) - Complete structure overview
