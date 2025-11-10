@@ -31,13 +31,17 @@ For each IC on your team, review their career level guide:
 - [`CAREER_LEVEL_GUIDES/01_Junior_Developer.md`](../CAREER_LEVEL_GUIDES/01_Junior_Developer.md)
 - [`CAREER_LEVEL_GUIDES/02_Confirmed_Developer.md`](../CAREER_LEVEL_GUIDES/02_Confirmed_Developer.md)
 - [`CAREER_LEVEL_GUIDES/03_Senior_Developer.md`](../CAREER_LEVEL_GUIDES/03_Senior_Developer.md)
-- And so on...
+- [`CAREER_LEVEL_GUIDES/04_Staff_Developer.md`](../CAREER_LEVEL_GUIDES/04_Staff_Developer.md)
+- [`CAREER_LEVEL_GUIDES/05_Senior_Staff_Developer.md`](../CAREER_LEVEL_GUIDES/05_Senior_Staff_Developer.md)
+- [`CAREER_LEVEL_GUIDES/06_Principal_Developer.md`](../CAREER_LEVEL_GUIDES/06_Principal_Developer.md)
 
 ### Step 3: Bookmark Key Templates (10 min)
 Save these for regular use:
 - [1:1 Agenda Template](../TOOLS_TEMPLATES/1on1_Agenda_Template.md)
 - [Development Plan Template](../TOOLS_TEMPLATES/Development_Plan_Template.md)
-- [Feedback Form Template](../TOOLS_TEMPLATES/Feedback_Form_Template.md)
+- [Peer Feedback Template](../TOOLS_TEMPLATES/Peer_Feedback_Template.md)
+- [Promotion Packet Template](../TOOLS_TEMPLATES/Promotion_Packet_Template.md)
+- [PIP Template](../TOOLS_TEMPLATES/PIP_Template.md)
 
 ---
 
