@@ -28,12 +28,12 @@ Read [`01_Framework_Overview.md`](01_Framework_Overview.md) to understand:
 
 ### Step 2: Know Your ICs' Levels (10 min)
 For each IC on your team, review their career level guide:
-- [`CAREER_LEVEL_GUIDES/01_Junior_Developer.md`](../CAREER_LEVEL_GUIDES/01_Junior_Developer.md)
-- [`CAREER_LEVEL_GUIDES/02_Confirmed_Developer.md`](../CAREER_LEVEL_GUIDES/02_Confirmed_Developer.md)
-- [`CAREER_LEVEL_GUIDES/03_Senior_Developer.md`](../CAREER_LEVEL_GUIDES/03_Senior_Developer.md)
-- [`CAREER_LEVEL_GUIDES/04_Staff_Developer.md`](../CAREER_LEVEL_GUIDES/04_Staff_Developer.md)
-- [`CAREER_LEVEL_GUIDES/05_Senior_Staff_Developer.md`](../CAREER_LEVEL_GUIDES/05_Senior_Staff_Developer.md)
-- [`CAREER_LEVEL_GUIDES/06_Principal_Developer.md`](../CAREER_LEVEL_GUIDES/06_Principal_Developer.md)
+- [Junior Developer](../CAREER_LEVEL_GUIDES/01_Junior_Developer.md)
+- [Confirmed Developer](../CAREER_LEVEL_GUIDES/02_Confirmed_Developer.md)
+- [Senior Developer](../CAREER_LEVEL_GUIDES/03_Senior_Developer.md)
+- [Staff Developer](../CAREER_LEVEL_GUIDES/04_Staff_Developer.md)
+- [Senior Staff Developer](../CAREER_LEVEL_GUIDES/05_Senior_Staff_Developer.md)
+- [Principal Developer](../CAREER_LEVEL_GUIDES/06_Principal_Developer.md)
 
 ### Step 3: Bookmark Key Templates (10 min)
 Save these for regular use:
