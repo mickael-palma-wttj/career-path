@@ -299,7 +299,132 @@ Learn from detailed, realistic scenarios with solutions.
 
 ---
 
-## ❓ FAQ Documents (37 Questions Across 15 Categories)
+## 📋 Criteria Rubrics (17 Files - Assessment Framework)
+
+Detailed assessment rubrics for all 16 IC evaluation criteria, organized by 3 evaluation pillars. Each rubric provides actionable guidance for assessing and developing ICs.
+
+**[Master Navigation: CRITERIA_RUBRICS/README.md](CRITERIA_RUBRICS/README.md)**
+- Overview of all 16 criteria
+- Rating scale reference (0.0-4.0+)
+- Usage guides (assessment, development, calibration)
+- Manager tips
+- Navigation flows
+
+### Engineering Craft (7 Files) - Technical Skills
+
+**[Pillar Overview: README.md](CRITERIA_RUBRICS/01_Engineering_Craft/README.md)**
+- Engineering Craft pillar overview
+- All 6 criteria descriptions
+- How to use Engineering Craft rubrics
+- Development resources
+- Quick assessment questions
+
+**Individual Rubrics:**
+
+1. **[Writing Code](CRITERIA_RUBRICS/01_Engineering_Craft/01_Writing_Code.md)**
+   - Code quality, readability, maintainability, consistency
+   - Evidence: Code reviews, teammate feedback, PR history
+   - 5 levels from "Inconsistent approach" to "Code exemplar"
+
+2. **[Testing](CRITERIA_RUBRICS/01_Engineering_Craft/02_Testing.md)**
+   - Test coverage, reliability, design quality
+   - Evidence: Coverage %, test reliability, catch rate
+   - 5 levels from "Minimal testing" to "Testing authority"
+
+3. **[Technical Understanding](CRITERIA_RUBRICS/01_Engineering_Craft/03_Technical_Understanding.md)**
+   - Technical depth, breadth, learning ability
+   - Evidence: System knowledge, problem anticipation, learning speed
+   - 5 levels from "Learning basics" to "Technical authority"
+
+4. **[Software Architecture](CRITERIA_RUBRICS/01_Engineering_Craft/04_Software_Architecture.md)**
+   - System design, scalability, long-term thinking
+   - Evidence: Design decisions, trade-off thinking, system aging
+   - 5 levels from "Follows patterns" to "Architecture authority"
+
+5. **[Security](CRITERIA_RUBRICS/01_Engineering_Craft/05_Security.md)**
+   - Secure coding, threat awareness, compliance mindfulness
+   - Evidence: Threat modeling, vulnerability prevention, compliance thinking
+   - 5 levels from "Security unaware" to "Security authority"
+
+6. **[Debugging and Monitoring](CRITERIA_RUBRICS/01_Engineering_Craft/06_Debugging_and_Monitoring.md)**
+   - Root cause analysis, observability, MTTR improvement
+   - Evidence: Issue resolution speed, diagnostic capability, monitoring comprehensiveness
+   - 5 levels from "Struggles to diagnose" to "Observability authority"
+
+### Soft Skills (6 Files) - Interpersonal Skills
+
+**[Pillar Overview: README.md](CRITERIA_RUBRICS/02_Soft_Skills/README.md)**
+- Soft Skills pillar overview
+- All 5 criteria descriptions
+- How to use Soft Skills rubrics
+- Development resources
+- Common challenges and solutions
+
+**Individual Rubrics:**
+
+1. **[Empathy and Humility](CRITERIA_RUBRICS/02_Soft_Skills/01_Empathy_and_Humility.md)**
+   - Perspective-taking, feedback openness, growth mindset
+   - Evidence: Feedback acceptance, perspective understanding, mistake learning
+   - 5 levels from "Defensive" to "Deeply empathetic"
+
+2. **[Communication](CRITERIA_RUBRICS/02_Soft_Skills/02_Communication.md)**
+   - Clarity, listening, audience adaptation
+   - Evidence: Expression quality, listening depth, message tailoring
+   - 5 levels from "Unclear" to "Communication exemplar"
+
+3. **[Initiative](CRITERIA_RUBRICS/02_Soft_Skills/03_Initiative.md)**
+   - Proactive problem-solving, self-direction, ownership
+   - Evidence: Issue spotting, initiative-taking, ownership demonstration
+   - 5 levels from "Waits for direction" to "Self-directed authority"
+
+4. **[Objectivity and Adaptability](CRITERIA_RUBRICS/02_Soft_Skills/04_Objectivity_and_Adaptability.md)**
+   - Data-driven thinking, adaptability, resilience
+   - Evidence: Rational decision-making, change adaptation, pressure handling
+   - 5 levels from "Biased/rigid" to "Objective and adaptive"
+
+5. **[Business Acumen](CRITERIA_RUBRICS/02_Soft_Skills/05_Business_Acumen.md)**
+   - Customer focus, ROI thinking, strategic alignment
+   - Evidence: Customer understanding, business goal alignment, long-term thinking
+   - 5 levels from "Technical only" to "Business authority"
+
+### Leadership (6 Files) - People & Org Impact
+
+**[Pillar Overview: README.md](CRITERIA_RUBRICS/03_Leadership/README.md)**
+- Leadership pillar overview
+- All 5 criteria descriptions
+- Leadership at different career levels
+- How to use Leadership rubrics
+- Development resources
+- Common challenges and solutions
+
+**Individual Rubrics:**
+
+1. **[Hiring and Org Design](CRITERIA_RUBRICS/03_Leadership/01_Hiring_and_Org_Design.md)**
+   - Talent evaluation, team building, org structure thinking
+   - Evidence: Hiring acumen, team composition, org suggestions
+   - 5 levels from "Poor hiring sense" to "Org design authority"
+
+2. **[Stakeholder Management](CRITERIA_RUBRICS/03_Leadership/02_Stakeholder_Management.md)**
+   - Relationship building, influence, executive presence
+   - Evidence: Network width, upward influence, coalition building
+   - 5 levels from "Isolated" to "Influencer authority"
+
+3. **[Team Leadership](CRITERIA_RUBRICS/03_Leadership/03_Team_Leadership.md)**
+   - Vision setting, decision-making, team cohesion
+   - Evidence: Team alignment, trust level, decision quality
+   - 5 levels from "No direction" to "Inspiring leader"
+
+4. **[Developing Others](CRITERIA_RUBRICS/03_Leadership/04_Developing_Others.md)**
+   - Coaching, mentoring, skill development
+   - Evidence: Team member growth, career progression, loyalty
+   - 5 levels from "No coaching" to "Developer authority"
+
+5. **[Culture and Togetherness](CRITERIA_RUBRICS/03_Leadership/05_Culture_and_Togetherness.md)**
+   - Psychological safety, belonging, values alignment
+   - Evidence: Team safety, inclusion, values lived, bonding
+   - 5 levels from "Isolated culture" to "Culture exemplar"
+
+---
 
 Quick answers to common questions, organized by topic for easy navigation.
 
@@ -439,7 +564,7 @@ Quick answers to common questions, organized by topic for easy navigation.
 
 ## 📊 Content Statistics
 
-**Total Documents:** 59
+**Total Documents:** 79+
 
 **By Type:**
 - Core handbook modules: 6
@@ -447,23 +572,25 @@ Quick answers to common questions, organized by topic for easy navigation.
 - Practical guides: 6
 - Templates: 10
 - Case studies: 10
+- Criteria rubrics: 20 (1 master README + 3 pillar READMEs + 16 detailed rubrics)
 - FAQ files: 16 (1 index + 15 topic files with 37 questions)
 - Reference docs: 4 (README, MANAGER_HANDBOOK_STRUCTURE, INDEX, SUMMARY)
 
-**Total Content:** ~100,000+ lines / ~260 pages equivalent
+**Total Content:** ~125,000+ lines / ~310+ pages equivalent
 
 **Estimated Reading Time:**
 - Core handbook (all 6 modules): 3-4 hours
 - All career level guides: 4-5 hours
-- All practical guides: 3-4 hours (6 guides now)
+- All practical guides: 3-4 hours (6 guides)
+- Criteria rubrics (all 16 + pillar overviews): 5-7 hours
 - All templates: 2-3 hours (10 templates with examples)
 - All case studies: 3-4 hours
-- Complete handbook: 15-20 hours
+- Complete handbook: 20-27 hours
 
 **Suggested Reading Order:**
-1. **Week 1:** Core handbook (6 modules)
-2. **Week 2:** Relevant level guides for your ICs
-3. **Week 3:** Practical guides (focus on your immediate needs)
+1. **Week 1:** Core handbook (6 modules) + Criteria Rubrics master README
+2. **Week 2:** Relevant level guides for your ICs + relevant pillar READMEs
+3. **Week 3:** Practical guides (focus on your immediate needs) + specific rubrics
 4. **Week 4:** Templates, case studies, and FAQ
 5. **Ongoing:** Reference as needed
 
@@ -473,11 +600,14 @@ Quick answers to common questions, organized by topic for easy navigation.
 
 **Need to...**
 
+**Assess a specific skill/criterion?**
+→ [Criteria Rubrics](CRITERIA_RUBRICS/)
+
 **Prepare for a 1:1?**
 → [1-on-1 Template](TOOLS_TEMPLATES/1on1_Agenda_Template.md)
 
 **Assess promotion readiness?**
-→ [Promotion Readiness](MANAGER_HANDBOOK/06_Promotion_Readiness.md) + [Level Guide](CAREER_LEVEL_GUIDES/)
+→ [Promotion Readiness](MANAGER_HANDBOOK/06_Promotion_Readiness.md) + [Level Guide](CAREER_LEVEL_GUIDES/) + [Relevant Rubric](CRITERIA_RUBRICS/)
 
 **Write a promotion packet?**
 → [Promotion Packet Template](TOOLS_TEMPLATES/Promotion_Packet_Template.md)

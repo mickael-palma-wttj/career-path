@@ -42,12 +42,42 @@ career-path/
 │   ├── Peer_Feedback_Template.md                # 360 feedback requests
 │   └── PIP_Template.md                          # Performance Improvement Plans
 │
-├── CASE_STUDIES/                                # Real-world examples (5 scenarios)
+├── CASE_STUDIES/                                # Real-world examples (10 scenarios)
 │   ├── The_Stuck_Senior_Developer.md            # Overcoming plateau
 │   ├── Brilliant_but_Difficult.md               # High performer with behavior issues
 │   ├── The_Management_Question.md               # IC exploring management path
 │   ├── Promoted_Too_Early.md                    # Supporting premature promotion
-│   └── The_Retention_Crisis.md                  # Top performer retention
+│   ├── The_Retention_Crisis.md                  # Top performer retention
+│   ├── The_High_Performer_with_Low_Soft_Skills.md # Technical genius with collaboration gaps
+│   ├── The_Imposter_Syndrome_Trap.md            # Capable person paralyzed by self-doubt
+│   ├── The_Burnout_Risk.md                      # High performer heading toward collapse
+│   ├── The_Equity_Gap.md                        # IC discovering pay inequity
+│   └── The_Comeback_Story.md                    # Returning from leave struggling to re-engage
+│
+├── CRITERIA_RUBRICS/                            # Assessment rubrics for all 16 criteria (20 files)
+│   ├── README.md                                # Navigation guide & rating scale reference
+│   ├── 01_Engineering_Craft/                    # 6 technical criteria (7 files)
+│   │   ├── README.md                            # Pillar overview and development guide
+│   │   ├── 01_Writing_Code.md                   # Code quality, readability, maintainability
+│   │   ├── 02_Testing.md                        # Testing coverage, reliability, design
+│   │   ├── 03_Technical_Understanding.md        # Technical depth and breadth
+│   │   ├── 04_Software_Architecture.md          # System design, scalability, trade-offs
+│   │   ├── 05_Security.md                       # Secure coding, threat awareness
+│   │   └── 06_Debugging_and_Monitoring.md       # Root cause analysis, observability
+│   ├── 02_Soft_Skills/                          # 5 interpersonal criteria (6 files)
+│   │   ├── README.md                            # Pillar overview and development guide
+│   │   ├── 01_Empathy_and_Humility.md           # Perspective-taking, feedback openness
+│   │   ├── 02_Communication.md                  # Clarity, listening, audience adaptation
+│   │   ├── 03_Initiative.md                     # Proactive problem-solving, ownership
+│   │   ├── 04_Objectivity_and_Adaptability.md   # Data-driven thinking, resilience
+│   │   └── 05_Business_Acumen.md                # Customer focus, ROI thinking, strategy
+│   └── 03_Leadership/                           # 5 people/org criteria (6 files)
+│       ├── README.md                            # Pillar overview and development guide
+│       ├── 01_Hiring_and_Org_Design.md          # Talent evaluation, team building
+│       ├── 02_Stakeholder_Management.md         # Relationships, influence, executive presence
+│       ├── 03_Team_Leadership.md                # Vision setting, decisions, cohesion
+│       ├── 04_Developing_Others.md              # Coaching, mentoring, growth
+│       └── 05_Culture_and_Togetherness.md       # Psychological safety, belonging, values
 │
 ├── FAQS/                                        # Common questions (37 questions, 15 files)
 │   ├── README.md                                # Master FAQ index & navigation
@@ -191,20 +221,49 @@ Each file covers what managers need to know about that level:
 
 ---
 
+---
+
 ### Criteria Rubrics (CRITERIA_RUBRICS/)
 
-Organized by the 3 pillars. Each criteria file includes:
+Detailed assessment rubrics for all 16 IC evaluation criteria, organized by 3 pillars. Each rubric provides:
+- **Quick Summary** - 5-level expectations at a glance
+- **Definition** - What criterion means and why it matters
+- **Level-by-Level Breakdown** - Detailed narrative for each level (Developing → Authority)
+- **Manifestation in Work** - Concrete examples showing each level in practice
+- **Assessment Questions** - Specific questions to ask or observe
+- **Evidence to Look For** - Observable indicators by level
+- **Related Skills** - Cross-references to other criteria
+- **Coaching Strategies** - How to develop each level
+- **Real Examples/Scenarios** - Concrete demonstrations
+- **Development Goals** - Progression paths for growth
 
-**Content outline:**
-- What this criterion means at different levels
-- How it manifests in daily work
-- Manager's role in development
-- Assessment questions
-- Evidence to look for
-- Common misconceptions
-- Related skills that support it
-- How to coach on this criterion
-- Real examples from your org (if possible)
+**Master Navigation:**
+- **[README.md](CRITERIA_RUBRICS/README.md)** - Overview of all 16 criteria, rating scale reference, usage guides
+
+**Engineering Craft (7 files) - Technical Skills:**
+- **[README.md](CRITERIA_RUBRICS/01_Engineering_Craft/README.md)** - Pillar overview, development strategies, common challenges
+- **[01_Writing_Code.md](CRITERIA_RUBRICS/01_Engineering_Craft/01_Writing_Code.md)** - Code quality, readability, maintainability
+- **[02_Testing.md](CRITERIA_RUBRICS/01_Engineering_Craft/02_Testing.md)** - Testing coverage, reliability, design quality
+- **[03_Technical_Understanding.md](CRITERIA_RUBRICS/01_Engineering_Craft/03_Technical_Understanding.md)** - Technical depth, breadth, learning ability
+- **[04_Software_Architecture.md](CRITERIA_RUBRICS/01_Engineering_Craft/04_Software_Architecture.md)** - System design, scalability, long-term thinking
+- **[05_Security.md](CRITERIA_RUBRICS/01_Engineering_Craft/05_Security.md)** - Secure coding, threat awareness, compliance
+- **[06_Debugging_and_Monitoring.md](CRITERIA_RUBRICS/01_Engineering_Craft/06_Debugging_and_Monitoring.md)** - Root cause analysis, observability
+
+**Soft Skills (6 files) - Interpersonal Skills:**
+- **[README.md](CRITERIA_RUBRICS/02_Soft_Skills/README.md)** - Pillar overview, development strategies, common challenges
+- **[01_Empathy_and_Humility.md](CRITERIA_RUBRICS/02_Soft_Skills/01_Empathy_and_Humility.md)** - Perspective-taking, feedback openness, growth mindset
+- **[02_Communication.md](CRITERIA_RUBRICS/02_Soft_Skills/02_Communication.md)** - Clarity, listening, audience adaptation
+- **[03_Initiative.md](CRITERIA_RUBRICS/02_Soft_Skills/03_Initiative.md)** - Proactive problem-solving, self-direction, ownership
+- **[04_Objectivity_and_Adaptability.md](CRITERIA_RUBRICS/02_Soft_Skills/04_Objectivity_and_Adaptability.md)** - Data-driven thinking, adaptability, resilience
+- **[05_Business_Acumen.md](CRITERIA_RUBRICS/02_Soft_Skills/05_Business_Acumen.md)** - Customer focus, ROI thinking, market awareness
+
+**Leadership (6 files) - People & Org Impact:**
+- **[README.md](CRITERIA_RUBRICS/03_Leadership/README.md)** - Pillar overview, leadership at different levels, common challenges
+- **[01_Hiring_and_Org_Design.md](CRITERIA_RUBRICS/03_Leadership/01_Hiring_and_Org_Design.md)** - Talent evaluation, team building, org structure
+- **[02_Stakeholder_Management.md](CRITERIA_RUBRICS/03_Leadership/02_Stakeholder_Management.md)** - Relationship building, influence, executive presence
+- **[03_Team_Leadership.md](CRITERIA_RUBRICS/03_Leadership/03_Team_Leadership.md)** - Vision setting, decision-making, team cohesion
+- **[04_Developing_Others.md](CRITERIA_RUBRICS/03_Leadership/04_Developing_Others.md)** - Coaching, mentoring, skill development
+- **[05_Culture_and_Togetherness.md](CRITERIA_RUBRICS/03_Leadership/05_Culture_and_Togetherness.md)** - Psychological safety, belonging, values alignment
 
 ---
 
@@ -280,7 +339,7 @@ Real or realistic scenarios with:
 - **Key learnings** - Lessons for other managers
 - **What to do differently** - Alternative approaches
 
-**Available Case Studies:**
+**Available Case Studies (10 total):**
 - **[The_Stuck_Senior_Developer.md](CASE_STUDIES/The_Stuck_Senior_Developer.md)** - Overcoming plateau
 - **[Brilliant_but_Difficult.md](CASE_STUDIES/Brilliant_but_Difficult.md)** - High performer with behavior issues
 - **[The_Management_Question.md](CASE_STUDIES/The_Management_Question.md)** - IC exploring management path

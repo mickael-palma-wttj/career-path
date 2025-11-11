@@ -6,7 +6,7 @@ A comprehensive career development framework for engineering managers to guide I
 
 ## 📖 What You Have
 
-A complete, production-ready manager's handbook with **59+ documents** covering:
+A complete, production-ready manager's handbook with **79+ documents** covering:
 
 ### ✅ Phase 1: Foundation (MVP)
 - Core framework and evaluation system
@@ -23,9 +23,16 @@ A complete, production-ready manager's handbook with **59+ documents** covering:
 ### ✅ Phase 3: Polish & Enhancement
 - 6 practical how-to guides (career conversations, underperformance, stretch projects, peer feedback, succession planning, remote development)
 - 10 ready-to-use templates (1:1s, IDPs, promotion packets, feedback forms, PIPs, goal setting, checklists, interview questions, coaching starters)
-- 5 comprehensive case studies (real-world scenarios with solutions)
+- 10 comprehensive case studies (real-world scenarios with solutions)
 - 16 FAQ files covering 37 questions across 15 categories
 - Complete navigation index
+
+### ✅ Phase 4: Detailed Assessment Framework
+- 16 comprehensive criteria rubrics organized by 3 evaluation pillars
+- Engineering Craft rubrics (6 technical criteria) + pillar README
+- Soft Skills rubrics (5 interpersonal criteria) + pillar README
+- Leadership rubrics (5 people/org impact criteria) + pillar README
+- Master CRITERIA_RUBRICS navigation guide
 
 ---
 
@@ -89,6 +96,35 @@ Each level includes:
 8. **The Burnout Risk** - High performer heading toward collapse
 9. **The Equity Gap** - IC discovering pay inequity
 10. **The Comeback Story** - Returning from leave struggling to re-engage
+
+### Criteria Rubrics (20 files - All 16 IC evaluation criteria)
+
+**Master Navigation:** [CRITERIA_RUBRICS/README.md](CRITERIA_RUBRICS/README.md)
+
+**Engineering Craft (7 files) - Technical Skills:**
+- [README.md](CRITERIA_RUBRICS/01_Engineering_Craft/README.md) - Pillar overview and development guide
+- Writing Code - Code quality, readability, maintainability
+- Testing - Test coverage, reliability, design quality
+- Technical Understanding - Technical depth, breadth, learning ability
+- Software Architecture - System design, scalability, long-term thinking
+- Security - Secure coding, threat awareness, compliance
+- Debugging and Monitoring - Root cause analysis, observability
+
+**Soft Skills (6 files) - Interpersonal Skills:**
+- [README.md](CRITERIA_RUBRICS/02_Soft_Skills/README.md) - Pillar overview and development guide
+- Empathy and Humility - Perspective-taking, feedback openness, growth mindset
+- Communication - Clarity, listening, audience adaptation
+- Initiative - Proactive problem-solving, self-direction, ownership
+- Objectivity and Adaptability - Data-driven thinking, adaptability, resilience
+- Business Acumen - Customer focus, ROI thinking, market awareness
+
+**Leadership (7 files) - People & Org Impact:**
+- [README.md](CRITERIA_RUBRICS/03_Leadership/README.md) - Pillar overview and development guide
+- Hiring and Org Design - Talent evaluation, team building, org structure
+- Stakeholder Management - Relationship building, influence, executive presence
+- Team Leadership - Vision setting, decision-making, team cohesion
+- Developing Others - Coaching, mentoring, skill development
+- Culture and Togetherness - Psychological safety, belonging, values alignment
 
 ### FAQs (16 focused files)
 - 37 questions across 15 categories
@@ -176,7 +212,7 @@ Each level includes:
 - Case studies show real implementation
 
 ### Comprehensive Yet Navigable
-- 54+ documents but well-organized
+- 79+ documents but well-organized
 - Clear index and navigation
 - Quick reference sections
 - Can read sequentially or jump to needs
@@ -321,6 +357,31 @@ career-path/
 │   ├── The_Equity_Gap.md
 │   └── The_Comeback_Story.md
 │
+├── CRITERIA_RUBRICS/                 # 20 assessment rubric files (all 16 criteria)
+│   ├── README.md                     # Master navigation and rating scale reference
+│   ├── 01_Engineering_Craft/
+│   │   ├── README.md                 # Engineering Craft pillar overview
+│   │   ├── 01_Writing_Code.md
+│   │   ├── 02_Testing.md
+│   │   ├── 03_Technical_Understanding.md
+│   │   ├── 04_Software_Architecture.md
+│   │   ├── 05_Security.md
+│   │   └── 06_Debugging_and_Monitoring.md
+│   ├── 02_Soft_Skills/
+│   │   ├── README.md                 # Soft Skills pillar overview
+│   │   ├── 01_Empathy_and_Humility.md
+│   │   ├── 02_Communication.md
+│   │   ├── 03_Initiative.md
+│   │   ├── 04_Objectivity_and_Adaptability.md
+│   │   └── 05_Business_Acumen.md
+│   └── 03_Leadership/
+│       ├── README.md                 # Leadership pillar overview
+│       ├── 01_Hiring_and_Org_Design.md
+│       ├── 02_Stakeholder_Management.md
+│       ├── 03_Team_Leadership.md
+│       ├── 04_Developing_Others.md
+│       └── 05_Culture_and_Togetherness.md
+│
 ├── FAQS/                             # 37 questions in 16 files
 │   ├── README.md                     # Master FAQ index
 │   ├── 01_Career_Path_Questions.md
@@ -342,7 +403,7 @@ career-path/
 └── IC_evaluation_grid_template - raw_weights.csv  # Source data
 ```
 
-**Total:** 59+ documents, ~100,000+ lines, ~260 pages equivalent
+**Total:** 79+ documents, ~125,000+ lines, ~310+ pages equivalent
 
 ---
 
