@@ -106,7 +106,7 @@ career-path/
 │   ├── 05_Senior_Staff_Developer.md
 │   └── 06_Principal_Developer.md
 │
-├── PRACTICAL_GUIDES/          # How-to guides
+├── PRACTICAL_GUIDES/          # How-to guides (6 guides)
 │   ├── How_to_Have_Career_Conversations.md
 │   ├── How_to_Address_Underperformance.md
 │   ├── Creating_Stretch_Projects.md
@@ -137,6 +137,31 @@ career-path/
 │   ├── The_Burnout_Risk.md
 │   ├── The_Equity_Gap.md
 │   └── The_Comeback_Story.md
+│
+├── CRITERIA_RUBRICS/          # Assessment rubrics (20 files, 16 criteria)
+│   ├── README.md              # Master navigation
+│   ├── 01_Engineering_Craft/  # Technical skills (7 files)
+│   │   ├── README.md
+│   │   ├── 01_Writing_Code.md
+│   │   ├── 02_Testing.md
+│   │   ├── 03_Technical_Understanding.md
+│   │   ├── 04_Software_Architecture.md
+│   │   ├── 05_Security.md
+│   │   └── 06_Debugging_and_Monitoring.md
+│   ├── 02_Soft_Skills/        # Interpersonal skills (6 files)
+│   │   ├── README.md
+│   │   ├── 01_Empathy_and_Humility.md
+│   │   ├── 02_Communication.md
+│   │   ├── 03_Initiative.md
+│   │   ├── 04_Objectivity_and_Adaptability.md
+│   │   └── 05_Business_Acumen.md
+│   └── 03_Leadership/         # People & org impact (6 files)
+│       ├── README.md
+│       ├── 01_Hiring_and_Org_Design.md
+│       ├── 02_Stakeholder_Management.md
+│       ├── 03_Team_Leadership.md
+│       ├── 04_Developing_Others.md
+│       └── 05_Culture_and_Togetherness.md
 │
 └── FAQS/                      # Common questions (37 questions, 15 files)
     ├── README.md              # Master FAQ index & navigation
