@@ -209,19 +209,11 @@ Scenario-based examples showing different performance levels.
 - **[Soft Skills](02_Soft_Skills/README.md)** - Interpersonal & professional (5 criteria)
 - **[Leadership](03_Leadership/README.md)** - People & organizational impact (5 criteria)
 
-### By Career Level
-- **[Junior Developer](LEVEL_GUIDES/Junior_Developer.md)** - Which criteria matter most
-- **[Confirmed Developer](LEVEL_GUIDES/Confirmed_Developer.md)** - Focus areas
-- **[Senior Developer](LEVEL_GUIDES/Senior_Developer.md)** - Expectations
-- **[Staff Developer](LEVEL_GUIDES/Staff_Developer.md)** - Broader impact
-- **[Senior Staff Developer](LEVEL_GUIDES/Senior_Staff_Developer.md)** - Strategic level
-- **[Principal Developer](LEVEL_GUIDES/Principal_Developer.md)** - Apex role
-
-### By Scenario
-- **[Assessing Someone](ASSESSMENT_GUIDE.md)** - How to use rubrics for evaluation
-- **[Developing Someone](DEVELOPMENT_GUIDE.md)** - How to use rubrics for coaching
-- **[Promotion Assessment](PROMOTION_GUIDE.md)** - Using rubrics for promotion decisions
-- **[Calibration](CALIBRATION_GUIDE.md)** - Aligning understanding with peers
+### Related Resources
+- **[Career Level Guides](../CAREER_LEVEL_GUIDES/)** - Level-specific expectations for criteria
+- **[Promotion Readiness Guide](../MANAGER_HANDBOOK/06_Promotion_Readiness.md)** - Using rubrics for promotion decisions
+- **[Development Plans](../TOOLS_TEMPLATES/Development_Plan_Template.md)** - Creating goals with rubric criteria
+- **[Peer Feedback](../TOOLS_TEMPLATES/Peer_Feedback_Template.md)** - Collecting evidence for rubrics
 
 ---
 
