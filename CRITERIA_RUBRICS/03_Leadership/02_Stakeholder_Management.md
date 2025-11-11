@@ -25,6 +25,8 @@
 - **Executive Presence** - Commanding respect
 - **Coalition Building** - Assembling support for initiatives
 
+**📖 Further Reading:** *[The Staff Engineer's Path](../../BOOKS/The%20Staff%20Engineer's%20Path%20-%20Tanya%20Reilly.pdf)* by Tanya Reilly provides deep insights into building influence and stakeholder relationships at the IC level, especially critical for Staff+ engineers navigating complex organizational dynamics.
+
 ---
 
 ## 📊 Quick Levels

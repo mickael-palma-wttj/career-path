@@ -231,6 +231,8 @@ Principal Developer (Company-wide Leadership)
 
 **Timeline:** Usually 4-6 years, may plateau here (and that's okay!)
 
+**📖 Further Reading:** *[The Staff Engineer's Path](../../BOOKS/The%20Staff%20Engineer's%20Path%20-%20Tanya%20Reilly.pdf)* by Tanya Reilly provides comprehensive guidance on the Staff role, including navigating organizational dynamics, defining impact, and understanding your archetype as a Staff engineer.
+
 ---
 
 ## 5️⃣ Senior Staff Developer
@@ -279,6 +281,8 @@ Principal Developer (Company-wide Leadership)
 - ✅ Multi-year track record of transformational impact
 
 **Timeline:** Usually 5+ years, very few reach this level
+
+**📖 Further Reading:** *[The Staff Engineer's Path](../../BOOKS/The%20Staff%20Engineer's%20Path%20-%20Tanya%20Reilly.pdf)* explores the senior IC trajectory and strategies for impact at the highest levels of technical leadership.
 
 ---
 

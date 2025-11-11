@@ -106,6 +106,8 @@ This section covers the 5 core leadership criteria that assess impact on people 
 - Shaping culture and values
 - Mentoring and coaching
 
+**📖 Further Reading:** *[The Staff Engineer's Path](../../BOOKS/The%20Staff%20Engineer's%20Path%20-%20Tanya%20Reilly.pdf)* by Tanya Reilly is specifically designed around leadership as an IC—how to build influence, develop organizational impact, and shape culture without formal authority.
+
 ---
 
 ## 🔗 Related Sections

@@ -25,6 +25,8 @@
 - **Long-term View** - Considering future needs and changes
 - **Design Communication** - Explaining architectural choices
 
+**📖 Further Reading:** At Staff+ levels, architecture transcends technical decisions to include organizational and strategic thinking. *[The Staff Engineer's Path](../../BOOKS/The%20Staff%20Engineer's%20Path%20-%20Tanya%20Reilly.pdf)* explores how Staff engineers use architectural leadership to shape organizational direction.
+
 ---
 
 ## 📊 Level-by-Level Breakdown

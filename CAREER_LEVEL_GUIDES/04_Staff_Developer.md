@@ -21,6 +21,8 @@ Staff Developers are **organizational force multipliers** who solve complex, amb
 
 **Important:** Staff is the first "senior leadership" IC role. Not everyone reaches this level, and that's okay.
 
+**📖 Further Reading:** See *[The Staff Engineer's Path](../../BOOKS/The%20Staff%20Engineer's%20Path%20-%20Tanya%20Reilly.pdf)* by Tanya Reilly for deep exploration of Staff-level roles, navigating organizational dynamics, and defining impact beyond code.
+
 ---
 
 ## 📊 Framework Weights for Staff Developer
@@ -85,6 +87,8 @@ From the IC evaluation grid:
 - Example: Staff engineer driving engineering-wide improvements
 
 Your Staff engineers might be one or a mix of these. Understand their archetype to manage them effectively.
+
+**💡 Tip:** Tanya Reilly's *[The Staff Engineer's Path](../../BOOKS/The%20Staff%20Engineer's%20Path%20-%20Tanya%20Reilly.pdf)* provides excellent frameworks for understanding these archetypes and how they navigate organizational dynamics at scale.
 
 ---
 
@@ -659,7 +663,9 @@ For Senior Staff, I'd need to see:
 
 This is probably a 2-3 year journey, and honestly, we might not have a Senior Staff role available—there are very few in any company. 
 
-Before we go down this path, I want to ask: is this what you want? Senior Staff is deeply strategic and political. You'll be in meetings more, coding less, influencing more, implementing less. Is that appealing?"
+Before we go down this path, I want to ask: is this what you want? Senior Staff is deeply strategic and political. You'll be in meetings more, coding less, influencing more, implementing less. Is that appealing?
+
+**📖 Resource:** If you're interested in exploring Senior Staff paths, *[The Staff Engineer's Path](../../BOOKS/The%20Staff%20Engineer's%20Path%20-%20Tanya%20Reilly.pdf)* by Tanya Reilly provides excellent frameworks for understanding the transition from Staff to Senior Staff, including navigation of organizational politics and defining long-term impact."
 
 ---
 

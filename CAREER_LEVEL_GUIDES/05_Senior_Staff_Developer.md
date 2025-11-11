@@ -22,6 +22,8 @@ Senior Staff Developers are **engineering leaders** who drive technical vision a
 
 **Critical note:** Senior Staff is a rare level. Most companies have 0-3 at this level. Not reaching Senior Staff ≠ lack of success—being an excellent Staff engineer is already exceptional.
 
+**📖 Further Reading:** *[The Staff Engineer's Path](../../BOOKS/The%20Staff%20Engineer's%20Path%20-%20Tanya%20Reilly.pdf)* by Tanya Reilly covers the transition to and experience of Senior Staff roles, including managing organizational politics, defining impact, and navigating strategic partnerships.
+
 ---
 
 ## 📊 Framework Weights for Senior Staff Developer
@@ -90,6 +92,8 @@ From the IC evaluation grid:
 - Example: "They transformed our engineering organization from chaos to excellence"
 
 Most Senior Staff engineers blend these, but have a primary archetype.
+
+**💡 Tip:** Reilly's *[The Staff Engineer's Path](../../BOOKS/The%20Staff%20Engineer's%20Path%20-%20Tanya%20Reilly.pdf)* provides excellent exploration of these archetypes and how they leverage their roles differently to create organizational impact.
 
 ---
 
@@ -665,6 +669,9 @@ Is Principal what you want? What's motivating the question?"
 - [Career Levels Guide](../MANAGER_HANDBOOK/02_Career_Levels_Guide.md)
 - [Promotion Readiness](../MANAGER_HANDBOOK/06_Promotion_Readiness.md)
 - [One-on-One Framework](../MANAGER_HANDBOOK/03_One_on_One_Framework.md)
+
+**Further Reading:**
+- *[The Staff Engineer's Path](../../BOOKS/The%20Staff%20Engineer's%20Path%20-%20Tanya%20Reilly.pdf)* by Tanya Reilly - Essential guide for navigating the Senior Staff role, managing organizational impact, and understanding your archetype as a Senior Staff engineer
 
 **Templates:**
 - [Development Plan Template](../TOOLS_TEMPLATES/Development_Plan_Template.md)
