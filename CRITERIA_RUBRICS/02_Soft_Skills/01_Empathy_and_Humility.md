@@ -82,6 +82,7 @@
 ## 👀 Evidence to Look For
 
 **Proficient:**
+
 ✅ Actively seeks feedback  
 ✅ Takes feedback seriously  
 ✅ Shows genuine interest in others' views  
@@ -89,12 +90,14 @@
 ✅ Others feel heard and respected  
 
 **Expert:**
+
 ✅ Mentors others in empathy  
 ✅ Creates psychological safety  
 ✅ Diverse perspectives sought  
 ✅ Others describe as genuinely caring  
 
 **Authority:**
+
 ✅ Org culture reflects empathy values  
 ✅ Others emulate their empathetic approach  
 

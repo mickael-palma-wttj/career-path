@@ -54,18 +54,21 @@
 ## 👀 Evidence to Look For
 
 **Proficient:**
+
 ✅ Good hiring track record  
 ✅ Thoughtful team composition  
 ✅ Org structure suggestions are sound  
 ✅ Hires work out well  
 
 **Expert:**
+
 ✅ Known as talent scout  
 ✅ Mentors on hiring  
 ✅ Strong org design thinking  
 ✅ Team building successful  
 
 **Authority:**
+
 ✅ Org hiring standards shaped by them  
 ✅ Successful team-building approach  
 

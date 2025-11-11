@@ -80,18 +80,21 @@
 ## 👀 Evidence to Look For
 
 **Proficient:**
+
 ✅ Security considered in design  
 ✅ No security issues found in their code  
 ✅ Proactively identifies risks  
 ✅ Follows compliance requirements  
 
 **Expert:**
+
 ✅ Sought for security review  
 ✅ Teaches others about threat modeling  
 ✅ Stays current on security topics  
 ✅ Identifies subtle vulnerabilities  
 
 **Authority:**
+
 ✅ Org follows their security practices  
 ✅ Security culture improved  
 ✅ Fewer vulnerabilities in shipped code  

@@ -143,6 +143,7 @@
 ## 👀 Evidence to Look For
 
 **Proficient:**
+
 ✅ People ask them technical questions  
 ✅ Can explain system design decisions  
 ✅ Learns new systems quickly  
@@ -150,6 +151,7 @@
 ✅ Helps others understand complex systems  
 
 **Expert:**
+
 ✅ Recognized as expert in multiple areas  
 ✅ Evaluates technical tradeoffs thoughtfully  
 ✅ Learns new domain in weeks, not months  
@@ -157,6 +159,7 @@
 ✅ Consulted on technical decisions  
 
 **Authority:**
+
 ✅ Sets org's technical direction  
 ✅ Shapes hiring decisions around technical needs  
 ✅ Others model their technical approach  

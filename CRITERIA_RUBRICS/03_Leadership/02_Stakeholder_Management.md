@@ -54,18 +54,21 @@
 ## 👀 Evidence to Look For
 
 **Proficient:**
+
 ✅ Strong cross-org relationships  
 ✅ Gets initiatives supported  
 ✅ Respected by stakeholders  
 ✅ Effective upward communication  
 
 **Expert:**
+
 ✅ Wide influence network  
 ✅ Initiative-driving ability  
 ✅ Executive presence  
 ✅ Mentors on influence  
 
 **Authority:**
+
 ✅ Org-wide influence  
 ✅ Executive relationship  
 

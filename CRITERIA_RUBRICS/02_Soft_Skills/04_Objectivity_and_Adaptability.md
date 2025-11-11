@@ -54,6 +54,7 @@
 ## 👀 Evidence to Look For
 
 **Proficient:**
+
 ✅ Decisions backed by data  
 ✅ Adapts to changes smoothly  
 ✅ Calm under pressure  
@@ -61,12 +62,14 @@
 ✅ Objective about trade-offs  
 
 **Expert:**
+
 ✅ Mentors others on rational thinking  
 ✅ Seeks alternative perspectives  
 ✅ Thrives amid chaos  
 ✅ Others look to for stability  
 
 **Authority:**
+
 ✅ Org decisions reflect rationality  
 ✅ Decision culture improved  
 

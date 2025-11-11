@@ -54,18 +54,21 @@
 ## 👀 Evidence to Look For
 
 **Proficient:**
+
 ✅ Team knows direction  
 ✅ Team feels aligned  
 ✅ Team trusts their judgment  
 ✅ Decisions are good  
 
 **Expert:**
+
 ✅ Team is inspired  
 ✅ Very high cohesion  
 ✅ Leadership admired  
 ✅ Team defends their leader  
 
 **Authority:**
+
 ✅ Org leadership culture  
 ✅ Others emulate their style  
 

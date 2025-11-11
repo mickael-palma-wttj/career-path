@@ -80,6 +80,7 @@
 ## 👀 Evidence to Look For
 
 **Proficient:**
+
 ✅ Finds bugs quickly and systematically  
 ✅ Code has good logging and monitoring  
 ✅ Can diagnose production issues effectively  
@@ -87,12 +88,14 @@
 ✅ Others learn debugging techniques from them  
 
 **Expert:**
+
 ✅ Asked to investigate complex issues  
 ✅ Mentors others on debugging  
 ✅ Monitoring systems are excellent  
 ✅ MTTR reduced due to their monitoring  
 
 **Authority:**
+
 ✅ Org's monitoring and observability improved  
 ✅ Others follow their observability patterns  
 ✅ Production issues are quickly diagnosed  

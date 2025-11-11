@@ -54,6 +54,7 @@
 ## 👀 Evidence to Look For
 
 **Proficient:**
+
 ✅ People understand what they say  
 ✅ Listens more than talks  
 ✅ Asks clarifying questions  
@@ -61,12 +62,14 @@
 ✅ Adapts message to audience  
 
 **Expert:**
+
 ✅ Asked to present at meetings  
 ✅ Others learn communication from them  
 ✅ Clear documentation and decisions  
 ✅ Sought for sensitive conversations  
 
 **Authority:**
+
 ✅ Org communication reflects their clarity  
 ✅ Others model their communication style  
 

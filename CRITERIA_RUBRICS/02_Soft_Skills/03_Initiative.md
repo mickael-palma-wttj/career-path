@@ -54,6 +54,7 @@
 ## 👀 Evidence to Look For
 
 **Proficient:**
+
 ✅ Spotting and fixing issues independently  
 ✅ Improvements to processes/systems  
 ✅ Takes ownership of outcomes  
@@ -61,12 +62,14 @@
 ✅ Energy and drive visible  
 
 **Expert:**
+
 ✅ Inspiring others to take initiative  
 ✅ Driving team improvements  
 ✅ Major initiatives launched  
 ✅ Risk-taking that pays off  
 
 **Authority:**
+
 ✅ Org improvements driven by them  
 ✅ Culture of initiative spreads  
 

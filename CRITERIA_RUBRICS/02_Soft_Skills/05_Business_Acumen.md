@@ -54,6 +54,7 @@
 ## 👀 Evidence to Look For
 
 **Proficient:**
+
 ✅ Understands business goals  
 ✅ Makes ROI-aware decisions  
 ✅ Thinks about customer impact  
@@ -61,12 +62,14 @@
 ✅ Connects work to strategy  
 
 **Expert:**
+
 ✅ Strategic thinking evident  
 ✅ Mentors on business thinking  
 ✅ Customer insights inform work  
 ✅ Sought for business input  
 
 **Authority:**
+
 ✅ Strategic decisions influenced by them  
 ✅ Org strategy shaped by their input  
 

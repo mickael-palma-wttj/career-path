@@ -54,18 +54,21 @@
 ## 👀 Evidence to Look For
 
 **Proficient:**
+
 ✅ Team feels safe speaking up  
 ✅ People describe belonging  
 ✅ Values visible in decisions  
 ✅ Diverse perspectives welcome  
 
 **Expert:**
+
 ✅ Team highly bonded  
 ✅ People go extra mile  
 ✅ Authentic vulnerability safe  
 ✅ Difficult conversations happen  
 
 **Authority:**
+
 ✅ Org looks to them for culture  
 ✅ People seek their teams  
 ✅ Culture spans levels  

@@ -54,18 +54,21 @@
 ## 👀 Evidence to Look For
 
 **Proficient:**
+
 ✅ Team members improving skills  
 ✅ Direct reports describe good coaching  
 ✅ Career progression visible  
 ✅ People seek their coaching  
 
 **Expert:**
+
 ✅ Rapid visible improvement in people  
 ✅ People move to better roles  
 ✅ Team members credit mentor  
 ✅ Turnover low, opportunity attraction high  
 
 **Authority:**
+
 ✅ Org-known for developing leaders  
 ✅ Multiple people credit development  
 ✅ Mentee leaders visible in org  

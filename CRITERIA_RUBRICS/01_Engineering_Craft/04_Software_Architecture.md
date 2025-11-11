@@ -79,6 +79,7 @@
 ## 👀 Evidence to Look For
 
 **Proficient:**
+
 ✅ People ask for their design input  
 ✅ Designs remain relevant as systems grow  
 ✅ Anticipates future needs accurately  
@@ -86,12 +87,14 @@
 ✅ Explains architectural thinking clearly  
 
 **Expert:**
+
 ✅ Sought out for architectural decisions  
 ✅ Mentors others on architecture  
 ✅ Identifies architectural problems early  
 ✅ Proposes elegant system designs  
 
 **Authority:**
+
 ✅ Org follows their architectural approach  
 ✅ Key architectural decisions reflect their input  
 ✅ Systems structured according to their patterns  
