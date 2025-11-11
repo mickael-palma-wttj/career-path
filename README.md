@@ -316,6 +316,7 @@ This framework is a living document. To improve it:
 - [**An Elegant Puzzle**](BOOKS/An%20Elegant%20Puzzle%20-%20Will%20Larson.pdf) by Will Larson - Systems thinking for engineering leaders
 - [**The Making Of A Manager**](BOOKS/The%20Making%20Of%20A%20Manager%20-%20Julie%20Zhuo.pdf) by Julie Zhuo - How to become a great manager and build high-performing teams
 - [**Staff Engineer**](BOOKS/Staff%20Engineer%20-%20Will%20Larson.pdf) by Will Larson - The IC leadership track deep dive
+- [**The Staff Engineer's Path**](BOOKS/The%20Staff%20Engineer's%20Path%20-%20Tanya%20Reilly.pdf) by Tanya Reilly - Navigating growth as a Staff IC and finding impact beyond code
 - [**Radical Candor**](https://www.amazon.com/Radical-Candor-Revised-Kick-Ass-Humanity/dp/1250235375) by Kim Scott - How to give effective feedback with care
 
 ### External Frameworks
