@@ -15,93 +15,21 @@ career-path/
 ├── MANAGER_HANDBOOK_STRUCTURE.md                # This file - design specification
 │
 ├── MANAGER_HANDBOOK/                            # Core management guides (6 modules)
-│   ├── 00_Getting_Started.md                    # Quick start for managers
-│   ├── 01_Framework_Overview.md                 # Understanding the evaluation grid
-│   ├── 02_Career_Levels_Guide.md                # Overview of all 6 levels
-│   ├── 03_One_on_One_Framework.md               # Conducting effective 1:1s
-│   ├── 04_Goal_Setting_Process.md               # Setting SMART career goals
-│   ├── 05_Feedback_Delivery.md                  # Giving effective feedback
-│   └── 06_Promotion_Readiness.md                # Evaluating promotion readiness
-│
 ├── CAREER_LEVEL_GUIDES/                         # Level-specific deep dives (6 levels)
-│   ├── 01_Junior_Developer.md                   # Level-specific manager guide
-│   ├── 02_Confirmed_Developer.md
-│   ├── 03_Senior_Developer.md
-│   ├── 04_Staff_Developer.md
-│   ├── 05_Senior_Staff_Developer.md
-│   └── 06_Principal_Developer.md
-│
-├── PRACTICAL_GUIDES/                            # How-to guides
-│   ├── How_to_Have_Career_Conversations.md      # Career conversation framework
-│   └── How_to_Address_Underperformance.md       # Performance management
-│
-├── TOOLS_TEMPLATES/                             # Ready-to-use templates (5 templates)
-│   ├── 1on1_Agenda_Template.md                  # Four meeting types
-│   ├── Development_Plan_Template.md             # Individual Development Plans
-│   ├── Promotion_Packet_Template.md             # Evidence-based promotion cases
-│   ├── Peer_Feedback_Template.md                # 360 feedback requests
-│   └── PIP_Template.md                          # Performance Improvement Plans
-│
+├── PRACTICAL_GUIDES/                            # How-to guides (6 guides)
+├── TOOLS_TEMPLATES/                             # Ready-to-use templates (10 templates)
 ├── CASE_STUDIES/                                # Real-world examples (10 scenarios)
-│   ├── The_Stuck_Senior_Developer.md            # Overcoming plateau
-│   ├── Brilliant_but_Difficult.md               # High performer with behavior issues
-│   ├── The_Management_Question.md               # IC exploring management path
-│   ├── Promoted_Too_Early.md                    # Supporting premature promotion
-│   ├── The_Retention_Crisis.md                  # Top performer retention
-│   ├── The_High_Performer_with_Low_Soft_Skills.md # Technical genius with collaboration gaps
-│   ├── The_Imposter_Syndrome_Trap.md            # Capable person paralyzed by self-doubt
-│   ├── The_Burnout_Risk.md                      # High performer heading toward collapse
-│   ├── The_Equity_Gap.md                        # IC discovering pay inequity
-│   └── The_Comeback_Story.md                    # Returning from leave struggling to re-engage
-│
-├── CRITERIA_RUBRICS/                            # Assessment rubrics for all 16 criteria (20 files)
-│   ├── README.md                                # Navigation guide & rating scale reference
+├── CRITERIA_RUBRICS/                            # Assessment rubrics (20 files, 3 pillars)
 │   ├── 01_Engineering_Craft/                    # 6 technical criteria (7 files)
-│   │   ├── README.md                            # Pillar overview and development guide
-│   │   ├── 01_Writing_Code.md                   # Code quality, readability, maintainability
-│   │   ├── 02_Testing.md                        # Testing coverage, reliability, design
-│   │   ├── 03_Technical_Understanding.md        # Technical depth and breadth
-│   │   ├── 04_Software_Architecture.md          # System design, scalability, trade-offs
-│   │   ├── 05_Security.md                       # Secure coding, threat awareness
-│   │   └── 06_Debugging_and_Monitoring.md       # Root cause analysis, observability
 │   ├── 02_Soft_Skills/                          # 5 interpersonal criteria (6 files)
-│   │   ├── README.md                            # Pillar overview and development guide
-│   │   ├── 01_Empathy_and_Humility.md           # Perspective-taking, feedback openness
-│   │   ├── 02_Communication.md                  # Clarity, listening, audience adaptation
-│   │   ├── 03_Initiative.md                     # Proactive problem-solving, ownership
-│   │   ├── 04_Objectivity_and_Adaptability.md   # Data-driven thinking, resilience
-│   │   └── 05_Business_Acumen.md                # Customer focus, ROI thinking, strategy
 │   └── 03_Leadership/                           # 5 people/org criteria (6 files)
-│       ├── README.md                            # Pillar overview and development guide
-│       ├── 01_Hiring_and_Org_Design.md          # Talent evaluation, team building
-│       ├── 02_Stakeholder_Management.md         # Relationships, influence, executive presence
-│       ├── 03_Team_Leadership.md                # Vision setting, decisions, cohesion
-│       ├── 04_Developing_Others.md              # Coaching, mentoring, growth
-│       └── 05_Culture_and_Togetherness.md       # Psychological safety, belonging, values
-│
 ├── FAQS/                                        # Common questions (37 questions, 15 files)
-│   ├── README.md                                # Master FAQ index & navigation
-│   ├── 01_Career_Path_Questions.md              # Timelines, progression, budget
-│   ├── 02_Management_vs_IC.md                   # Management path questions
-│   ├── 03_Performance_and_Feedback.md           # Ratings, disagreements, frequency
-│   ├── 04_Difficult_Situations.md               # Underperformance, retention, behavior
-│   ├── 05_Team_Dynamics.md                      # Conflict, diversity & inclusion
-│   ├── 06_Growth_and_Development.md             # Motivation, interests, IC leadership
-│   ├── 07_Remote_Hybrid_Work.md                 # Remote assessment, career conversations
-│   ├── 08_Compensation_and_Equity.md            # Comp discussions, pay equity
-│   ├── 09_Cross_Team_Organizational.md          # Transfers, calibration
-│   ├── 10_Specialized_Situations.md             # Parental leave, personal issues, SMEs
-│   ├── 11_Manager_Self_Development.md           # Manager effectiveness, span of control
-│   ├── 12_Technical_Debt_and_Growth.md          # Balancing business needs & development
-│   ├── 13_Feedback_Assessment_Challenges.md     # Self-assessment, conflicting feedback
-│   ├── 14_Succession_and_Transitions.md         # Manager departure, inheriting teams
-│   └── 15_Resources_and_Support.md              # New manager resources, finding help
+├── BOOKS/                                       # Recommended reading references (5 books)
 │
 └── DRAFT/                                       # Draft materials
-    ├── IC_evaluation_grid_template - raw_weights.csv # The raw data
-    ├── GENERATION_PROMPT.md                     # How to create rubrics
-    └── template.md                              # Example rubric document
 ```
+
+**Total Content:** 79+ documents, ~125,000+ lines, ~310+ pages
 
 ---
 

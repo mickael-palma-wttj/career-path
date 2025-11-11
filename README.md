@@ -163,23 +163,30 @@ career-path/
 │       ├── 04_Developing_Others.md
 │       └── 05_Culture_and_Togetherness.md
 │
-└── FAQS/                      # Common questions (37 questions, 15 files)
-    ├── README.md              # Master FAQ index & navigation
-    ├── 01_Career_Path_Questions.md
-    ├── 02_Management_vs_IC.md
-    ├── 03_Performance_and_Feedback.md
-    ├── 04_Difficult_Situations.md
-    ├── 05_Team_Dynamics.md
-    ├── 06_Growth_and_Development.md
-    ├── 07_Remote_Hybrid_Work.md
-    ├── 08_Compensation_and_Equity.md
-    ├── 09_Cross_Team_Organizational.md
-    ├── 10_Specialized_Situations.md
-    ├── 11_Manager_Self_Development.md
-    ├── 12_Technical_Debt_and_Growth.md
-    ├── 13_Feedback_Assessment_Challenges.md
-    ├── 14_Succession_and_Transitions.md
-    └── 15_Resources_and_Support.md
+├── FAQS/                      # Common questions (37 questions, 15 files)
+│   ├── README.md              # Master FAQ index & navigation
+│   ├── 01_Career_Path_Questions.md
+│   ├── 02_Management_vs_IC.md
+│   ├── 03_Performance_and_Feedback.md
+│   ├── 04_Difficult_Situations.md
+│   ├── 05_Team_Dynamics.md
+│   ├── 06_Growth_and_Development.md
+│   ├── 07_Remote_Hybrid_Work.md
+│   ├── 08_Compensation_and_Equity.md
+│   ├── 09_Cross_Team_Organizational.md
+│   ├── 10_Specialized_Situations.md
+│   ├── 11_Manager_Self_Development.md
+│   ├── 12_Technical_Debt_and_Growth.md
+│   ├── 13_Feedback_Assessment_Challenges.md
+│   ├── 14_Succession_and_Transitions.md
+│   └── 15_Resources_and_Support.md
+│
+└── BOOKS/                     # Recommended references (5 books)
+    ├── The Manager's Path - Camille Fournier.pdf
+    ├── An Elegant Puzzle - Will Larson.pdf
+    ├── The Making Of A Manager - Julie Zhuo.pdf
+    ├── Staff Engineer - Will Larson.pdf
+    └── The Staff Engineer's Path - Tanya Reilly.pdf
 ```
 
 See [`MANAGER_HANDBOOK_STRUCTURE.md`](MANAGER_HANDBOOK_STRUCTURE.md) for complete details.

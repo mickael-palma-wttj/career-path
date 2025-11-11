@@ -400,6 +400,13 @@ career-path/
 │   ├── 14_Succession_and_Transitions.md
 │   └── 15_Resources_and_Support.md
 │
+├── BOOKS/                            # 5 recommended references
+│   ├── The Manager's Path - Camille Fournier.pdf
+│   ├── An Elegant Puzzle - Will Larson.pdf
+│   ├── The Making Of A Manager - Julie Zhuo.pdf
+│   ├── Staff Engineer - Will Larson.pdf
+│   └── The Staff Engineer's Path - Tanya Reilly.pdf
+│
 └── IC_evaluation_grid_template - raw_weights.csv  # Source data
 ```
 
