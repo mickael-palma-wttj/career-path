@@ -49,39 +49,49 @@ This framework provides:
 ### For Specific Needs
 
 **Preparing for a 1:1?**
-→ [`TOOLS_TEMPLATES/1on1_Agenda_Template.md`](TOOLS_TEMPLATES/1on1_Agenda_Template.md)
+
+- [`TOOLS_TEMPLATES/1on1_Agenda_Template.md`](TOOLS_TEMPLATES/1on1_Agenda_Template.md)
 
 **Evaluating for promotion?**
-→ [`MANAGER_HANDBOOK/06_Promotion_Readiness.md`](MANAGER_HANDBOOK/06_Promotion_Readiness.md)
-→ [`TOOLS_TEMPLATES/Promotion_Packet_Template.md`](TOOLS_TEMPLATES/Promotion_Packet_Template.md)
-→ [`TOOLS_TEMPLATES/Promotion_Evaluation_Checklist.md`](TOOLS_TEMPLATES/Promotion_Evaluation_Checklist.md)
+
+- [`MANAGER_HANDBOOK/06_Promotion_Readiness.md`](MANAGER_HANDBOOK/06_Promotion_Readiness.md)
+- [`TOOLS_TEMPLATES/Promotion_Packet_Template.md`](TOOLS_TEMPLATES/Promotion_Packet_Template.md)
+- [`TOOLS_TEMPLATES/Promotion_Evaluation_Checklist.md`](TOOLS_TEMPLATES/Promotion_Evaluation_Checklist.md)
 
 **Addressing underperformance?**
-→ [`PRACTICAL_GUIDES/How_to_Address_Underperformance.md`](PRACTICAL_GUIDES/How_to_Address_Underperformance.md)
-→ [`TOOLS_TEMPLATES/PIP_Template.md`](TOOLS_TEMPLATES/PIP_Template.md)
+
+- [`PRACTICAL_GUIDES/How_to_Address_Underperformance.md`](PRACTICAL_GUIDES/How_to_Address_Underperformance.md)
+- [`TOOLS_TEMPLATES/PIP_Template.md`](TOOLS_TEMPLATES/PIP_Template.md)
 
 **Having career conversations?**
-→ [`PRACTICAL_GUIDES/How_to_Have_Career_Conversations.md`](PRACTICAL_GUIDES/How_to_Have_Career_Conversations.md)
-→ [`TOOLS_TEMPLATES/Coaching_Conversation_Starters.md`](TOOLS_TEMPLATES/Coaching_Conversation_Starters.md)
+
+- [`PRACTICAL_GUIDES/How_to_Have_Career_Conversations.md`](PRACTICAL_GUIDES/How_to_Have_Career_Conversations.md)
+- [`TOOLS_TEMPLATES/Coaching_Conversation_Starters.md`](TOOLS_TEMPLATES/Coaching_Conversation_Starters.md)
 
 **Creating stretch projects?**
-→ [`PRACTICAL_GUIDES/Creating_Stretch_Projects.md`](PRACTICAL_GUIDES/Creating_Stretch_Projects.md)
+
+- [`PRACTICAL_GUIDES/Creating_Stretch_Projects.md`](PRACTICAL_GUIDES/Creating_Stretch_Projects.md)
 
 **Collecting 360 feedback?**
-→ [`PRACTICAL_GUIDES/Peer_Feedback_Collection.md`](PRACTICAL_GUIDES/Peer_Feedback_Collection.md)
-→ [`TOOLS_TEMPLATES/Feedback_Form_Template.md`](TOOLS_TEMPLATES/Feedback_Form_Template.md)
+
+- [`PRACTICAL_GUIDES/Peer_Feedback_Collection.md`](PRACTICAL_GUIDES/Peer_Feedback_Collection.md)
+- [`TOOLS_TEMPLATES/Feedback_Form_Template.md`](TOOLS_TEMPLATES/Feedback_Form_Template.md)
 
 **Managing remote teams?**
-→ [`PRACTICAL_GUIDES/Remote_Team_Development.md`](PRACTICAL_GUIDES/Remote_Team_Development.md)
+
+- [`PRACTICAL_GUIDES/Remote_Team_Development.md`](PRACTICAL_GUIDES/Remote_Team_Development.md)
 
 **Planning succession?**
-→ [`PRACTICAL_GUIDES/Succession_Planning.md`](PRACTICAL_GUIDES/Succession_Planning.md)
+
+- [`PRACTICAL_GUIDES/Succession_Planning.md`](PRACTICAL_GUIDES/Succession_Planning.md)
 
 **Dealing with a difficult situation?**
-→ See [`CASE_STUDIES/`](CASE_STUDIES/) for real-world scenarios
+
+- See [`CASE_STUDIES/`](CASE_STUDIES/) for real-world scenarios
 
 **Have a specific question?**
-→ [`FAQS/README.md`](FAQS/README.md) - 37 questions organized across 15 categories
+
+- [`FAQS/README.md`](FAQS/README.md) - 37 questions organized across 15 categories
 
 ---
 
@@ -89,104 +99,19 @@ This framework provides:
 
 ```
 career-path/
-├── MANAGER_HANDBOOK/          # Core management guides (6 modules)
-│   ├── 00_Getting_Started.md
-│   ├── 01_Framework_Overview.md
-│   ├── 02_Career_Levels_Guide.md
-│   ├── 03_One_on_One_Framework.md
-│   ├── 04_Goal_Setting_Process.md
-│   ├── 05_Feedback_Delivery.md
-│   └── 06_Promotion_Readiness.md
+├── MANAGER_HANDBOOK/                  # Core management guides (6 modules)
+├── CAREER_LEVEL_GUIDES/               # Level-specific deep dives (6 levels)
+├── PRACTICAL_GUIDES/                  # How-to guides (6 guides)
+├── TOOLS_TEMPLATES/                   # Ready-to-use templates (10 templates)
+├── CASE_STUDIES/                      # Real-world examples (10 scenarios)
+├── CRITERIA_RUBRICS/                  # Assessment rubrics (20 files, 3 pillars)
+│   ├── 01_Engineering_Craft/          # Technical skills (7 files)
+│   ├── 02_Soft_Skills/                # Interpersonal skills (6 files)
+│   └── 03_Leadership/                 # People & org impact (6 files)
+├── FAQS/                              # Common questions (37 questions, 15 files)
+├── BOOKS/                             # Recommended references (5 books)
 │
-├── CAREER_LEVEL_GUIDES/       # Level-specific deep dives (6 levels)
-│   ├── 01_Junior_Developer.md
-│   ├── 02_Confirmed_Developer.md
-│   ├── 03_Senior_Developer.md
-│   ├── 04_Staff_Developer.md
-│   ├── 05_Senior_Staff_Developer.md
-│   └── 06_Principal_Developer.md
-│
-├── PRACTICAL_GUIDES/          # How-to guides (6 guides)
-│   ├── How_to_Have_Career_Conversations.md
-│   ├── How_to_Address_Underperformance.md
-│   ├── Creating_Stretch_Projects.md
-│   ├── Peer_Feedback_Collection.md
-│   ├── Succession_Planning.md
-│   └── Remote_Team_Development.md
-│
-├── TOOLS_TEMPLATES/           # Ready-to-use templates (10 templates)
-│   ├── 1on1_Agenda_Template.md
-│   ├── Development_Plan_Template.md
-│   ├── Promotion_Packet_Template.md
-│   ├── Peer_Feedback_Template.md
-│   ├── PIP_Template.md
-│   ├── Goal_Setting_Template.md
-│   ├── Feedback_Form_Template.md
-│   ├── Promotion_Evaluation_Checklist.md
-│   ├── Interview_Questions_By_Level.md
-│   └── Coaching_Conversation_Starters.md
-│
-├── CASE_STUDIES/              # Real-world examples (10 scenarios)
-│   ├── The_Stuck_Senior_Developer.md
-│   ├── Brilliant_but_Difficult.md
-│   ├── The_Management_Question.md
-│   ├── Promoted_Too_Early.md
-│   ├── The_Retention_Crisis.md
-│   ├── The_High_Performer_with_Low_Soft_Skills.md
-│   ├── The_Imposter_Syndrome_Trap.md
-│   ├── The_Burnout_Risk.md
-│   ├── The_Equity_Gap.md
-│   └── The_Comeback_Story.md
-│
-├── CRITERIA_RUBRICS/          # Assessment rubrics (20 files, 16 criteria)
-│   ├── README.md              # Master navigation
-│   ├── 01_Engineering_Craft/  # Technical skills (7 files)
-│   │   ├── README.md
-│   │   ├── 01_Writing_Code.md
-│   │   ├── 02_Testing.md
-│   │   ├── 03_Technical_Understanding.md
-│   │   ├── 04_Software_Architecture.md
-│   │   ├── 05_Security.md
-│   │   └── 06_Debugging_and_Monitoring.md
-│   ├── 02_Soft_Skills/        # Interpersonal skills (6 files)
-│   │   ├── README.md
-│   │   ├── 01_Empathy_and_Humility.md
-│   │   ├── 02_Communication.md
-│   │   ├── 03_Initiative.md
-│   │   ├── 04_Objectivity_and_Adaptability.md
-│   │   └── 05_Business_Acumen.md
-│   └── 03_Leadership/         # People & org impact (6 files)
-│       ├── README.md
-│       ├── 01_Hiring_and_Org_Design.md
-│       ├── 02_Stakeholder_Management.md
-│       ├── 03_Team_Leadership.md
-│       ├── 04_Developing_Others.md
-│       └── 05_Culture_and_Togetherness.md
-│
-├── FAQS/                      # Common questions (37 questions, 15 files)
-│   ├── README.md              # Master FAQ index & navigation
-│   ├── 01_Career_Path_Questions.md
-│   ├── 02_Management_vs_IC.md
-│   ├── 03_Performance_and_Feedback.md
-│   ├── 04_Difficult_Situations.md
-│   ├── 05_Team_Dynamics.md
-│   ├── 06_Growth_and_Development.md
-│   ├── 07_Remote_Hybrid_Work.md
-│   ├── 08_Compensation_and_Equity.md
-│   ├── 09_Cross_Team_Organizational.md
-│   ├── 10_Specialized_Situations.md
-│   ├── 11_Manager_Self_Development.md
-│   ├── 12_Technical_Debt_and_Growth.md
-│   ├── 13_Feedback_Assessment_Challenges.md
-│   ├── 14_Succession_and_Transitions.md
-│   └── 15_Resources_and_Support.md
-│
-└── BOOKS/                     # Recommended references (5 books)
-    ├── The Manager's Path - Camille Fournier.pdf
-    ├── An Elegant Puzzle - Will Larson.pdf
-    ├── The Making Of A Manager - Julie Zhuo.pdf
-    ├── Staff Engineer - Will Larson.pdf
-    └── The Staff Engineer's Path - Tanya Reilly.pdf
+└── DRAFT/                             # Draft materials
 ```
 
 See [`MANAGER_HANDBOOK_STRUCTURE.md`](MANAGER_HANDBOOK_STRUCTURE.md) for complete details.

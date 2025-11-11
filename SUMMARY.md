@@ -309,103 +309,16 @@ career-path/
 ├── GENERATION_PROMPT.md              # How to create similar docs
 │
 ├── MANAGER_HANDBOOK/                 # 6 core modules
-│   ├── 00_Getting_Started.md
-│   ├── 01_Framework_Overview.md
-│   ├── 02_Career_Levels_Guide.md
-│   ├── 03_One_on_One_Framework.md
-│   ├── 04_Goal_Setting_Process.md
-│   ├── 05_Feedback_Delivery.md
-│   └── 06_Promotion_Readiness.md
-│
 ├── CAREER_LEVEL_GUIDES/              # 6 detailed level guides
-│   ├── 01_Junior_Developer.md
-│   ├── 02_Confirmed_Developer.md
-│   ├── 03_Senior_Developer.md
-│   ├── 04_Staff_Developer.md
-│   ├── 05_Senior_Staff_Developer.md
-│   └── 06_Principal_Developer.md
-│
 ├── PRACTICAL_GUIDES/                 # 6 how-to guides
-│   ├── How_to_Have_Career_Conversations.md
-│   ├── How_to_Address_Underperformance.md
-│   ├── Creating_Stretch_Projects.md
-│   ├── Peer_Feedback_Collection.md
-│   ├── Succession_Planning.md
-│   └── Remote_Team_Development.md
-│
 ├── TOOLS_TEMPLATES/                  # 10 ready-to-use templates
-│   ├── 1on1_Agenda_Template.md
-│   ├── Development_Plan_Template.md
-│   ├── Promotion_Packet_Template.md
-│   ├── Peer_Feedback_Template.md
-│   ├── PIP_Template.md
-│   ├── Goal_Setting_Template.md
-│   ├── Feedback_Form_Template.md
-│   ├── Promotion_Evaluation_Checklist.md
-│   ├── Interview_Questions_By_Level.md
-│   └── Coaching_Conversation_Starters.md
-│
 ├── CASE_STUDIES/                     # 10 real-world scenarios
-│   ├── The_Stuck_Senior_Developer.md
-│   ├── Brilliant_but_Difficult.md
-│   ├── The_Management_Question.md
-│   ├── Promoted_Too_Early.md
-│   ├── The_Retention_Crisis.md
-│   ├── The_High_Performer_with_Low_Soft_Skills.md
-│   ├── The_Imposter_Syndrome_Trap.md
-│   ├── The_Burnout_Risk.md
-│   ├── The_Equity_Gap.md
-│   └── The_Comeback_Story.md
-│
-├── CRITERIA_RUBRICS/                 # 20 assessment rubric files (all 16 criteria)
-│   ├── README.md                     # Master navigation and rating scale reference
-│   ├── 01_Engineering_Craft/
-│   │   ├── README.md                 # Engineering Craft pillar overview
-│   │   ├── 01_Writing_Code.md
-│   │   ├── 02_Testing.md
-│   │   ├── 03_Technical_Understanding.md
-│   │   ├── 04_Software_Architecture.md
-│   │   ├── 05_Security.md
-│   │   └── 06_Debugging_and_Monitoring.md
-│   ├── 02_Soft_Skills/
-│   │   ├── README.md                 # Soft Skills pillar overview
-│   │   ├── 01_Empathy_and_Humility.md
-│   │   ├── 02_Communication.md
-│   │   ├── 03_Initiative.md
-│   │   ├── 04_Objectivity_and_Adaptability.md
-│   │   └── 05_Business_Acumen.md
-│   └── 03_Leadership/
-│       ├── README.md                 # Leadership pillar overview
-│       ├── 01_Hiring_and_Org_Design.md
-│       ├── 02_Stakeholder_Management.md
-│       ├── 03_Team_Leadership.md
-│       ├── 04_Developing_Others.md
-│       └── 05_Culture_and_Togetherness.md
-│
-├── FAQS/                             # 37 questions in 16 files
-│   ├── README.md                     # Master FAQ index
-│   ├── 01_Career_Path_Questions.md
-│   ├── 02_Management_vs_IC.md
-│   ├── 03_Performance_and_Feedback.md
-│   ├── 04_Difficult_Situations.md
-│   ├── 05_Team_Dynamics.md
-│   ├── 06_Growth_and_Development.md
-│   ├── 07_Remote_Hybrid_Work.md
-│   ├── 08_Compensation_and_Equity.md
-│   ├── 09_Cross_Team_Organizational.md
-│   ├── 10_Specialized_Situations.md
-│   ├── 11_Manager_Self_Development.md
-│   ├── 12_Technical_Debt_and_Growth.md
-│   ├── 13_Feedback_Assessment_Challenges.md
-│   ├── 14_Succession_and_Transitions.md
-│   └── 15_Resources_and_Support.md
-│
+├── CRITERIA_RUBRICS/                 # 20 assessment rubric files (3 pillars)
+│   ├── 01_Engineering_Craft/         # 6 technical criteria (7 files)
+│   ├── 02_Soft_Skills/               # 5 interpersonal criteria (6 files)
+│   └── 03_Leadership/                # 5 people/org criteria (6 files)
+├── FAQS/                             # 37 questions in 15 files
 ├── BOOKS/                            # 5 recommended references
-│   ├── The Manager's Path - Camille Fournier.pdf
-│   ├── An Elegant Puzzle - Will Larson.pdf
-│   ├── The Making Of A Manager - Julie Zhuo.pdf
-│   ├── Staff Engineer - Will Larson.pdf
-│   └── The Staff Engineer's Path - Tanya Reilly.pdf
 │
 └── IC_evaluation_grid_template - raw_weights.csv  # Source data
 ```
