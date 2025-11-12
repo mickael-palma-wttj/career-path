@@ -417,7 +417,23 @@ Individual situations matter, but protecting overall team culture is also crucia
 
 ---
 
-## 📖 Related Resources
+## � Recommended Books
+
+Our book collection provides deep dives into the themes and concepts covered in these case studies:
+
+- **[The Manager's Path](../BOOKS/The_Manager's_Path%20-%20Camille%20Fournier.pdf)** by Camille Fournier - Management fundamentals, career development, and leadership principles
+
+- **[An Elegant Puzzle](../BOOKS/An%20Elegant%20Puzzle%20-%20Will%20Larson.pdf)** by Will Larson - Engineering leadership, systems thinking, and organizational strategy
+
+- **[The Staff Engineer's Path](../BOOKS/The%20Staff%20Engineer's%20Path%20-%20Tanya%20Reilly.pdf)** by Tanya Reilly - IC leadership without management, impact at scale, and Staff engineer roles
+
+- **[Staff Engineer](../BOOKS/Staff%20Engineer%20-%20Will%20Larson.pdf)** by Will Larson - Deep dive into IC leadership track, archetype frameworks, and technical strategy
+
+- **[The Making Of A Manager](../BOOKS/The%20Making%20Of%20A%20Manager%20-%20Julie%20Zhuo.pdf)** by Julie Zhuo - Manager development, team building, and leadership growth
+
+---
+
+## �📖 Related Resources
 
 **From this handbook:**
 - [Career Level Guides](../CAREER_LEVEL_GUIDES/) - Understanding advancement paths and expectations
@@ -425,12 +441,7 @@ Individual situations matter, but protecting overall team culture is also crucia
 - [Staff Developer Guide](../CAREER_LEVEL_GUIDES/04_Staff_Developer.md) - Staff engineer roles and archetypes
 - [Manager Handbook](../MANAGER_HANDBOOK/) - Management fundamentals and skills
 - [Practical Guides](../PRACTICAL_GUIDES/) - Specific manager tools and templates
-
-**Recommended Books:**
-- "The Manager's Path" by Camille Fournier - Management fundamentals
-- "An Elegant Puzzle" by Will Larson - Engineering leadership and systems thinking
-- "The Staff Engineer's Path" by Tanya Reilly - IC leadership without management
-- "Managing Humans" by Michael Lopp - Manager perspectives on people and culture
+- [BOOKS folder](../BOOKS/) - All recommended reading materials
 
 ---
 
