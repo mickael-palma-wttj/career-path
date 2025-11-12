@@ -9,23 +9,31 @@
 | Level | Expectation |
 |-------|-------------|
 | **Developing (0.0-1.0)** | Writing basic tests with guidance; inconsistent coverage |
-| **Competent (1.0-2.0)** | Writing tests that pass; adequate coverage for most code |
-| **Proficient (2.0-3.0)** | Writing comprehensive, well-designed tests; owns test quality |
-| **Expert (3.0-3.5)** | Tests exemplify best practices; mentors on testing strategy |
-| **Authority (3.5-4.0)** | Sets org testing standards; influences testing culture |
+| **Competent (1.0-2.0)** | Writing tests that pass; adequate coverage for most code | Catches some bugs; team mostly confident |
+| **Proficient (2.0-3.0)** | Writing comprehensive, well-designed tests; owns test quality | Strong confidence; catches real bugs; helps team |
+| **Expert (3.0-3.5)** | Tests exemplify best practices; mentors on testing strategy | Trusted tester; shapes team approach; mentors others |
+| **Authority (3.5-4.0)** | Sets org testing standards; influences testing culture | Org reliability improves; testing mindset spreads |
 
 ---
 
 ## 🎯 Definition
 
-**Testing** means designing and implementing test suites that:
-- **Verify Correctness** - Tests confirm code behaves as intended
-- **Catch Regressions** - Tests prevent broken code from deploying
-- **Document Behavior** - Tests serve as executable documentation
-- **Enable Refactoring** - Good tests allow safe code changes
-- **Scale Well** - Tests run fast and remain maintainable
+**Testing** encompasses five interconnected capabilities:
 
-This criterion evaluates both the technical skill of writing tests and the judgment about *what* to test and *how much* testing is appropriate.
+### 1. **Test Design Strategy**
+Understanding what to test and why. Knowing the difference between unit, integration, and end-to-end tests. Making smart choices about test coverage that focus on behavior verification and catching real bugs.
+
+### 2. **Test Implementation Skill**
+Writing tests that are clear, reliable, and maintainable. Using testing frameworks and patterns effectively. Creating tests that fail for the right reasons and pass when behavior is correct.
+
+### 3. **Reliability & Maintainability**
+Writing tests that don't fail randomly (eliminating flakiness). Designing tests that survive code refactors. Creating test code that's as clean as production code.
+
+### 4. **Coverage Thinking**
+Determining appropriate coverage targets. Avoiding both under-testing (missing critical paths) and over-testing (testing implementation details). Understanding that coverage % is a tool, not a goal.
+
+### 5. **Testing Culture & Advocacy**
+Promoting good testing practices. Helping others improve. Identifying gaps in testing strategy. Moving the organization toward better testing.
 
 ---
 
@@ -46,12 +54,35 @@ This criterion evaluates both the technical skill of writing tests and the judgm
 - "I just copied the pattern from another test"
 - "All my tests are passing... well, mostly"
 
-**Manager's Focus:**
-- Establish that testing is non-negotiable
-- Teach testing patterns and frameworks
-- Show why tests matter (demo a regression catch)
-- Review test quality as carefully as code quality
-- Help them understand "good" tests
+**Core Behaviors:**
+- Writes tests reactively, not proactively
+- Doesn't think about test strategy
+- Treats tests as checkbox item, not quality tool
+- Can't diagnose why tests fail
+- Copies test patterns without understanding
+- Tests verify implementation, not behavior
+
+**What You'd See:**
+- No tests on new code
+- Tests fail randomly on CI
+- Tests tightly coupled to implementation
+- Tests don't actually verify much
+- Resists writing tests
+- Gets frustrated with flakiness
+
+**What Success Looks Like:**
+- Consistently write tests with code
+- Tests pass reliably
+- Understanding why tests exist
+- Testing becomes routine
+- Tests verify actual behavior
+
+**Development Focus:**
+- Establish habit of testing
+- Understand test value
+- Learn to write reliable tests
+- Think about what to test
+- Build testing fundamentals
 
 ---
 
@@ -62,7 +93,7 @@ This criterion evaluates both the technical skill of writing tests and the judgm
 - Coverage is reasonable but has gaps
 - Tests mostly verify behavior, but some over-specify
 - Learning testing best practices through feedback
-- Tests pass but don't inspire confidence
+- Tests pass but don't inspire full confidence
 
 **Typical Statements:**
 - "I wrote tests for this"
@@ -70,12 +101,40 @@ This criterion evaluates both the technical skill of writing tests and the judgm
 - "What's a good test coverage target?"
 - "Should I test this edge case?"
 
-**Manager's Focus:**
-- Model good test design
-- Point out gaps in test strategy
-- Discuss test coverage goals
-- Celebrate when tests catch bugs
-- Gradually increase expectations
+**Core Behaviors:**
+- Tests as routine part of work
+- Basic test patterns understood
+- Coverage thinking is developing
+- Most tests are reliable
+- Some flakiness still present
+- Learning from feedback
+
+**What You'd See:**
+- Code comes with tests
+- Tests mostly pass
+- Coverage 60-75%
+- Few but occasional flaky tests
+- Testing patterns emerging
+- Good faith effort on test quality
+
+**Specific Examples:**
+- New feature PR includes tests covering happy path and main edge cases
+- Wrote 15 tests for data processing function (80% coverage achieved)
+- Tests caught regression but missed similar edge case in different module
+
+**What Success Looks Like:**
+- 75%+ coverage consistently
+- Reliable tests (no flakiness)
+- Tests verify behavior
+- Thoughtful about coverage
+- Learning testing patterns
+
+**Development Focus:**
+- Increase coverage systematically
+- Eliminate flakiness
+- Understand test design patterns
+- Think strategically about what to test
+- Improve test code quality
 
 ---
 
@@ -95,12 +154,50 @@ This criterion evaluates both the technical skill of writing tests and the judgm
 - "The coverage is good; shipping with confidence"
 - "This test structure will make future changes easier"
 
-**Manager's Focus:**
-- Use their tests as examples to others
-- Ask them to review test quality
-- Have them establish testing patterns
-- Move toward testing strategy thinking
-- Challenge to reduce flakiness across codebase
+**Core Behaviors:**
+- Tests are comprehensive and reliable
+- Design tests intentionally
+- Cover critical paths thoughtfully
+- Eliminate flakiness proactively
+- Test code is clean and DRY
+- Mentors others on testing
+
+**What You'd See:**
+- Coverage 80%+ consistently
+- Zero flaky tests
+- Tests verify actual behavior
+- Test refactoring happens naturally
+- Tests serve as documentation
+- Team trusts their tests
+- Proactively improves test infrastructure
+
+**Specific Examples:**
+- Feature has 85% coverage; tests cover main flows, edge cases, error scenarios
+- "I noticed tests were timing-dependent; refactored to use controlled timing"
+- Helped junior improve test design; taught about parametrized tests
+- Test caught critical edge case in production-like scenario
+
+**Evidence:**
+- Coverage consistently 80%+
+- No flaky test complaints
+- Other engineers reference their tests
+- Bugs are caught by tests
+- Team confidence in deployments
+- Tests help with refactoring
+
+**What Success Looks Like:**
+- Recognized for test quality
+- Mentoring others
+- Test quality standards improving
+- Initiatives to improve test infrastructure
+- Tests consistently catch bugs
+
+**Development Focus:**
+- Mentor others on testing
+- Improve test speed/efficiency
+- Establish testing patterns for team
+- Strategic coverage thinking
+- Leadership on testing improvements
 
 ---
 
@@ -120,12 +217,51 @@ This criterion evaluates both the technical skill of writing tests and the judgm
 - "Our testing strategy should be..."
 - "I've found a pattern that makes tests more maintainable"
 
-**Manager's Focus:**
-- Use them to set testing standards
-- Have them lead testing improvements
-- Ask them to mentor on testing practices
-- Involve in testing tool/framework decisions
-- Use their tests as training material
+**Core Behaviors:**
+- Tests are exemplary and used as reference
+- Deep understanding of testing patterns
+- Mentors others on testing strategy
+- Proactively improves test infrastructure
+- Identifies testing gaps across codebase
+- Advocates for time on test improvements
+
+**What You'd See:**
+- Tests used as examples for others
+- Mentoring juniors on testing
+- Identified and fixed flaky tests across codebase
+- Implemented testing patterns adopted team-wide
+- Reduced test execution time significantly
+- Coverage thoughtfully targeted 85-90%+
+- Test code is exemplary
+
+**Specific Examples:**
+- "I created a test factory pattern that the team now uses"
+- Mentored 2+ engineers on testing; they improved significantly
+- Identified slow tests; refactored to run 10x faster
+- Created testing guide that shaped team approach
+- Helped team reduce production issues from untested scenarios
+
+**Evidence:**
+- Others ask for testing advice
+- Test patterns and strategies reference theirs
+- Proactively improves testing across codebase
+- Mentors on testing practices
+- Org testing quality visibly improves
+- Fast, reliable, comprehensive tests
+
+**What Success Looks Like:**
+- Set testing standards for team
+- Multiple people mentored
+- Testing initiatives led by them
+- Org-wide testing improvements
+- Could transition to testing leadership
+
+**Development Focus:**
+- Scale impact across organization
+- Lead testing improvements
+- Mentor more people
+- Shape org testing culture
+- Could move to architecture/leadership
 
 ---
 
@@ -145,12 +281,428 @@ This criterion evaluates both the technical skill of writing tests and the judgm
 - "Let me create a guide for this test pattern"
 - "Our testing practices have improved because..."
 
-**Manager's Focus:**
-- Leverage expertise for org-wide improvements
-- Support leading testing initiatives
-- Involve in hiring/training on testing
-- Challenge with complex testing problems
-- Amplify their influence on testing culture
+**Core Behaviors:**
+- Authority on testing approach
+- Org testing quality shaped by them
+- Creates patterns adopted widely
+- Mentors leaders on testing
+- Strategic testing decisions from them
+- Visible org improvements
+
+**What You'd See:**
+- Org testing standards from them
+- Testing tools/frameworks reflect their input
+- Others model their approach
+- Production issues decrease
+- Org coverage standards from them
+- Testing culture reflects their thinking
+- Multiple teams improved by their guidance
+
+**Specific Examples:**
+- Created testing strategy adopted across engineering
+- Testing framework migration driven by them
+- Org coverage improved 30% based on their initiatives
+- Multiple leaders learned testing approach from them
+- Engineering hires assessed on their testing standards
+
+**Evidence:**
+- Org recognizes as testing authority
+- Org testing quality improving
+- Strategies and standards from them adopted
+- Multiple teams influenced
+- Production quality improvements
+- Testing culture changes visible
+
+---
+
+## 📊 Testing Strategy Framework
+
+### Understanding Test Types
+
+**Unit Tests:** Test single functions/classes in isolation
+- Speed: Very fast
+- Isolation: Complete (usually mocked dependencies)
+- Use Case: Verify logic, edge cases
+- Coverage Goal: 70-90% of most code
+- Examples: Pure functions, calculations, string processing
+
+**Integration Tests:** Test multiple components working together
+- Speed: Moderate (seconds, not milliseconds)
+- Isolation: Some real dependencies
+- Use Case: Verify components work together
+- Coverage Goal: 20-40% of critical paths
+- Examples: API endpoints, database queries, service interactions
+
+**End-to-End Tests:** Test full user workflows
+- Speed: Slow (minutes for suite)
+- Isolation: None; real dependencies
+- Use Case: Verify complete workflows work
+- Coverage Goal: 5-10% of most critical flows only
+- Examples: Login flow, payment workflow, key user scenarios
+
+### Coverage Strategy Matrix
+
+| Scenario | Unit | Integration | E2E | Total |
+|----------|------|-------------|-----|-------|
+| Core business logic | 70-90% | 10-20% | 5% | ~100% |
+| API endpoints | 50-60% | 40-50% | 10% | ~100% |
+| UI workflows | 30-40% | 20-30% | 30-40% | ~100% |
+| Infrastructure | 30-50% | 30-50% | 0% | ~60-80% |
+
+---
+
+## ❓ Assessment Questions
+
+**For yourself (when reviewing tests):**
+- Do these tests verify behavior or implementation details?
+- If I changed the code (but kept behavior same), would tests still pass?
+- What would happen if this code had a bug? Would these tests catch it?
+- Are the tests fast? Do they have external dependencies?
+- Would someone new understand what these tests verify?
+- Does coverage align with business criticality?
+- Are these tests reliable or do they have timing/ordering issues?
+- Am I testing too many things in one test?
+
+**For conversation (Developing → Competent):**
+- Walk me through your testing approach for this feature. Why did you test it this way?
+- What scenarios did you consider testing? Any you decided not to test?
+- If I introduced a subtle bug here, would your tests catch it?
+- This test is flaky (fails randomly). How would you debug it?
+
+**For conversation (Proficient → Expert):**
+- How would you improve the test strategy for this system?
+- This code has low coverage. How would you decide what to test?
+- Tell me about a time you mentored someone on testing. How did it go?
+- What's your philosophy on test maintenance? How do you keep tests from becoming burden?
+
+**For conversation (Expert → Authority):**
+- How should we think about testing strategy at org level?
+- What testing improvements would have biggest impact?
+- How would you build testing culture across engineering?
+- What's your approach to testing in systems with high churn?
+
+---
+
+## 👀 Evidence to Look For
+
+### At Proficient Level (2.0-3.0)
+✅ Coverage is 75-85% and thoughtful
+✅ Tests are reliable; no flakiness complaints
+✅ New code comes with comprehensive tests
+✅ Tests catch bugs when deployed
+✅ Team feels confident with their test suite
+✅ Test refactoring happens without breaking code
+✅ Tests serve as documentation
+
+### At Expert Level (3.0-3.5)
+✅ Tests are used as reference by others
+✅ Proactively fixes flaky tests across codebase
+✅ Mentors others on testing patterns
+✅ Owns testing improvement initiatives
+✅ Tests are remarkably fast and reliable
+✅ Others ask them for testing advice
+✅ Team testing practices improved because of them
+
+### At Authority Level (3.5-4.0)
+✅ Org testing quality has improved
+✅ Coverage standards set and adopted
+✅ Testing tools or frameworks reflect their input
+✅ Others reference their testing approach
+✅ Testing culture reflects their leadership
+✅ Production issues from untested code decrease
+✅ Multiple teams model their testing
+
+### Negative Indicators (Any Level)
+❌ Tests failing randomly (flakiness)
+❌ Tests tightly coupled to implementation
+❌ Over-specifying tests (brittle)
+❌ Skipping tests on urgent work
+❌ Not writing tests at all
+❌ Tests don't actually verify anything
+❌ Coverage % without substance
+❌ Tests taking as long as development
+❌ No strategy; just following patterns
+❌ Defending poor test quality
+
+---
+
+## 🔗 Related Skills & Competencies
+
+**Directly Connected:**
+- **Writing Code** (Engineering Craft) - Tests are code; quality matters
+- **Technical Understanding** (Engineering Craft) - Understanding system informs test design
+- **Debugging & Monitoring** (Engineering Craft) - Tests prevent bugs that need debugging
+- **Software Architecture** (Engineering Craft) - Testability influences design
+
+**Indirectly Connected:**
+- **Communication** (Soft Skills) - Tests communicate behavior; clear tests teach
+- **Initiative** (Soft Skills) - Proactively improving test quality
+- **Objectivity** (Soft Skills) - Test data and feedback drive decisions
+- **Team Leadership** (Leadership) - Models testing practices for team
+
+---
+
+## 🎯 Development Goals & Progression Paths
+
+### Developing → Competent
+**Goal:** "Make testing routine and understand what good tests look like"
+
+**Specific Actions:**
+- [ ] Write tests for every new feature you build
+- [ ] Study 3 good test examples in codebase; understand why they're good
+- [ ] Fix one flaky test in codebase; document what made it flaky
+- [ ] Learn your testing framework thoroughly (read docs)
+- [ ] Pair with [Expert person] on writing tests
+- [ ] Get to 70% coverage on your code
+- [ ] Stop copying test patterns; write from understanding
+
+**Timeline:** 3-6 months
+
+**Key Milestones:**
+- Month 1: Testing every feature is routine
+- Month 2-3: Tests mostly pass reliably
+- Month 3-6: Coverage 70%+, tests verify behavior
+
+---
+
+### Competent → Proficient
+**Goal:** "Master test design; own test quality; help others"
+
+**Specific Actions:**
+- [ ] Increase coverage to 85% with thoughtful tests
+- [ ] Eliminate all flaky tests in your code
+- [ ] Have one feature with exemplary tests; explain why
+- [ ] Refactor tests to be more maintainable; document changes
+- [ ] Mentor one person on testing; help improve their tests
+- [ ] Lead discussion on "what should we test?"
+- [ ] Create testing documentation for [new feature area]
+
+**Timeline:** 6-12 months
+
+**Key Milestones:**
+- Month 1-2: 80%+ coverage consistently
+- Month 3-6: Zero flakiness; tests serve documentation
+- Month 6-12: Mentoring others; setting patterns
+
+---
+
+### Proficient → Expert
+**Goal:** "Mentor widely; improve team testing; identify gaps"
+
+**Specific Actions:**
+- [ ] Mentor 2+ people on advanced testing topics
+- [ ] Identify one testing gap in codebase; propose solution
+- [ ] Improve test execution time by 25%+
+- [ ] Create testing pattern adopted by team
+- [ ] Lead initiative to fix flaky tests across codebase
+- [ ] Contribute to testing tool/framework evaluation
+- [ ] Teach class or write guide on testing
+
+**Timeline:** 12-24 months
+
+**Key Milestones:**
+- Month 1-6: Recognized for test quality and mentoring
+- Month 6-12: Leading improvements; mentoring multiple people
+- Month 12-24: Testing culture influenced by you
+
+---
+
+### Expert → Authority
+**Goal:** "Shape org's testing approach; scale impact"
+
+**Specific Actions:**
+- [ ] Define org testing standards and get adoption
+- [ ] Lead testing improvement initiative
+- [ ] Mentor leaders on testing strategy
+- [ ] Contribute to testing tool/framework selection org-wide
+- [ ] Measure and improve org testing quality
+- [ ] Create testing guide adopted across org
+- [ ] External visibility: conference talk or article on testing
+
+**Timeline:** 2-3+ years
+
+**Key Milestones:**
+- Year 1: Org testing quality improving
+- Year 2: Standards and tools reflect your input
+- Year 2-3: Multiple teams modeling your approach
+
+---
+
+## 📚 Detailed Development Guidance
+
+### Eliminating Flaky Tests
+
+**What Makes Tests Flaky:**
+- Timing dependencies (tests pass 90% of time, fail 10% randomly)
+- External service dependencies (API might be slow)
+- Shared state (test execution order matters)
+- Randomness (tests with random data or timing)
+- Resource limits (running out of memory at random times)
+
+**How to Find Flaky Tests:**
+1. Run tests 10+ times; see which fail inconsistently
+2. Check CI logs for failures on otherwise passing code
+3. Ask team: "Which tests fail randomly?"
+4. Run tests in different orders
+5. Run tests with different system load
+
+**How to Fix Flaky Tests:**
+```javascript
+// ❌ Flaky: Timing-dependent
+test('message appears quickly', (done) => {
+  setTimeout(() => {
+    expect(getMessage()).toBe('hello');
+    done();
+  }, 100); // Fails on slow machines
+});
+
+// ✅ Reliable: Controlled timing
+jest.useFakeTimers();
+test('message appears after timeout', () => {
+  const callback = jest.fn();
+  setTimeout(callback, 100);
+  jest.advanceTimersByTime(100);
+  expect(callback).toHaveBeenCalled();
+});
+
+// ❌ Flaky: External dependency
+test('fetches user data', async () => {
+  const user = await fetchUserFromAPI(); // Real network call
+  expect(user.name).toBe('John');
+});
+
+// ✅ Reliable: Mocked dependency
+test('fetches user data', async () => {
+  jest.spyOn(api, 'getUser').mockResolvedValue({ name: 'John' });
+  const user = await fetchUserFromAPI();
+  expect(user.name).toBe('John');
+});
+```
+
+**Key Principles:**
+- Control time (use fake timers)
+- Mock external services
+- Avoid ordering dependencies
+- Isolate test state
+- Use deterministic data
+
+### Building Test Design Skills
+
+**Good Test Design Checklist:**
+
+1. **Tests verify behavior, not implementation**
+   - ❌ Wrong: `test('x variable assigned', ...)`
+   - ✅ Right: `test('function returns correct value', ...)`
+
+2. **Tests are independent**
+   - ❌ Wrong: Test depends on order of execution
+   - ✅ Right: Each test is completely independent
+
+3. **Tests are clear about intent**
+   - ❌ Wrong: Test name doesn't explain what it tests
+   - ✅ Right: `test('rejects expired tokens with 401 error')`
+
+4. **Tests fail for right reason**
+   - ❌ Wrong: Test passes even with broken code
+   - ✅ Right: Test fails only when behavior changes
+
+5. **Tests are maintainable**
+   - ❌ Wrong: Duplicated test setup across 50 tests
+   - ✅ Right: DRY test code with shared utilities
+
+6. **Tests run fast**
+   - ❌ Wrong: Tests hit real database (5 seconds)
+   - ✅ Right: Tests with mocks (50 milliseconds)
+
+### Strategic Coverage Thinking
+
+**The Coverage Pyramid:**
+```
+         ▲
+        /|\
+       / | \  E2E Tests (5%)
+      /  |  \
+     /   |   \
+    /____|____\ Integration (20%)
+   /     |     \
+  / Unit Tests  \  (75%)
+ /_______|_______\
+```
+
+**Coverage by Business Criticality:**
+
+| Code Type | Why | Coverage Target |
+|-----------|-----|-----------------|
+| Core business logic | Most bugs here; highest impact | 80-95% |
+| Payment/security | Failures very costly | 90-100% |
+| UI components | Testing slower than value | 30-50% |
+| Infrastructure | Harder to test; lower ROI | 40-60% |
+| Configuration | Low ROI on testing | 0-30% |
+
+**Coverage Questions:**
+1. What fails if this code breaks?
+2. How much would that failure cost?
+3. How likely is the bug?
+4. How hard would testing be?
+5. Should we test it?
+
+### Mentoring Others on Testing
+
+**How to Help Someone Improve Their Testing:**
+
+1. **Start with mindset** - "Tests should make you sleep well before production"
+2. **Show examples** - Review good tests together; explain why they're good
+3. **Test together** - Write tests as pair; narrate your thinking
+4. **Review process** - Review test quality as carefully as code
+5. **Ask questions** - "What scenarios would break this?" "Is this flaky?"
+6. **Celebrate** - When their test catches a bug, celebrate loudly!
+
+**Coaching Language:**
+- "Great instinct to test this. Let me show you how to make it even better..."
+- "Your test is close. What behavior are we really verifying here?"
+- "This test is brittle. How would you make it more robust?"
+- "Love that you caught this edge case. How would you test it?"
+
+---
+
+## 💡 Key Principles
+
+### 1. **Tests Are First-Class Code**
+Tests are not second-class. Test code quality matters as much as production code. Invest in clean, maintainable tests.
+
+### 2. **Test Reliability is Non-Negotiable**
+One flaky test ruins trust in the entire suite. Flaky tests should be fixed immediately, not ignored. Reliability first.
+
+### 3. **Test Intent Over Coverage %**
+90% coverage of bad tests doesn't help. 70% coverage of good tests is better. Coverage % is a guide, not a goal.
+
+### 4. **Tests Enable Confidence**
+Great tests let you deploy with confidence. If you're nervous before deploy, your tests aren't good enough. Tests should enable speed and safety.
+
+### 5. **Good Tests Document Behavior**
+Tests are executable documentation. Someone should understand system behavior by reading tests. Clear intent means clear behavior.
+
+### 6. **Testing Scales Exponentially**
+Investing in good testing patterns early pays dividends. Bad test practices compound. Establish good patterns early.
+
+---
+
+## 🎯 Red Flags & Warnings
+
+⚠️ **Test flakiness increasing** — Tests unreliable; architecture issue
+⚠️ **Coverage declining** — Less testing; quality declining
+⚠️ **Tests taking longer than code** — Inefficient tests or over-testing
+⚠️ **Skipping tests on urgent work** — Slowing down next sprint
+⚠️ **Tests not catching bugs** — Not testing right things
+⚠️ **Difficulty adding tests to legacy code** — Architecture problem
+⚠️ **Tests too tightly coupled to implementation** — Will break on refactors
+⚠️ **No test code review** — Test quality not owned
+⚠️ **Testing only after bugs found** — Wrong philosophy
+⚠️ **Testing culture disconnected from quality** — Not connecting dots
+
+---
+
+**Remember:** Great tests are like great code—they're an investment that pays dividends. Good tests let you sleep at night before deployments.
 
 ---
 
