@@ -7,7 +7,7 @@ Real-world scenarios and decision-making frameworks for engineering managers and
 ## 📚 All Case Studies
 
 ### 1️⃣ The Management Question
-**File:** `The_Management_Question.md` | **Duration:** ~15 min
+**Duration:** ~15 min | **[Read: When an IC Asks About Management](./The_Management_Question.md)**
 
 **The Challenge:** "I'm thinking about becoming a manager. Can we talk about what that path looks like?"
 
@@ -38,7 +38,7 @@ Priya discovers she wants the Staff IC path. Strategic product work energizes he
 ---
 
 ### 2️⃣ The Comeback Story
-**File:** `The_Comeback_Story.md` | **Duration:** ~12 min
+**Duration:** ~12 min | **[Read: Supporting Your Returning High Performer](./The_Comeback_Story.md)**
 
 **The Challenge:** High performer returning from leave showing signs of struggle and disengagement
 
@@ -69,7 +69,7 @@ Sam regains confidence, reconnects with team, rebuilds technical knowledge, retu
 ---
 
 ### 3️⃣ The High Performer with Low Soft Skills
-**File:** `The_High_Performer_with_Low_Soft_Skills.md` | **Duration:** ~10 min
+**Duration:** ~10 min | **[Read: Coaching Brilliant-but-Difficult Engineers](./The_High_Performer_with_Low_Soft_Skills.md)**
 
 **The Challenge:** Technical genius, collaboration disaster. Brilliant coder destroying team morale.
 
@@ -100,7 +100,7 @@ Alex starts to see impact on others. Recognizes that "Senior" means helping othe
 ---
 
 ### 4️⃣ The Stuck Senior Developer
-**File:** `The_Stuck_Senior_Developer.md` | **Duration:** ~12 min
+**Duration:** ~12 min | **[Read: Growth Beyond Promotion](./The_Stuck_Senior_Developer.md)**
 
 **The Challenge:** Plateau at Senior level. Not ready for Staff. Frustrated with lack of growth.
 
@@ -131,7 +131,7 @@ Jordan finds renewed purpose through skill development and expanded impact. No p
 ---
 
 ### 5️⃣ Brilliant but Difficult
-**File:** `Brilliant_but_Difficult.md` | **Duration:** ~11 min
+**Duration:** ~11 min | **[Read: When High Value Comes with High Cost](./Brilliant_but_Difficult.md)**
 
 **The Challenge:** High-value contributor with problematic interpersonal behaviors. Attracts drama.
 
@@ -162,7 +162,7 @@ Casey recognizes pattern and makes conscious effort to change. Not perfect but m
 ---
 
 ### 6️⃣ The Burnout Risk
-**File:** `The_Burnout_Risk.md` | **Duration:** ~13 min
+**Duration:** ~13 min | **[Read: Recognizing and Preventing Burnout](./The_Burnout_Risk.md)**
 
 **The Challenge:** High performer on path to burnout. Overcommitting, not setting boundaries, declining health.
 
@@ -193,7 +193,7 @@ Morgan scales back workload, sets boundaries, rebuilds health. Recognizes that s
 ---
 
 ### 7️⃣ The Imposter Syndrome Trap
-**File:** `The_Imposter_Syndrome_Trap.md` | **Duration:** ~11 min
+**Duration:** ~11 min | **[Read: Building Confidence in High-Doubters](./The_Imposter_Syndrome_Trap.md)**
 
 **The Challenge:** Competent performer sabotaging themselves through self-doubt and perfectionism.
 
@@ -224,7 +224,7 @@ Taylor gradually internalizes competence. Becomes willing to take on stretch ass
 ---
 
 ### 8️⃣ Promoted Too Early
-**File:** `Promoted_Too_Early.md` | **Duration:** ~14 min
+**Duration:** ~14 min | **[Read: Supporting the Newly Promoted](./Promoted_Too_Early.md)**
 
 **The Challenge:** Promoted before ready. Now struggling in new role. Risk of failure and loss of confidence.
 
@@ -255,7 +255,7 @@ Devon adjusts to new level with support. Makes mistakes but learns. Gradually bu
 ---
 
 ### 9️⃣ The Retention Crisis
-**File:** `The_Retention_Crisis.md` | **Duration:** ~12 min
+**Duration:** ~12 min | **[Read: Understanding and Addressing Departures](./The_Retention_Crisis.md)**
 
 **The Challenge:** Team members leaving or about to leave. What's driving departures? How do we retain?
 
@@ -287,7 +287,7 @@ Some people stay because concerns are addressed. Some people leave but feel valu
 ---
 
 ### 🔟 The Equity Gap
-**File:** `The_Equity_Gap.md` | **Duration:** ~13 min
+**Duration:** ~13 min | **[Read: Creating Equitable Career Development](./The_Equity_Gap.md)**
 
 **The Challenge:** Inequitable treatment of similar performers. Women and underrepresented minorities advancing slower.
 
