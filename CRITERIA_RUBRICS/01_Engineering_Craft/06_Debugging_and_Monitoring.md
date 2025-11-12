@@ -387,40 +387,40 @@ Comfort operating systems in production. Understanding behavior without deployme
 ## 👀 Evidence to Look For
 
 ### At Proficient Level (2.0-3.0)
-✅ Finds bugs quickly and systematically
-✅ Code has good logging and monitoring
-✅ Can diagnose production issues effectively
-✅ Monitoring catches problems early
-✅ Others learn debugging techniques from them
-✅ Production issues resolved quickly
+- ✅ Finds bugs quickly and systematically
+- ✅ Code has good logging and monitoring
+- ✅ Can diagnose production issues effectively
+- ✅ Monitoring catches problems early
+- ✅ Others learn debugging techniques from them
+- ✅ Production issues resolved quickly
 
 ### At Expert Level (3.0-3.5)
-✅ Asked to investigate complex issues
-✅ Mentors others on debugging
-✅ Monitoring systems are excellent
-✅ MTTR reduced due to their work
-✅ Others ask for debugging advice
-✅ Proactively identifies issues before customers
+- ✅ Asked to investigate complex issues
+- ✅ Mentors others on debugging
+- ✅ Monitoring systems are excellent
+- ✅ MTTR reduced due to their work
+- ✅ Others ask for debugging advice
+- ✅ Proactively identifies issues before customers
 
 ### At Authority Level (3.5-4.0)
-✅ Org's observability improved
-✅ Others follow their patterns
-✅ Production issues quickly diagnosed
-✅ MTTR decreased org-wide
-✅ Debugging culture changed
-✅ Fewer production issues due to monitoring
+- ✅ Org's observability improved
+- ✅ Others follow their patterns
+- ✅ Production issues quickly diagnosed
+- ✅ MTTR decreased org-wide
+- ✅ Debugging culture changed
+- ✅ Fewer production issues due to monitoring
 
 ### Negative Indicators (Any Level)
-❌ Can't find bugs without help
-❌ Code has no logging
-❌ Production "mysteries" happen often
-❌ MTTR is very high
-❌ Alerts go off constantly but mean nothing
-❌ Can't understand what's happening in prod
-❌ Logs are noise (too much/unclear)
-❌ No monitoring strategy
-❌ Production issues are surprises
-❌ Defensive about production problems
+- ❌ Can't find bugs without help
+- ❌ Code has no logging
+- ❌ Production "mysteries" happen often
+- ❌ MTTR is very high
+- ❌ Alerts go off constantly but mean nothing
+- ❌ Can't understand what's happening in prod
+- ❌ Logs are noise (too much/unclear)
+- ❌ No monitoring strategy
+- ❌ Production issues are surprises
+- ❌ Defensive about production problems
 
 ---
 
@@ -566,16 +566,16 @@ You can't prevent all failures, but you can minimize time to fix. Great observab
 
 ## 🎯 Red Flags & Warnings
 
-⚠️ **Production issues are surprises** — Monitoring missing
-⚠️ **MTTR is very high** — Debugging/observability weak
-⚠️ **Logs are useless noise** — Too much, or not searchable
-⚠️ **Alert fatigue** — Too many alerts, low signal
-⚠️ **No metrics for critical systems** — Blind spot
-⚠️ **Debugging is guessing** — No systematic approach
-⚠️ **Can't find root causes** — Shallow debugging
-⚠️ **Logs disappear quickly** — Can't investigate later
-⚠️ **No correlation between errors** — Hard to debug
-⚠️ **Production is mystery** — Observability failing
+- ⚠️ **Production issues are surprises** — Monitoring missing
+- ⚠️ **MTTR is very high** — Debugging/observability weak
+- ⚠️ **Logs are useless noise** — Too much, or not searchable
+- ⚠️ **Alert fatigue** — Too many alerts, low signal
+- ⚠️ **No metrics for critical systems** — Blind spot
+- ⚠️ **Debugging is guessing** — No systematic approach
+- ⚠️ **Can't find root causes** — Shallow debugging
+- ⚠️ **Logs disappear quickly** — Can't investigate later
+- ⚠️ **No correlation between errors** — Hard to debug
+- ⚠️ **Production is mystery** — Observability failing
 
 ---
 

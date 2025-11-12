@@ -550,15 +550,15 @@ You can't ask for what you don't model. Your behavior sets the tone. If you want
 
 ## 🎯 Red Flags & Warnings
 
-⚠️ **High team turnover** — People are voting with their feet
-⚠️ **Team unclear on direction** — You haven't set it clearly enough
-⚠️ **Decisions seem arbitrary** — Team doesn't understand your reasoning
-⚠️ **Low psychological safety** — Team is afraid to be honest
-⚠️ **No one from team promoted** — You're not developing people
-⚠️ **Team doesn't advocate for you** — They don't respect or trust you
-⚠️ **Conflict avoided** — Not addressing team issues; problems fester
-⚠️ **Low collaboration** — Siloed work; team not helping each other
-⚠️ **You're the bottleneck** — Decisions wait for you; team can't move without you
+- ⚠️ **High team turnover** — People are voting with their feet
+- ⚠️ **Team unclear on direction** — You haven't set it clearly enough
+- ⚠️ **Decisions seem arbitrary** — Team doesn't understand your reasoning
+- ⚠️ **Low psychological safety** — Team is afraid to be honest
+- ⚠️ **No one from team promoted** — You're not developing people
+- ⚠️ **Team doesn't advocate for you** — They don't respect or trust you
+- ⚠️ **Conflict avoided** — Not addressing team issues; problems fester
+- ⚠️ **Low collaboration** — Siloed work; team not helping each other
+- ⚠️ **You're the bottleneck** — Decisions wait for you; team can't move without you
 
 ---
 

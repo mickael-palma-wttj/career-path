@@ -605,15 +605,15 @@ As you grow, you need other leaders who model and build culture. Culture doesn't
 
 ## 🎯 Red Flags & Warnings
 
-⚠️ **High turnover** — People aren't finding belonging or culture they want
-⚠️ **Low engagement** — People are disengaged; culture isn't compelling
-⚠️ **People guarded** — Psychological safety isn't present
-⚠️ **Lack of diversity** — Not building inclusive culture
-⚠️ **Diverse people don't stay** — Culture doesn't feel welcoming to everyone
-⚠️ **Values not visible** — Values aren't guiding decisions or behaviors
-⚠️ **Conflicts avoided** — Difficult conversations not happening; tensions fester
-⚠️ **No authentic connection** — People work together but don't really know each other
-⚠️ **New people struggle** — Culture isn't welcoming; integration is hard
+- ⚠️ **High turnover** — People aren't finding belonging or culture they want
+- ⚠️ **Low engagement** — People are disengaged; culture isn't compelling
+- ⚠️ **People guarded** — Psychological safety isn't present
+- ⚠️ **Lack of diversity** — Not building inclusive culture
+- ⚠️ **Diverse people don't stay** — Culture doesn't feel welcoming to everyone
+- ⚠️ **Values not visible** — Values aren't guiding decisions or behaviors
+- ⚠️ **Conflicts avoided** — Difficult conversations not happening; tensions fester
+- ⚠️ **No authentic connection** — People work together but don't really know each other
+- ⚠️ **New people struggle** — Culture isn't welcoming; integration is hard
 
 ---
 

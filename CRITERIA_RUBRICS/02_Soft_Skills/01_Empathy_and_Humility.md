@@ -577,15 +577,15 @@ People know if you're genuinely trying to understand vs. just going through moti
 
 ## 🎯 Red Flags & Warnings
 
-⚠️ **Defensive about feedback** — Not open to learning; barriers to growth
-⚠️ **Dismisses different perspectives** — Missing important viewpoints
-⚠️ **Blames others for mistakes** — Not taking ownership; not learning
-⚠️ **Hard to say "I don't know"** — Ego getting in way of learning
-⚠️ **Doesn't apply feedback** — Seeking but not learning
-⚠️ **People don't feel heard** — Empathy isn't coming through
-⚠️ **Repeats mistakes** — Not learning from experience
-⚠️ **Takes disagreement personally** — Can't separate perspective from person
-⚠️ **Lacks self-awareness** — Surprised by feedback
+- ⚠️ **Defensive about feedback** — Not open to learning; barriers to growth
+- ⚠️ **Dismisses different perspectives** — Missing important viewpoints
+- ⚠️ **Blames others for mistakes** — Not taking ownership; not learning
+- ⚠️ **Hard to say "I don't know"** — Ego getting in way of learning
+- ⚠️ **Doesn't apply feedback** — Seeking but not learning
+- ⚠️ **People don't feel heard** — Empathy isn't coming through
+- ⚠️ **Repeats mistakes** — Not learning from experience
+- ⚠️ **Takes disagreement personally** — Can't separate perspective from person
+- ⚠️ **Lacks self-awareness** — Surprised by feedback
 
 ---
 

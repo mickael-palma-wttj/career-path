@@ -595,16 +595,16 @@ The ability to change mind with new information is sign of wisdom, not weakness.
 
 ## 🎯 Red Flags & Warnings
 
-⚠️ **Emotional reactions drive decisions** — Clouded judgment
-⚠️ **Resistant to new information** — Rigid, not adaptive
-⚠️ **Can't think clearly under pressure** — Stress management needed
-⚠️ **Defensive about past choices** — Not learning
-⚠️ **Takes disagreement personally** — Emotions interfering
-⚠️ **"We've always done it this way"** — No adaptability
-⚠️ **Doesn't gather data** — Justifying rather than deciding
-⚠️ **Panics in crisis** — Emotional equilibrium lacking
-⚠️ **One way or the other** — Difficulty with nuance
-⚠️ **Won't admit mistakes** — Can't learn from experience
+- ⚠️ **Emotional reactions drive decisions** — Clouded judgment
+- ⚠️ **Resistant to new information** — Rigid, not adaptive
+- ⚠️ **Can't think clearly under pressure** — Stress management needed
+- ⚠️ **Defensive about past choices** — Not learning
+- ⚠️ **Takes disagreement personally** — Emotions interfering
+- ⚠️ **"We've always done it this way"** — No adaptability
+- ⚠️ **Doesn't gather data** — Justifying rather than deciding
+- ⚠️ **Panics in crisis** — Emotional equilibrium lacking
+- ⚠️ **One way or the other** — Difficulty with nuance
+- ⚠️ **Won't admit mistakes** — Can't learn from experience
 
 ---
 

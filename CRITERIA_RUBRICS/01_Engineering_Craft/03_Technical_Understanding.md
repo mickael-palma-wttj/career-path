@@ -533,16 +533,16 @@ People who constantly learn and stay current compound their advantage. Curiosity
 
 ## 🎯 Red Flags & Warnings
 
-⚠️ **Doesn't ask why things work** — Understanding missing
-⚠️ **Can't explain system design** — Knowledge too shallow
-⚠️ **Treats technology as black box** — No mental model
-⚠️ **Copies code without understanding** — Not learning
-⚠️ **Can't troubleshoot beyond surface** — Problem-solving depth lacking
-⚠️ **Slow to learn new systems** — Learning agility low
-⚠️ **Can't connect concepts** — Mental models underdeveloped
-⚠️ **Defensive about knowledge gaps** — Not open to learning
-⚠️ **No curiosity about systems** — Lack of drive
-⚠️ **Stays current with nothing** — Not investing in growth
+- ⚠️ **Doesn't ask why things work** — Understanding missing
+- ⚠️ **Can't explain system design** — Knowledge too shallow
+- ⚠️ **Treats technology as black box** — No mental model
+- ⚠️ **Copies code without understanding** — Not learning
+- ⚠️ **Can't troubleshoot beyond surface** — Problem-solving depth lacking
+- ⚠️ **Slow to learn new systems** — Learning agility low
+- ⚠️ **Can't connect concepts** — Mental models underdeveloped
+- ⚠️ **Defensive about knowledge gaps** — Not open to learning
+- ⚠️ **No curiosity about systems** — Lack of drive
+- ⚠️ **Stays current with nothing** — Not investing in growth
 
 ---
 

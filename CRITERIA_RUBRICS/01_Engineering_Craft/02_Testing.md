@@ -386,43 +386,43 @@ Promoting good testing practices. Helping others improve. Identifying gaps in te
 ## 👀 Evidence to Look For
 
 ### At Proficient Level (2.0-3.0)
-✅ Coverage is 75-85% and thoughtful
-✅ Tests are reliable; no flakiness complaints
-✅ New code comes with comprehensive tests
-✅ Tests catch bugs when deployed
-✅ Team feels confident with their test suite
-✅ Test refactoring happens without breaking code
-✅ Tests serve as documentation
+- ✅ Coverage is 75-85% and thoughtful
+- ✅ Tests are reliable; no flakiness complaints
+- ✅ New code comes with comprehensive tests
+- ✅ Tests catch bugs when deployed
+- ✅ Team feels confident with their test suite
+- ✅ Test refactoring happens without breaking code
+- ✅ Tests serve as documentation
 
 ### At Expert Level (3.0-3.5)
-✅ Tests are used as reference by others
-✅ Proactively fixes flaky tests across codebase
-✅ Mentors others on testing patterns
-✅ Owns testing improvement initiatives
-✅ Tests are remarkably fast and reliable
-✅ Others ask them for testing advice
-✅ Team testing practices improved because of them
+- ✅ Tests are used as reference by others
+- ✅ Proactively fixes flaky tests across codebase
+- ✅ Mentors others on testing patterns
+- ✅ Owns testing improvement initiatives
+- ✅ Tests are remarkably fast and reliable
+- ✅ Others ask them for testing advice
+- ✅ Team testing practices improved because of them
 
 ### At Authority Level (3.5-4.0)
-✅ Org testing quality has improved
-✅ Coverage standards set and adopted
-✅ Testing tools or frameworks reflect their input
-✅ Others reference their testing approach
-✅ Testing culture reflects their leadership
-✅ Production issues from untested code decrease
-✅ Multiple teams model their testing
+- ✅ Org testing quality has improved
+- ✅ Coverage standards set and adopted
+- ✅ Testing tools or frameworks reflect their input
+- ✅ Others reference their testing approach
+- ✅ Testing culture reflects their leadership
+- ✅ Production issues from untested code decrease
+- ✅ Multiple teams model their testing
 
 ### Negative Indicators (Any Level)
-❌ Tests failing randomly (flakiness)
-❌ Tests tightly coupled to implementation
-❌ Over-specifying tests (brittle)
-❌ Skipping tests on urgent work
-❌ Not writing tests at all
-❌ Tests don't actually verify anything
-❌ Coverage % without substance
-❌ Tests taking as long as development
-❌ No strategy; just following patterns
-❌ Defending poor test quality
+- ❌ Tests failing randomly (flakiness)
+- ❌ Tests tightly coupled to implementation
+- ❌ Over-specifying tests (brittle)
+- ❌ Skipping tests on urgent work
+- ❌ Not writing tests at all
+- ❌ Tests don't actually verify anything
+- ❌ Coverage % without substance
+- ❌ Tests taking as long as development
+- ❌ No strategy; just following patterns
+- ❌ Defending poor test quality
 
 ---
 
@@ -689,16 +689,16 @@ Investing in good testing patterns early pays dividends. Bad test practices comp
 
 ## 🎯 Red Flags & Warnings
 
-⚠️ **Test flakiness increasing** — Tests unreliable; architecture issue
-⚠️ **Coverage declining** — Less testing; quality declining
-⚠️ **Tests taking longer than code** — Inefficient tests or over-testing
-⚠️ **Skipping tests on urgent work** — Slowing down next sprint
-⚠️ **Tests not catching bugs** — Not testing right things
-⚠️ **Difficulty adding tests to legacy code** — Architecture problem
-⚠️ **Tests too tightly coupled to implementation** — Will break on refactors
-⚠️ **No test code review** — Test quality not owned
-⚠️ **Testing only after bugs found** — Wrong philosophy
-⚠️ **Testing culture disconnected from quality** — Not connecting dots
+- ⚠️ **Test flakiness increasing** — Tests unreliable; architecture issue
+- ⚠️ **Coverage declining** — Less testing; quality declining
+- ⚠️ **Tests taking longer than code** — Inefficient tests or over-testing
+- ⚠️ **Skipping tests on urgent work** — Slowing down next sprint
+- ⚠️ **Tests not catching bugs** — Not testing right things
+- ⚠️ **Difficulty adding tests to legacy code** — Architecture problem
+- ⚠️ **Tests too tightly coupled to implementation** — Will break on refactors
+- ⚠️ **No test code review** — Test quality not owned
+- ⚠️ **Testing only after bugs found** — Wrong philosophy
+- ⚠️ **Testing culture disconnected from quality** — Not connecting dots
 
 ---
 
@@ -773,28 +773,28 @@ Investing in good testing patterns early pays dividends. Bad test practices comp
 ## 👀 Evidence to Look For
 
 ### At Proficient Level (2.0-3.0)
-✅ Coverage is 75%+ and thoughtful  
-✅ Tests are reliable; no flakiness complaints  
-✅ New code comes with comprehensive tests  
-✅ Tests catch bugs when deployed  
-✅ Team feels confident with their test suite  
-✅ Code that breaks tests broke actual functionality  
+- ✅ Coverage is 75%+ and thoughtful  
+- ✅ Tests are reliable; no flakiness complaints  
+- ✅ New code comes with comprehensive tests  
+- ✅ Tests catch bugs when deployed  
+- ✅ Team feels confident with their test suite  
+- ✅ Code that breaks tests broke actual functionality  
 
 ### At Expert Level (3.0-3.5)
-✅ Tests are used as reference by others  
-✅ Proactively fixes flaky tests across codebase  
-✅ Mentors others on testing patterns  
-✅ Owns testing improvement initiatives  
-✅ Tests are remarkably fast and reliable  
-✅ Others ask them for testing advice  
+- ✅ Tests are used as reference by others  
+- ✅ Proactively fixes flaky tests across codebase  
+- ✅ Mentors others on testing patterns  
+- ✅ Owns testing improvement initiatives  
+- ✅ Tests are remarkably fast and reliable  
+- ✅ Others ask them for testing advice  
 
 ### At Authority Level (3.5-4.0)
-✅ Org testing quality has improved  
-✅ Coverage standards set and adopted  
-✅ Testing tools or frameworks reflect their input  
-✅ Others reference their testing approach  
-✅ Testing culture reflects their leadership  
-✅ Production issues from untested code decrease  
+- ✅ Org testing quality has improved  
+- ✅ Coverage standards set and adopted  
+- ✅ Testing tools or frameworks reflect their input  
+- ✅ Others reference their testing approach  
+- ✅ Testing culture reflects their leadership  
+- ✅ Production issues from untested code decrease  
 
 ---
 

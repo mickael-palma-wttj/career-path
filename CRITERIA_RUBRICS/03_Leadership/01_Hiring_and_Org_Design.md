@@ -470,12 +470,12 @@ Good hiring combines structured evaluation (rubric, criteria, evidence) with gut
 
 ## 🎯 Red Flags & Warnings
 
-⚠️ **Increasing** hired people despite growing team—indicates poor hiring or retention
-⚠️ **Team composition** that doesn't match stated needs—indicates no strategic thinking
-⚠️ **High turnover** with vague reasons—indicates culture or fit issue with hiring
-⚠️ **Surprise failures** of people you championed—indicates over-reliance on gut, not enough rigor
-⚠️ **Defensive about hiring decisions**—indicates not open to feedback or learning
-⚠️ **Org structure** that hasn't been questioned or updated—indicates complacency or lack of strategic thinking
+- ⚠️ **Increasing** hired people despite growing team—indicates poor hiring or retention
+- ⚠️ **Team composition** that doesn't match stated needs—indicates no strategic thinking
+- ⚠️ **High turnover** with vague reasons—indicates culture or fit issue with hiring
+- ⚠️ **Surprise failures** of people you championed—indicates over-reliance on gut, not enough rigor
+- ⚠️ **Defensive about hiring decisions**—indicates not open to feedback or learning
+- ⚠️ **Org structure** that hasn't been questioned or updated—indicates complacency or lack of strategic thinking
 
 ---
 

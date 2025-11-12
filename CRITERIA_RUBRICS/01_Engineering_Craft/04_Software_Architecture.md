@@ -281,40 +281,40 @@ Understanding how to navigate architectural choices:
 ## 👀 Evidence to Look For
 
 ### At Proficient Level (2.0-3.0)
-✅ Asked for design input on new systems
-✅ Designs scale gracefully over time
-✅ Tradeoff decisions are conscious and explained
-✅ Systems they designed remain maintainable
-✅ Others feel confident with their architecture
-✅ Anticipates scaling needs accurately
+- ✅ Asked for design input on new systems
+- ✅ Designs scale gracefully over time
+- ✅ Tradeoff decisions are conscious and explained
+- ✅ Systems they designed remain maintainable
+- ✅ Others feel confident with their architecture
+- ✅ Anticipates scaling needs accurately
 
 ### At Expert Level (3.0-3.5)
-✅ Sought out for architectural decisions
-✅ Systems they designed become exemplars
-✅ Mentors others on architecture effectively
-✅ Identifies architectural problems early
-✅ Proactively improves architecture
-✅ Org avoids painful re-architectures
+- ✅ Sought out for architectural decisions
+- ✅ Systems they designed become exemplars
+- ✅ Mentors others on architecture effectively
+- ✅ Identifies architectural problems early
+- ✅ Proactively improves architecture
+- ✅ Org avoids painful re-architectures
 
 ### At Authority Level (3.5-4.0)
-✅ Org architecture reflects their input
-✅ Others reference their designs
-✅ Org-wide architectural improvements visible
-✅ New teams learn their approach
-✅ Systems structured using their patterns
-✅ Architectural mistakes decrease org-wide
+- ✅ Org architecture reflects their input
+- ✅ Others reference their designs
+- ✅ Org-wide architectural improvements visible
+- ✅ New teams learn their approach
+- ✅ Systems structured using their patterns
+- ✅ Architectural mistakes decrease org-wide
 
 ### Negative Indicators (Any Level)
-❌ Designs without considering growth
-❌ Over-engineers simple systems
-❌ Can't explain tradeoff reasoning
-❌ Copies patterns without understanding
-❌ Resists changing architecture when needed
-❌ Systems become bottlenecks later
-❌ Doesn't consider maintainability
-❌ No forward thinking about growth
-❌ Makes architectural decisions in isolation
-❌ Can't defend architectural choices
+- ❌ Designs without considering growth
+- ❌ Over-engineers simple systems
+- ❌ Can't explain tradeoff reasoning
+- ❌ Copies patterns without understanding
+- ❌ Resists changing architecture when needed
+- ❌ Systems become bottlenecks later
+- ❌ Doesn't consider maintainability
+- ❌ No forward thinking about growth
+- ❌ Makes architectural decisions in isolation
+- ❌ Can't defend architectural choices
 
 ---
 
@@ -504,16 +504,16 @@ Architecture isn't a technical exercise. It should enable or support business go
 
 ## 🎯 Red Flags & Warnings
 
-⚠️ **Designing without constraints** — What are you actually optimizing for?
-⚠️ **Over-engineering for imagined scale** — Build what you need now
-⚠️ **Tight coupling increasing** — Hard to change later
-⚠️ **Scaling decisions made in isolation** — Consider ops impact
-⚠️ **No path to change architecture** — Lock-in happening
-⚠️ **Architecture out of sync with reality** — Design drifting from implementation
-⚠️ **Monolith growing without plan** — Eventual re-architecture pain
-⚠️ **Microservices without operational support** — Too much complexity too early
-⚠️ **Can't explain tradeoff reasoning** — Architecture unclear
-⚠️ **Architecture decisions not documented** — Why is it this way?
+- ⚠️ **Designing without constraints** — What are you actually optimizing for?
+- ⚠️ **Over-engineering for imagined scale** — Build what you need now
+- ⚠️ **Tight coupling increasing** — Hard to change later
+- ⚠️ **Scaling decisions made in isolation** — Consider ops impact
+- ⚠️ **No path to change architecture** — Lock-in happening
+- ⚠️ **Architecture out of sync with reality** — Design drifting from implementation
+- ⚠️ **Monolith growing without plan** — Eventual re-architecture pain
+- ⚠️ **Microservices without operational support** — Too much complexity too early
+- ⚠️ **Can't explain tradeoff reasoning** — Architecture unclear
+- ⚠️ **Architecture decisions not documented** — Why is it this way?
 
 ---
 

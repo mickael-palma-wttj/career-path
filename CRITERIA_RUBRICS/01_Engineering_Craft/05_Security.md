@@ -290,40 +290,40 @@ Promoting security mindset across engineering. Helping others understand securit
 ## 👀 Evidence to Look For
 
 ### At Proficient Level (2.0-3.0)
-✅ Security considered in design
-✅ No security issues found in their code
-✅ Proactively identifies risks
-✅ Follows compliance requirements
-✅ Helps others understand security
-✅ Threat models created
+- ✅ Security considered in design
+- ✅ No security issues found in their code
+- ✅ Proactively identifies risks
+- ✅ Follows compliance requirements
+- ✅ Helps others understand security
+- ✅ Threat models created
 
 ### At Expert Level (3.0-3.5)
-✅ Sought for security consultation
-✅ Teaches others about threat modeling
-✅ Stays current on security topics
-✅ Identifies subtle vulnerabilities
-✅ Drives security improvements
-✅ Org security improves
+- ✅ Sought for security consultation
+- ✅ Teaches others about threat modeling
+- ✅ Stays current on security topics
+- ✅ Identifies subtle vulnerabilities
+- ✅ Drives security improvements
+- ✅ Org security improves
 
 ### At Authority Level (3.5-4.0)
-✅ Org follows their security practices
-✅ Security culture improved
-✅ Fewer vulnerabilities in shipped code
-✅ Compliance met consistently
-✅ Others model their approach
-✅ Security standards adopted org-wide
+- ✅ Org follows their security practices
+- ✅ Security culture improved
+- ✅ Fewer vulnerabilities in shipped code
+- ✅ Compliance met consistently
+- ✅ Others model their approach
+- ✅ Security standards adopted org-wide
 
 ### Negative Indicators (Any Level)
-❌ Security issues in code
-❌ No threat awareness
-❌ Defensive about security feedback
-❌ Skipping security reviews
-❌ Not thinking about compliance
-❌ Treating security as afterthought
-❌ No encryption of sensitive data
-❌ Can't explain security decisions
-❌ Ignoring security warnings
-❌ No audit logging
+- ❌ Security issues in code
+- ❌ No threat awareness
+- ❌ Defensive about security feedback
+- ❌ Skipping security reviews
+- ❌ Not thinking about compliance
+- ❌ Treating security as afterthought
+- ❌ No encryption of sensitive data
+- ❌ Can't explain security decisions
+- ❌ Ignoring security warnings
+- ❌ No audit logging
 
 ---
 
@@ -473,16 +473,16 @@ Meeting compliance requirements is minimum bar. Security should exceed complianc
 
 ## 🎯 Red Flags & Warnings
 
-⚠️ **Security issues in code review** — Not reviewing for security
-⚠️ **No threat models** — Not thinking about threats proactively
-⚠️ **Sensitive data unencrypted** — Critical vulnerability
-⚠️ **No authentication/authorization** — Open to attacks
-⚠️ **Hardcoded secrets** — Credentials exposed
-⚠️ **No audit logging** — Can't detect breaches
-⚠️ **Dependencies out of date** — Known vulnerabilities present
-⚠️ **Compliance ignored** — Regulatory risk
-⚠️ **No security reviews** — Vulnerabilities missed
-⚠️ **Security treated as afterthought** — Culture problem
+- ⚠️ **Security issues in code review** — Not reviewing for security
+- ⚠️ **No threat models** — Not thinking about threats proactively
+- ⚠️ **Sensitive data unencrypted** — Critical vulnerability
+- ⚠️ **No authentication/authorization** — Open to attacks
+- ⚠️ **Hardcoded secrets** — Credentials exposed
+- ⚠️ **No audit logging** — Can't detect breaches
+- ⚠️ **Dependencies out of date** — Known vulnerabilities present
+- ⚠️ **Compliance ignored** — Regulatory risk
+- ⚠️ **No security reviews** — Vulnerabilities missed
+- ⚠️ **Security treated as afterthought** — Culture problem
 
 ---
 

@@ -584,15 +584,15 @@ Reckless risk-taking fails. Smart risk-taking requires understanding potential u
 
 ## 🎯 Red Flags & Warnings
 
-⚠️ **Always asking permission** — Low confidence or over-cautious
-⚠️ **Low follow-through** — Starting things but not finishing
-⚠️ **"That's not my job"** — Low ownership mentality
-⚠️ **Spots problems but doesn't act** — Low confidence or unclear scope
-⚠️ **Acts without thinking** — Reckless, not smart risk-taking
-⚠️ **Low energy** — Lack of intrinsic motivation
-⚠️ **Blames others** — Not taking ownership
-⚠️ **Same mistakes repeated** — Not learning from failures
-⚠️ **No improvements suggested** — Not spotting opportunities
+- ⚠️ **Always asking permission** — Low confidence or over-cautious
+- ⚠️ **Low follow-through** — Starting things but not finishing
+- ⚠️ **"That's not my job"** — Low ownership mentality
+- ⚠️ **Spots problems but doesn't act** — Low confidence or unclear scope
+- ⚠️ **Acts without thinking** — Reckless, not smart risk-taking
+- ⚠️ **Low energy** — Lack of intrinsic motivation
+- ⚠️ **Blames others** — Not taking ownership
+- ⚠️ **Same mistakes repeated** — Not learning from failures
+- ⚠️ **No improvements suggested** — Not spotting opportunities
 
 ---
 

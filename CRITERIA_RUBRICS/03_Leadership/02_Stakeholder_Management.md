@@ -507,14 +507,14 @@ You're more powerful in alliance with others than alone. Build coalitions of peo
 
 ## 🎯 Red Flags & Warnings
 
-⚠️ **Initiatives regularly stall** despite having good support—indicates influence/communication gap
-⚠️ **Low visibility with leadership**—indicates not managing up effectively
-⚠️ **Stakeholders surprised by decisions** you made—indicates communication gaps
-⚠️ **Can't name stakeholders** or what they care about—indicates lack of awareness
-⚠️ **Only communicate with manager**—indicates not building relationships
-⚠️ **Defensive about org politics**—indicates not seeing it as how work gets done
-⚠️ **High conflict** with stakeholders—indicates trust or communication issue
-⚠️ **Limited network** to people like you—indicates not building diverse relationships
+- ⚠️ **Initiatives regularly stall** despite having good support—indicates influence/communication gap
+- ⚠️ **Low visibility with leadership**—indicates not managing up effectively
+- ⚠️ **Stakeholders surprised by decisions** you made—indicates communication gaps
+- ⚠️ **Can't name stakeholders** or what they care about—indicates lack of awareness
+- ⚠️ **Only communicate with manager**—indicates not building relationships
+- ⚠️ **Defensive about org politics**—indicates not seeing it as how work gets done
+- ⚠️ **High conflict** with stakeholders—indicates trust or communication issue
+- ⚠️ **Limited network** to people like you—indicates not building diverse relationships
 
 ---
 

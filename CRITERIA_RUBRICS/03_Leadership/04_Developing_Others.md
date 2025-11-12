@@ -566,15 +566,15 @@ Development requires ongoing follow-up. Don't just have one conversation and exp
 
 ## 🎯 Red Flags & Warnings
 
-⚠️ **No one from team promoted** — People aren't developing or leaving for growth
-⚠️ **Team members plateau** — Development isn't happening
-⚠️ **High turnover** — People leaving for better development elsewhere
-⚠️ **Development is ad-hoc** — Depends on manager's time, not consistent
-⚠️ **No development plans** — Development not intentional
-⚠️ **Can't articulate coaching approach** — No real framework
-⚠️ **Inconsistent approach** — Develops some people, ignores others
-⚠️ **Defensive about development** — Not seeing it as their responsibility
-⚠️ **No follow-up** — Set goals but don't track progress
+- ⚠️ **No one from team promoted** — People aren't developing or leaving for growth
+- ⚠️ **Team members plateau** — Development isn't happening
+- ⚠️ **High turnover** — People leaving for better development elsewhere
+- ⚠️ **Development is ad-hoc** — Depends on manager's time, not consistent
+- ⚠️ **No development plans** — Development not intentional
+- ⚠️ **Can't articulate coaching approach** — No real framework
+- ⚠️ **Inconsistent approach** — Develops some people, ignores others
+- ⚠️ **Defensive about development** — Not seeing it as their responsibility
+- ⚠️ **No follow-up** — Set goals but don't track progress
 
 ---
 

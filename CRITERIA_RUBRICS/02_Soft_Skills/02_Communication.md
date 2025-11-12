@@ -609,15 +609,15 @@ Generally, you under-communicate. People remember maybe 20% of what you said. Sa
 
 ## 🎯 Red Flags & Warnings
 
-⚠️ **People say "I don't understand"** — Message not getting through
-⚠️ **Talks more than listens** — Missing important perspectives
-⚠️ **Same explanation for everyone** — Not audience-aware
-⚠️ **Rambling or tangential** — Structure lacking
-⚠️ **Doesn't check understanding** — Assuming instead of confirming
-⚠️ **Gets frustrated explaining** — Impatience showing
-⚠️ **Interrupts frequently** — Not really listening
-⚠️ **Unclear written communication** — Thinking unclear
-⚠️ **Doesn't adjust when misunderstood** — Stubborn, not responsive
+- ⚠️ **People say "I don't understand"** — Message not getting through
+- ⚠️ **Talks more than listens** — Missing important perspectives
+- ⚠️ **Same explanation for everyone** — Not audience-aware
+- ⚠️ **Rambling or tangential** — Structure lacking
+- ⚠️ **Doesn't check understanding** — Assuming instead of confirming
+- ⚠️ **Gets frustrated explaining** — Impatience showing
+- ⚠️ **Interrupts frequently** — Not really listening
+- ⚠️ **Unclear written communication** — Thinking unclear
+- ⚠️ **Doesn't adjust when misunderstood** — Stubborn, not responsive
 
 ---
 

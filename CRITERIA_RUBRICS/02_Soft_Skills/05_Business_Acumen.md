@@ -595,16 +595,16 @@ Many people can solve technical problems. The people who truly create value are 
 
 ## 🎯 Red Flags & Warnings
 
-⚠️ **Doesn't know who the customer is** — Missing crucial context
-⚠️ **Treats all work as equally important** — Prioritization problems
-⚠️ **"That's not my job" about business** — Limiting growth
-⚠️ **Doesn't consider ROI** — Potentially wasteful
-⚠️ **Prioritizes technically interesting** — May not deliver business value
-⚠️ **Doesn't ask about business implications** — Risks misalignment
-⚠️ **Ignores competitive context** — Disconnected from market
-⚠️ **No customer empathy** — Misses customer needs
-⚠️ **Doesn't understand priorities** — May work on wrong things
-⚠️ **No strategic thinking** — Only sees immediate task
+- ⚠️ **Doesn't know who the customer is** — Missing crucial context
+- ⚠️ **Treats all work as equally important** — Prioritization problems
+- ⚠️ **"That's not my job" about business** — Limiting growth
+- ⚠️ **Doesn't consider ROI** — Potentially wasteful
+- ⚠️ **Prioritizes technically interesting** — May not deliver business value
+- ⚠️ **Doesn't ask about business implications** — Risks misalignment
+- ⚠️ **Ignores competitive context** — Disconnected from market
+- ⚠️ **No customer empathy** — Misses customer needs
+- ⚠️ **Doesn't understand priorities** — May work on wrong things
+- ⚠️ **No strategic thinking** — Only sees immediate task
 
 ---
 
