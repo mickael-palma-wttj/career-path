@@ -88,7 +88,7 @@ Good motivations (helping people) mixed with concerning ones (feeling stuck, wan
 - Handling performance issues (difficult conversations)
 - Dealing with ambiguity and politics
 - Much less coding (I code ~5 hours/week vs. 30+ when I was IC)
--责任 for others' work (you don't write code, you enable others to)
+- Responsibility for others' work (you don't write code, you enable others to)
 - Being "on" emotionally—people need you
 - Firefighting and unblocking constantly
 - Administrative work (reviews, planning, budget)
