@@ -20,6 +20,8 @@ Ready-to-use templates and resources for common manager tasks. Copy, customize, 
 
 **Why it helps:** Ensures 1:1s are productive and balanced between tactical updates and career development
 
+**→ [Use: 1:1 Meeting Agenda](./1on1_Agenda_Template.md)**
+
 ---
 
 ### 2️⃣ Coaching_Conversation_Starters.md
@@ -35,6 +37,8 @@ Ready-to-use templates and resources for common manager tasks. Copy, customize, 
 - Ways to explore motivations and concerns
 
 **Why it helps:** Gives you actual words to say when conversations feel uncomfortable
+
+**→ [Use: Coaching Phrases and Conversation Starters](./Coaching_Conversation_Starters.md)**
 
 ---
 
@@ -54,6 +58,8 @@ Ready-to-use templates and resources for common manager tasks. Copy, customize, 
 
 **Why it helps:** Creates accountability and clarity about what success looks like
 
+**→ [Use: Development Plan Template](./Development_Plan_Template.md)**
+
 ---
 
 ### 4️⃣ Feedback_Form_Template.md
@@ -71,6 +77,8 @@ Ready-to-use templates and resources for common manager tasks. Copy, customize, 
 - Open-ended feedback area
 
 **Why it helps:** Gets structured, actionable feedback rather than vague impressions
+
+**→ [Use: Feedback Collection Form](./Feedback_Form_Template.md)**
 
 ---
 
@@ -90,6 +98,8 @@ Ready-to-use templates and resources for common manager tasks. Copy, customize, 
 
 **Why it helps:** Goals become specific and achievable rather than vague aspirations
 
+**→ [Use: Goal Setting Template](./Goal_Setting_Template.md)**
+
 ---
 
 ### 6️⃣ Interview_Questions_By_Level.md
@@ -105,6 +115,8 @@ Ready-to-use templates and resources for common manager tasks. Copy, customize, 
 - Follow-up probes to go deeper
 
 **Why it helps:** Ensures consistent hiring bar across levels and interviewers
+
+**→ [Use: Interview Questions by Level](./Interview_Questions_By_Level.md)**
 
 ---
 
@@ -125,6 +137,8 @@ Ready-to-use templates and resources for common manager tasks. Copy, customize, 
 
 **Why it helps:** Creates clear expectations and documented process for managing underperformance
 
+**→ [Use: Performance Improvement Plan](./PIP_Template.md)**
+
 ---
 
 ### 8️⃣ Peer_Feedback_Template.md
@@ -141,6 +155,8 @@ Ready-to-use templates and resources for common manager tasks. Copy, customize, 
 - Confidentiality note
 
 **Why it helps:** Gets concrete feedback quickly, easier for busy peers than free-form requests
+
+**→ [Use: Peer Feedback Form](./Peer_Feedback_Template.md)**
 
 ---
 
@@ -161,6 +177,8 @@ Ready-to-use templates and resources for common manager tasks. Copy, customize, 
 - Final decision checklist
 
 **Why it helps:** Ensures you've done thorough due diligence before promoting, reduces bias
+
+**→ [Use: Promotion Evaluation Checklist](./Promotion_Evaluation_Checklist.md)**
 
 ---
 
@@ -183,30 +201,32 @@ Ready-to-use templates and resources for common manager tasks. Copy, customize, 
 
 **Why it helps:** Creates clear, compelling case for promotion, helps get buy-in from leadership
 
+**→ [Use: Promotion Packet](./Promotion_Packet_Template.md)**
+
 ---
 
 ## 🎯 Quick Guide: Which Template When?
 
 ### Regular 1:1 Meetings
-→ **[1on1_Agenda_Template.md](./1on1_Agenda_Template.md)**
+→ **[1:1 Meeting Agenda](./1on1_Agenda_Template.md)**
 
 ### Setting Career Goals
-→ **[Goal_Setting_Template.md](./Goal_Setting_Template.md)** + **[Development_Plan_Template.md](./Development_Plan_Template.md)**
+→ **[Goal Setting Framework](./Goal_Setting_Template.md)** + **[Development Plan Template](./Development_Plan_Template.md)**
 
 ### Having Difficult Conversations
-→ **[Coaching_Conversation_Starters.md](./Coaching_Conversation_Starters.md)**
+→ **[Coaching Phrases and Conversation Starters](./Coaching_Conversation_Starters.md)**
 
 ### Evaluating for Promotion
-→ **[Promotion_Evaluation_Checklist.md](./Promotion_Evaluation_Checklist.md)** → **[Feedback_Form_Template.md](./Feedback_Form_Template.md)** → **[Promotion_Packet_Template.md](./Promotion_Packet_Template.md)**
+→ **[Promotion Evaluation Checklist](./Promotion_Evaluation_Checklist.md)** → **[Feedback Collection Form](./Feedback_Form_Template.md)** → **[Promotion Packet](./Promotion_Packet_Template.md)**
 
 ### Managing Underperformance
-→ **[Coaching_Conversation_Starters.md](./Coaching_Conversation_Starters.md)** → **[PIP_Template.md](./PIP_Template.md)**
+→ **[Coaching Phrases and Conversation Starters](./Coaching_Conversation_Starters.md)** → **[Performance Improvement Plan](./PIP_Template.md)**
 
 ### Hiring New ICs
-→ **[Interview_Questions_By_Level.md](./Interview_Questions_By_Level.md)**
+→ **[Interview Questions by Level](./Interview_Questions_By_Level.md)**
 
 ### Gathering Feedback
-→ **[Feedback_Form_Template.md](./Feedback_Form_Template.md)** or **[Peer_Feedback_Template.md](./Peer_Feedback_Template.md)**
+→ **[Feedback Collection Form](./Feedback_Form_Template.md)** or **[Peer Feedback Form](./Peer_Feedback_Template.md)**
 
 ---
 
@@ -257,9 +277,9 @@ Ready-to-use templates and resources for common manager tasks. Copy, customize, 
 ## 🚀 Getting Started
 
 **New to this framework?**
-1. Start with [1on1_Agenda_Template.md](./1on1_Agenda_Template.md) - use in your next 1:1
-2. Look at [Coaching_Conversation_Starters.md](./Coaching_Conversation_Starters.md) - bookmark for when you need courage
-3. Try [Development_Plan_Template.md](./Development_Plan_Template.md) - use with next IC who needs clarity
+1. Start with [1:1 Meeting Agenda](./1on1_Agenda_Template.md) - use in your next 1:1
+2. Look at [Coaching Phrases and Conversation Starters](./Coaching_Conversation_Starters.md) - bookmark for when you need courage
+3. Try [Development Plan Template](./Development_Plan_Template.md) - use with next IC who needs clarity
 
 **Preparing for a specific task?**
 - Use the Quick Guide above to find your template
